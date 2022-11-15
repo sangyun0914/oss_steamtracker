@@ -27,14 +27,18 @@ def parse(data):
         title = game.find('span', {'class':'title'}).text
 
         discount_rate = game.find('div', {'class':'search_discount'}).text.strip()
+        if not discount_rate:
+            discount_rate = None
 
         try: 
-            price = game.find('div', {'class':'search_price'}).text.strip().split('₩')[1]
+            price = game.find('div', {'class':'search_price'}).text.strip().split('₩')[1].strip()
+            price = int(price.replace(',', ''))
         except:
             price = 0
 
         try:
-            discounted = game.find('div', {'class':'search_price'}).text.strip().split('₩')[2]
+            discounted = game.find('div', {'class':'search_price'}).text.strip().split('₩')[2].strip()
+            discounted = int(discounted.replace(',', ''))
         except:
             discounted = price
 
@@ -65,7 +69,7 @@ def store_json(result):
 
 def main():
     output = []
-    
+
     # Change accordingly 
     numGames = 100 
     for i in range (0, numGames+1, 50):
