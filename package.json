@@ -1,0 +1,22 @@
+{
+  "name": "oss_steamtracker",
+  "version": "1.0.0",
+  "description": "Open-Source Software Final Project - SteamTracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seeewd/oss_steamtracker.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seeewd/oss_steamtracker/issues"
+  },
+  "homepage": "https://github.com/seeewd/oss_steamtracker#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
