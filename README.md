@@ -1,6 +1,6 @@
 # oss_steamtracker
 
-make frontend with react
+make frontend with react  
 how to start
 
 1. nvm use 16.10.0
