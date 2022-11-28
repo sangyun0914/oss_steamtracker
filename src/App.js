@@ -1,26 +1,20 @@
 import logo from './logo.svg'
 import './App.css'
 import './sort_search/sort_search.js'
-import './web-scraping/scraped.json'
+import steamData from './web-scraping/scraped.json'
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  )
+  const newSteamData = steamData.map((item, index) => {
+    return (
+      <li key={index}>
+        {item.title} / {item.price} /{' '}
+        {item['discount rate'] === null
+          ? 'No discount.'
+          : item['discount rate']}{' '}
+        /{item.discounted}
+      </li>
+    )
+  })
+  return <div className="App">{newSteamData}</div>
 }
 
 export default App
