@@ -68,7 +68,8 @@ function parseSteam(url) {
               .replaceAll(",", "")
           );
         } catch {
-          discounted = 0;
+          if (price !== 0) discounted = price;
+          else discounted = 0;
         }
 
         imgSmall = $(tag).find("img").attr("srcset").split(" ")[0]; // Image 1x
