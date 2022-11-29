@@ -22,12 +22,18 @@ function parseSteam(url) {
 
       // Loop through games
       list.each((i, tag) => {
-        let title, discount_rate, price, discounted, imgSmall, imgBig, link;
+        let title,
+          discount_rate,
+          price,
+          discounted,
+          imgSmall,
+          imgBig,
+          link,
+          platform = [];
 
         title = $(tag).find(".title").text();
 
         discount_rate = $(tag).find(".search_discount").text().trim();
-
         if (discount_rate === "") discount_rate = null;
 
         try {
@@ -63,6 +69,15 @@ function parseSteam(url) {
 
         link = $(tag).attr("href");
 
+        $(tag)
+          .find(".platform_img")
+          .each(function (index, element) {
+            platform.push(
+              $(element).attr("class").replaceAll("platform_img", "").trim()
+            );
+          });
+
+        // Game object
         mygame = {
           title: title,
           "discount rate": discount_rate,
@@ -71,11 +86,13 @@ function parseSteam(url) {
           imgSmall: imgSmall,
           imgBig: imgBig,
           link: link,
+          platform: platform,
         };
 
         gameslist.push(mygame);
       });
 
+      // Save to json
       const jsonData = JSON.stringify(gameslist, null, 4);
       fs.writeFile("./scraped.json", jsonData, function (err) {
         if (err) {
