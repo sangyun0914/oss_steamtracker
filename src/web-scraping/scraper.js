@@ -1,6 +1,7 @@
 const https = require("https");
 const cheerio = require("cheerio");
 const fs = require("fs");
+const { release } = require("os");
 
 let url =
   "https://store.steampowered.com/search/results/?query&start=0&count=50&dynamic_data=&sort_by=_ASC&os=win&supportedlang=english&snr=1_7_7_7000_7&filter=topsellers&infinite=1";
@@ -29,7 +30,8 @@ function parseSteam(url) {
           imgSmall,
           imgBig,
           link,
-          platform = [];
+          platform = [],
+          release_date;
 
         title = $(tag).find(".title").text();
 
@@ -77,6 +79,8 @@ function parseSteam(url) {
             );
           });
 
+        release_date = $(tag).find(".search_released").text().trim();
+
         // Game object
         mygame = {
           title: title,
@@ -87,6 +91,7 @@ function parseSteam(url) {
           imgBig: imgBig,
           link: link,
           platform: platform,
+          release_date: release_date,
         };
 
         gameslist.push(mygame);
