@@ -1,671 +1,771 @@
 [
     {
         "title": "Red Dead Redemption 2",
+        "release_date": "5 Dec, 2019",
+        "link": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/?snr=1_7_7_7000_150_1",
         "discount rate": "-67%",
         "price": 66000,
         "discounted": 21780,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/capsule_sm_120.jpg?t=1656615305",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/capsule_231x87.jpg?t=1656615305",
-        "link": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/?snr=1_7_7_7000_150_1",
+        "review": "Very Positive",
+        "rating": "89% of the 289,692 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "5 Dec, 2019"
+        ]
     },
     {
         "title": "Project Zomboid",
+        "release_date": "8 Nov, 2013",
+        "link": "https://store.steampowered.com/app/108600/Project_Zomboid/?snr=1_7_7_7000_150_1",
         "discount rate": "-33%",
         "price": 20500,
         "discounted": 13730,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/108600/capsule_sm_120.jpg?t=1667832656",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/108600/capsule_231x87.jpg?t=1667832656",
-        "link": "https://store.steampowered.com/app/108600/Project_Zomboid/?snr=1_7_7_7000_150_1",
+        "review": "Very Positive",
+        "rating": "93% of the 108,558 user reviews for this game are positive.",
         "platform": [
             "win",
             "mac",
             "linux"
-        ],
-        "release_date": "8 Nov, 2013"
+        ]
     },
     {
         "title": "Cyberpunk 2077",
+        "release_date": "9 Dec, 2020",
+        "link": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/?snr=1_7_7_7000_150_1",
         "discount rate": "-50%",
         "price": 66000,
         "discounted": 33000,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_sm_120.jpg?t=1663663573",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_231x87.jpg?t=1663663573",
-        "link": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/?snr=1_7_7_7000_150_1",
+        "review": "Mostly Positive",
+        "rating": "78% of the 495,659 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "9 Dec, 2020"
+        ]
     },
     {
         "title": "DJMAX RESPECT V",
+        "release_date": "11 Mar, 2020",
+        "link": "https://store.steampowered.com/app/960170/DJMAX_RESPECT_V/?snr=1_7_7_7000_150_1",
         "discount rate": "-75%",
         "price": 49800,
         "discounted": 12450,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/960170/capsule_sm_120.jpg?t=1666858912",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/960170/capsule_231x87.jpg?t=1666858912",
-        "link": "https://store.steampowered.com/app/960170/DJMAX_RESPECT_V/?snr=1_7_7_7000_150_1",
+        "review": "Very Positive",
+        "rating": "87% of the 17,510 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "11 Mar, 2020"
+        ]
     },
     {
         "title": "EA SPORTS™ FIFA 23",
+        "release_date": "29 Sep, 2022",
+        "link": "https://store.steampowered.com/app/1811260/EA_SPORTS_FIFA_23/?snr=1_7_7_7000_150_1",
         "discount rate": "-40%",
         "price": 77000,
         "discounted": 46200,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1811260/capsule_sm_120_alt_assets_0.jpg?t=1669311247",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1811260/capsule_231x87_alt_assets_0.jpg?t=1669311247",
-        "link": "https://store.steampowered.com/app/1811260/EA_SPORTS_FIFA_23/?snr=1_7_7_7000_150_1",
+        "review": "Mixed",
+        "rating": "47% of the 27,235 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "29 Sep, 2022"
-    },
-    {
-        "title": "Persona 5 Royal",
-        "discount rate": "-30%",
-        "price": 69800,
-        "discounted": 48860,
-        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1687950/capsule_sm_120.jpg?t=1666698742",
-        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1687950/capsule_231x87.jpg?t=1666698742",
-        "link": "https://store.steampowered.com/app/1687950/Persona_5_Royal/?snr=1_7_7_7000_150_1",
-        "platform": [
-            "win"
-        ],
-        "release_date": "20 Oct, 2022"
+        ]
     },
     {
         "title": "Marvel’s Spider-Man Remastered",
+        "release_date": "12 Aug, 2022",
+        "link": "https://store.steampowered.com/app/1817070/Marvels_SpiderMan_Remastered/?snr=1_7_7_7000_150_1",
         "discount rate": "-25%",
         "price": 58800,
         "discounted": 44100,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817070/capsule_sm_120.jpg?t=1667406675",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817070/capsule_231x87.jpg?t=1667406675",
-        "link": "https://store.steampowered.com/app/1817070/Marvels_SpiderMan_Remastered/?snr=1_7_7_7000_150_1",
+        "review": "Overwhelmingly Positive",
+        "rating": "97% of the 34,779 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "12 Aug, 2022"
+        ]
+    },
+    {
+        "title": "Persona 5 Royal",
+        "release_date": "20 Oct, 2022",
+        "link": "https://store.steampowered.com/app/1687950/Persona_5_Royal/?snr=1_7_7_7000_150_1",
+        "discount rate": "-30%",
+        "price": 69800,
+        "discounted": 48860,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1687950/capsule_sm_120.jpg?t=1666698742",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1687950/capsule_231x87.jpg?t=1666698742",
+        "review": "Overwhelmingly Positive",
+        "rating": "97% of the 14,307 user reviews for this game are positive.",
+        "platform": [
+            "win"
+        ]
     },
     {
         "title": "Yu-Gi-Oh! Master Duel",
+        "release_date": "18 Jan, 2022",
+        "link": "https://store.steampowered.com/app/1449850/YuGiOh_Master_Duel/?snr=1_7_7_7000_150_1",
         "discount rate": null,
         "price": 0,
         "discounted": 0,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1449850/capsule_sm_120.jpg?t=1648616316",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1449850/capsule_231x87.jpg?t=1648616316",
-        "link": "https://store.steampowered.com/app/1449850/YuGiOh_Master_Duel/?snr=1_7_7_7000_150_1",
+        "review": "Mostly Positive",
+        "rating": "77% of the 52,187 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "18 Jan, 2022"
+        ]
     },
     {
         "title": "Sid Meier’s Civilization® VI",
+        "release_date": "20 Oct, 2016",
+        "link": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/?snr=1_7_7_7000_150_1",
         "discount rate": "-90%",
         "price": 65000,
         "discounted": 6500,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/289070/capsule_sm_120.jpg?t=1669055236",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/289070/capsule_231x87.jpg?t=1669055236",
-        "link": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/?snr=1_7_7_7000_150_1",
+        "review": "Very Positive",
+        "rating": "84% of the 172,428 user reviews for this game are positive.",
         "platform": [
             "win",
             "mac",
             "linux"
-        ],
-        "release_date": "20 Oct, 2016"
+        ]
     },
     {
         "title": "MONSTER HUNTER RISE",
+        "release_date": "12 Jan, 2022",
+        "link": "https://store.steampowered.com/app/1446780/MONSTER_HUNTER_RISE/?snr=1_7_7_7000_150_1",
         "discount rate": "-50%",
         "price": 48400,
         "discounted": 24200,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1446780/capsule_sm_120.jpg?t=1669252485",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1446780/capsule_231x87.jpg?t=1669252485",
-        "link": "https://store.steampowered.com/app/1446780/MONSTER_HUNTER_RISE/?snr=1_7_7_7000_150_1",
+        "review": "Very Positive",
+        "rating": "87% of the 38,659 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "12 Jan, 2022"
+        ]
     },
     {
         "title": "PUBG: BATTLEGROUNDS",
+        "release_date": "21 Dec, 2017",
+        "link": "https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/?snr=1_7_7_7000_150_1",
         "discount rate": null,
         "price": 0,
         "discounted": 0,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/capsule_sm_120.jpg?t=1667814365",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/capsule_231x87.jpg?t=1667814365",
-        "link": "https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/?snr=1_7_7_7000_150_1",
+        "review": "Mixed",
+        "rating": "56% of the 2,109,158 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "21 Dec, 2017"
+        ]
     },
     {
         "title": "The Witcher® 3: Wild Hunt",
+        "release_date": "18 May, 2015",
+        "link": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/?snr=1_7_7_7000_150_1",
         "discount rate": "-80%",
         "price": 34800,
         "discounted": 6960,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/capsule_sm_120.jpg?t=1668443314",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/capsule_231x87.jpg?t=1668443314",
-        "link": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/?snr=1_7_7_7000_150_1",
+        "review": "Overwhelmingly Positive",
+        "rating": "97% of the 546,635 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "18 May, 2015"
+        ]
     },
     {
         "title": "Raft",
+        "release_date": "20 Jun, 2022",
+        "link": "https://store.steampowered.com/app/648800/Raft/?snr=1_7_7_7000_150_1",
         "discount rate": "-33%",
         "price": 21000,
         "discounted": 14070,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/648800/capsule_sm_120.jpg?t=1655744208",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/648800/capsule_231x87.jpg?t=1655744208",
-        "link": "https://store.steampowered.com/app/648800/Raft/?snr=1_7_7_7000_150_1",
+        "review": "Very Positive",
+        "rating": "93% of the 203,884 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "20 Jun, 2022"
-    },
-    {
-        "title": "Football Manager 2023",
-        "discount rate": null,
-        "price": 59000,
-        "discounted": 0,
-        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1904540/capsule_sm_120.jpg?t=1668082258",
-        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1904540/capsule_231x87.jpg?t=1668082258",
-        "link": "https://store.steampowered.com/app/1904540/Football_Manager_2023/?snr=1_7_7_7000_150_1",
-        "platform": [
-            "win",
-            "mac"
-        ],
-        "release_date": "7 Nov, 2022"
+        ]
     },
     {
         "title": "Call of Duty®: Modern Warfare® II",
+        "release_date": "27 Oct, 2022",
+        "link": "https://store.steampowered.com/app/1938090/Call_of_Duty_Modern_Warfare_II/?snr=1_7_7_7000_150_1",
         "discount rate": null,
         "price": 84500,
         "discounted": 0,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1938090/capsule_sm_120.jpg?t=1668813907",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1938090/capsule_231x87.jpg?t=1668813907",
-        "link": "https://store.steampowered.com/app/1938090/Call_of_Duty_Modern_Warfare_II/?snr=1_7_7_7000_150_1",
+        "review": "Mixed",
+        "rating": "64% of the 208,008 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "27 Oct, 2022"
+        ]
     },
     {
         "title": "Forza Horizon 5",
+        "release_date": "8 Nov, 2021",
+        "link": "https://store.steampowered.com/app/1551360/Forza_Horizon_5/?snr=1_7_7_7000_150_1",
         "discount rate": "-35%",
         "price": 59900,
         "discounted": 38930,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/capsule_sm_120.jpg?t=1668017884",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/capsule_231x87.jpg?t=1668017884",
-        "link": "https://store.steampowered.com/app/1551360/Forza_Horizon_5/?snr=1_7_7_7000_150_1",
+        "review": "Very Positive",
+        "rating": "88% of the 88,486 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "8 Nov, 2021"
+        ]
+    },
+    {
+        "title": "Football Manager 2023",
+        "release_date": "7 Nov, 2022",
+        "link": "https://store.steampowered.com/app/1904540/Football_Manager_2023/?snr=1_7_7_7000_150_1",
+        "discount rate": null,
+        "price": 59000,
+        "discounted": 0,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1904540/capsule_sm_120.jpg?t=1668082258",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1904540/capsule_231x87.jpg?t=1668082258",
+        "review": "Very Positive",
+        "rating": "84% of the 3,958 user reviews for this game are positive.",
+        "platform": [
+            "win",
+            "mac"
+        ]
     },
     {
         "title": "God of War",
+        "release_date": "14 Jan, 2022",
+        "link": "https://store.steampowered.com/app/1593500/God_of_War/?snr=1_7_7_7000_150_1",
         "discount rate": "-25%",
         "price": 45800,
         "discounted": 34350,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/capsule_sm_120.jpg?t=1650554420",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/capsule_231x87.jpg?t=1650554420",
-        "link": "https://store.steampowered.com/app/1593500/God_of_War/?snr=1_7_7_7000_150_1",
+        "review": "Overwhelmingly Positive",
+        "rating": "97% of the 51,567 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "14 Jan, 2022"
-    },
-    {
-        "title": "Sekiro™: Shadows Die Twice - GOTY Edition",
-        "discount rate": "-50%",
-        "price": 59800,
-        "discounted": 29900,
-        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/capsule_sm_120.jpg?t=1669076148",
-        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/capsule_231x87.jpg?t=1669076148",
-        "link": "https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/?snr=1_7_7_7000_150_1",
-        "platform": [
-            "win"
-        ],
-        "release_date": "21 Mar, 2019"
+        ]
     },
     {
         "title": "Apex Legends™",
+        "release_date": "4 Nov, 2020",
+        "link": "https://store.steampowered.com/app/1172470/Apex_Legends/?snr=1_7_7_7000_150_1",
         "discount rate": null,
         "price": 0,
         "discounted": 0,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/capsule_sm_120.jpg?t=1667588841",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/capsule_231x87.jpg?t=1667588841",
-        "link": "https://store.steampowered.com/app/1172470/Apex_Legends/?snr=1_7_7_7000_150_1",
+        "review": "Very Positive",
+        "rating": "85% of the 538,666 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "4 Nov, 2020"
+        ]
+    },
+    {
+        "title": "Sekiro™: Shadows Die Twice - GOTY Edition",
+        "release_date": "21 Mar, 2019",
+        "link": "https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/?snr=1_7_7_7000_150_1",
+        "discount rate": "-50%",
+        "price": 59800,
+        "discounted": 29900,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/capsule_sm_120.jpg?t=1669076148",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/capsule_231x87.jpg?t=1669076148",
+        "review": "Very Positive",
+        "rating": "94% of the 146,791 user reviews for this game are positive.",
+        "platform": [
+            "win"
+        ]
     },
     {
         "title": "It Takes Two",
+        "release_date": "25 Mar, 2021",
+        "link": "https://store.steampowered.com/app/1426210/It_Takes_Two/?snr=1_7_7_7000_150_1",
         "discount rate": "-60%",
         "price": 44000,
         "discounted": 17600,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1426210/capsule_sm_120.jpg?t=1666121755",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1426210/capsule_231x87.jpg?t=1666121755",
-        "link": "https://store.steampowered.com/app/1426210/It_Takes_Two/?snr=1_7_7_7000_150_1",
+        "review": "Overwhelmingly Positive",
+        "rating": "95% of the 91,984 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "25 Mar, 2021"
-    },
-    {
-        "title": "The Callisto Protocol™",
-        "discount rate": null,
-        "price": 74800,
-        "discounted": 0,
-        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1544020/capsule_sm_120.jpg?t=1669670407",
-        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1544020/capsule_231x87.jpg?t=1669670407",
-        "link": "https://store.steampowered.com/app/1544020/The_Callisto_Protocol/?snr=1_7_7_7000_150_1",
-        "platform": [
-            "win"
-        ],
-        "release_date": "2 Dec, 2022"
+        ]
     },
     {
         "title": "Grand Theft Auto V",
+        "release_date": "13 Apr, 2015",
+        "link": "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/?snr=1_7_7_7000_150_1",
         "discount rate": null,
         "price": 0,
         "discounted": 0,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/capsule_sm_120.jpg?t=1667343890",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/capsule_231x87.jpg?t=1667343890",
-        "link": "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/?snr=1_7_7_7000_150_1",
+        "review": "Very Positive",
+        "rating": "85% of the 1,312,983 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "13 Apr, 2015"
+        ]
     },
     {
-        "title": "Grounded",
-        "discount rate": "-25%",
-        "price": 39900,
-        "discounted": 29920,
-        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/962130/capsule_sm_120.jpg?t=1664324694",
-        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/962130/capsule_231x87.jpg?t=1664324694",
-        "link": "https://store.steampowered.com/app/962130/Grounded/?snr=1_7_7_7000_150_1",
+        "title": "The Callisto Protocol™",
+        "release_date": "2 Dec, 2022",
+        "link": "https://store.steampowered.com/app/1544020/The_Callisto_Protocol/?snr=1_7_7_7000_150_1",
+        "discount rate": null,
+        "price": 74800,
+        "discounted": 0,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1544020/capsule_sm_120.jpg?t=1669670407",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1544020/capsule_231x87.jpg?t=1669670407",
+        "review": null,
+        "rating": null,
         "platform": [
             "win"
-        ],
-        "release_date": "27 Sep, 2022"
+        ]
     },
     {
         "title": "Ready or Not",
+        "release_date": "17 Dec, 2021",
+        "link": "https://store.steampowered.com/app/1144200/Ready_or_Not/?snr=1_7_7_7000_150_1",
         "discount rate": "-15%",
         "price": 43000,
         "discounted": 36550,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1144200/capsule_sm_120.jpg?t=1667401209",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1144200/capsule_231x87.jpg?t=1667401209",
-        "link": "https://store.steampowered.com/app/1144200/Ready_or_Not/?snr=1_7_7_7000_150_1",
+        "review": "Very Positive",
+        "rating": "93% of the 66,703 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "17 Dec, 2021"
+        ]
+    },
+    {
+        "title": "Grounded",
+        "release_date": "27 Sep, 2022",
+        "link": "https://store.steampowered.com/app/962130/Grounded/?snr=1_7_7_7000_150_1",
+        "discount rate": "-25%",
+        "price": 39900,
+        "discounted": 29920,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/962130/capsule_sm_120.jpg?t=1664324694",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/962130/capsule_231x87.jpg?t=1664324694",
+        "review": "Very Positive",
+        "rating": "88% of the 34,838 user reviews for this game are positive.",
+        "platform": [
+            "win"
+        ]
     },
     {
         "title": "Total War: THREE KINGDOMS",
+        "release_date": "23 May, 2019",
+        "link": "https://store.steampowered.com/app/779340/Total_War_THREE_KINGDOMS/?snr=1_7_7_7000_150_1",
         "discount rate": "-66%",
         "price": 59800,
         "discounted": 20330,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/779340/capsule_sm_120.jpg?t=1668768473",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/779340/capsule_231x87.jpg?t=1668768473",
-        "link": "https://store.steampowered.com/app/779340/Total_War_THREE_KINGDOMS/?snr=1_7_7_7000_150_1",
+        "review": "Very Positive",
+        "rating": "82% of the 51,716 user reviews for this game are positive.",
         "platform": [
             "win",
             "mac",
             "linux"
-        ],
-        "release_date": "23 May, 2019"
-    },
-    {
-        "title": "FreestyleFootball R",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0,
-        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1826980/capsule_sm_120.jpg?t=1667182213",
-        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1826980/capsule_231x87.jpg?t=1667182213",
-        "link": "https://store.steampowered.com/app/1826980/FreestyleFootball_R/?snr=1_7_7_7000_150_1",
-        "platform": [
-            "win"
-        ],
-        "release_date": "13 Sep, 2022"
+        ]
     },
     {
         "title": "DAVE THE DIVER",
+        "release_date": "26 Oct, 2022",
+        "link": "https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/?snr=1_7_7_7000_150_1",
         "discount rate": null,
         "price": 24000,
         "discounted": 0,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1868140/capsule_sm_120.jpg?t=1668065344",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1868140/capsule_231x87.jpg?t=1668065344",
-        "link": "https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/?snr=1_7_7_7000_150_1",
+        "review": "Overwhelmingly Positive",
+        "rating": "97% of the 4,988 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "26 Oct, 2022"
+        ]
+    },
+    {
+        "title": "FreestyleFootball R",
+        "release_date": "13 Sep, 2022",
+        "link": "https://store.steampowered.com/app/1826980/FreestyleFootball_R/?snr=1_7_7_7000_150_1",
+        "discount rate": null,
+        "price": 0,
+        "discounted": 0,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1826980/capsule_sm_120.jpg?t=1667182213",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1826980/capsule_231x87.jpg?t=1667182213",
+        "review": "Mostly Positive",
+        "rating": "73% of the 981 user reviews for this game are positive.",
+        "platform": [
+            "win"
+        ]
     },
     {
         "title": "Stardew Valley",
+        "release_date": "26 Feb, 2016",
+        "link": "https://store.steampowered.com/app/413150/Stardew_Valley/?snr=1_7_7_7000_150_1",
         "discount rate": "-20%",
         "price": 16000,
         "discounted": 12800,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/capsule_sm_120.jpg?t=1666917466",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/capsule_231x87.jpg?t=1666917466",
-        "link": "https://store.steampowered.com/app/413150/Stardew_Valley/?snr=1_7_7_7000_150_1",
+        "review": "Overwhelmingly Positive",
+        "rating": "98% of the 435,797 user reviews for this game are positive.",
         "platform": [
             "win",
             "mac",
             "linux"
-        ],
-        "release_date": "26 Feb, 2016"
-    },
-    {
-        "title": "Horizon Zero Dawn™ Complete Edition",
-        "discount rate": "-60%",
-        "price": 45800,
-        "discounted": 18320,
-        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1151640/capsule_sm_120.jpg?t=1667297464",
-        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1151640/capsule_231x87.jpg?t=1667297464",
-        "link": "https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/?snr=1_7_7_7000_150_1",
-        "platform": [
-            "win"
-        ],
-        "release_date": "7 Aug, 2020"
+        ]
     },
     {
         "title": "Monster Hunter: World",
+        "release_date": "9 Aug, 2018",
+        "link": "https://store.steampowered.com/app/582010/Monster_Hunter_World/?snr=1_7_7_7000_150_1",
         "discount rate": "-50%",
         "price": 34900,
         "discounted": 17450,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/capsule_sm_120.jpg?t=1661838392",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/capsule_231x87.jpg?t=1661838392",
-        "link": "https://store.steampowered.com/app/582010/Monster_Hunter_World/?snr=1_7_7_7000_150_1",
+        "review": "Very Positive",
+        "rating": "87% of the 221,245 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "9 Aug, 2018"
+        ]
     },
     {
         "title": "The Forest",
+        "release_date": "30 Apr, 2018",
+        "link": "https://store.steampowered.com/app/242760/The_Forest/?snr=1_7_7_7000_150_1",
         "discount rate": "-77%",
         "price": 20500,
         "discounted": 4710,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/242760/capsule_sm_120.jpg?t=1666811027",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/242760/capsule_231x87.jpg?t=1666811027",
-        "link": "https://store.steampowered.com/app/242760/The_Forest/?snr=1_7_7_7000_150_1",
+        "review": "Overwhelmingly Positive",
+        "rating": "95% of the 360,145 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "30 Apr, 2018"
+        ]
+    },
+    {
+        "title": "Horizon Zero Dawn™ Complete Edition",
+        "release_date": "7 Aug, 2020",
+        "link": "https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/?snr=1_7_7_7000_150_1",
+        "discount rate": "-60%",
+        "price": 45800,
+        "discounted": 18320,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1151640/capsule_sm_120.jpg?t=1667297464",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1151640/capsule_231x87.jpg?t=1667297464",
+        "review": "Very Positive",
+        "rating": "86% of the 63,418 user reviews for this game are positive.",
+        "platform": [
+            "win"
+        ]
     },
     {
         "title": "BURIED STARS",
+        "release_date": "29 Nov, 2021",
+        "link": "https://store.steampowered.com/app/1025960/BURIED_STARS/?snr=1_7_7_7000_150_1",
         "discount rate": "-70%",
         "price": 41000,
         "discounted": 12300,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1025960/capsule_sm_120.jpg?t=1639477505",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1025960/capsule_231x87.jpg?t=1639477505",
-        "link": "https://store.steampowered.com/app/1025960/BURIED_STARS/?snr=1_7_7_7000_150_1",
+        "review": "Very Positive",
+        "rating": "87% of the 946 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "29 Nov, 2021"
+        ]
     },
     {
         "title": "Hades",
+        "release_date": "17 Sep, 2020",
+        "link": "https://store.steampowered.com/app/1145360/Hades/?snr=1_7_7_7000_150_1",
         "discount rate": "-40%",
         "price": 26000,
         "discounted": 15600,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/capsule_sm_120.jpg?t=1661549369",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/capsule_231x87.jpg?t=1661549369",
-        "link": "https://store.steampowered.com/app/1145360/Hades/?snr=1_7_7_7000_150_1",
+        "review": "Overwhelmingly Positive",
+        "rating": "98% of the 189,871 user reviews for this game are positive.",
         "platform": [
             "win",
             "mac"
-        ],
-        "release_date": "17 Sep, 2020"
+        ]
     },
     {
         "title": "Assassin's Creed® Odyssey",
+        "release_date": "5 Oct, 2018",
+        "link": "https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/?snr=1_7_7_7000_150_1",
         "discount rate": "-75%",
         "price": 65000,
         "discounted": 16250,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/812140/capsule_sm_120.jpg?t=1668697093",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/812140/capsule_231x87.jpg?t=1668697093",
-        "link": "https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/?snr=1_7_7_7000_150_1",
+        "review": "Very Positive",
+        "rating": "89% of the 116,299 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "5 Oct, 2018"
+        ]
     },
     {
         "title": "Back 4 Blood",
+        "release_date": "12 Oct, 2021",
+        "link": "https://store.steampowered.com/app/924970/Back_4_Blood/?snr=1_7_7_7000_150_1",
         "discount rate": "-67%",
         "price": 68800,
         "discounted": 22700,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/924970/capsule_sm_120.jpg?t=1661878309",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/924970/capsule_231x87.jpg?t=1661878309",
-        "link": "https://store.steampowered.com/app/924970/Back_4_Blood/?snr=1_7_7_7000_150_1",
+        "review": "Mixed",
+        "rating": "65% of the 31,321 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "12 Oct, 2021"
+        ]
     },
     {
         "title": "TEKKEN 7",
+        "release_date": "1 Jun, 2017",
+        "link": "https://store.steampowered.com/app/389730/TEKKEN_7/?snr=1_7_7_7000_150_1",
         "discount rate": "-85%",
         "price": 43800,
         "discounted": 6570,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/389730/capsule_sm_120.jpg?t=1666949098",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/389730/capsule_231x87.jpg?t=1666949098",
-        "link": "https://store.steampowered.com/app/389730/TEKKEN_7/?snr=1_7_7_7000_150_1",
+        "review": "Very Positive",
+        "rating": "81% of the 53,344 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "1 Jun, 2017"
-    },
-    {
-        "title": "Overcooked! 2",
-        "discount rate": "-75%",
-        "price": 26000,
-        "discounted": 6500,
-        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/728880/capsule_sm_120.jpg?t=1643298085",
-        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/728880/capsule_231x87.jpg?t=1643298085",
-        "link": "https://store.steampowered.com/app/728880/Overcooked_2/?snr=1_7_7_7000_150_1",
-        "platform": [
-            "win",
-            "mac",
-            "linux"
-        ],
-        "release_date": "7 Aug, 2018"
+        ]
     },
     {
         "title": "ARK: Survival Evolved",
+        "release_date": "27 Aug, 2017",
+        "link": "https://store.steampowered.com/app/346110/ARK_Survival_Evolved/?snr=1_7_7_7000_150_1",
         "discount rate": "-75%",
         "price": 20500,
         "discounted": 5120,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/346110/capsule_sm_120.jpg?t=1669254188",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/346110/capsule_231x87.jpg?t=1669254188",
-        "link": "https://store.steampowered.com/app/346110/ARK_Survival_Evolved/?snr=1_7_7_7000_150_1",
+        "review": "Very Positive",
+        "rating": "83% of the 451,743 user reviews for this game are positive.",
         "platform": [
             "win",
             "mac"
-        ],
-        "release_date": "27 Aug, 2017"
+        ]
     },
     {
-        "title": "Dead by Daylight",
-        "discount rate": "-60%",
-        "price": 21000,
-        "discounted": 8400,
-        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/capsule_sm_120.jpg?t=1669150759",
-        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/capsule_231x87.jpg?t=1669150759",
-        "link": "https://store.steampowered.com/app/381210/Dead_by_Daylight/?snr=1_7_7_7000_150_1",
+        "title": "Overcooked! 2",
+        "release_date": "7 Aug, 2018",
+        "link": "https://store.steampowered.com/app/728880/Overcooked_2/?snr=1_7_7_7000_150_1",
+        "discount rate": "-75%",
+        "price": 26000,
+        "discounted": 6500,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/728880/capsule_sm_120.jpg?t=1643298085",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/728880/capsule_231x87.jpg?t=1643298085",
+        "review": "Very Positive",
+        "rating": "90% of the 31,266 user reviews for this game are positive.",
         "platform": [
-            "win"
-        ],
-        "release_date": "14 Jun, 2016"
-    },
-    {
-        "title": "Dinkum",
-        "discount rate": "-20%",
-        "price": 20500,
-        "discounted": 16400,
-        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1062520/capsule_sm_120.jpg?t=1665535012",
-        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1062520/capsule_231x87.jpg?t=1665535012",
-        "link": "https://store.steampowered.com/app/1062520/Dinkum/?snr=1_7_7_7000_150_1",
-        "platform": [
-            "win"
-        ],
-        "release_date": "14 Jul, 2022"
+            "win",
+            "mac",
+            "linux"
+        ]
     },
     {
         "title": "Cities: Skylines",
+        "release_date": "10 Mar, 2015",
+        "link": "https://store.steampowered.com/app/255710/Cities_Skylines/?snr=1_7_7_7000_150_1",
         "discount rate": "-70%",
         "price": 32000,
         "discounted": 9600,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/255710/capsule_sm_120.jpg?t=1668007889",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/255710/capsule_231x87.jpg?t=1668007889",
-        "link": "https://store.steampowered.com/app/255710/Cities_Skylines/?snr=1_7_7_7000_150_1",
+        "review": "Very Positive",
+        "rating": "93% of the 157,624 user reviews for this game are positive.",
         "platform": [
             "win",
             "mac",
             "linux"
-        ],
-        "release_date": "10 Mar, 2015"
+        ]
     },
     {
-        "title": "Mount & Blade II: Bannerlord",
-        "discount rate": "-20%",
-        "price": 55000,
-        "discounted": 44000,
-        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/261550/capsule_sm_120.jpg?t=1666722041",
-        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/261550/capsule_231x87.jpg?t=1666722041",
-        "link": "https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/?snr=1_7_7_7000_150_1",
+        "title": "Dead by Daylight",
+        "release_date": "14 Jun, 2016",
+        "link": "https://store.steampowered.com/app/381210/Dead_by_Daylight/?snr=1_7_7_7000_150_1",
+        "discount rate": "-60%",
+        "price": 21000,
+        "discounted": 8400,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/capsule_sm_120.jpg?t=1669150759",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/capsule_231x87.jpg?t=1669150759",
+        "review": "Very Positive",
+        "rating": "81% of the 453,314 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "25 Oct, 2022"
+        ]
+    },
+    {
+        "title": "Dinkum",
+        "release_date": "14 Jul, 2022",
+        "link": "https://store.steampowered.com/app/1062520/Dinkum/?snr=1_7_7_7000_150_1",
+        "discount rate": "-20%",
+        "price": 20500,
+        "discounted": 16400,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1062520/capsule_sm_120.jpg?t=1665535012",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1062520/capsule_231x87.jpg?t=1665535012",
+        "review": "Overwhelmingly Positive",
+        "rating": "95% of the 10,487 user reviews for this game are positive.",
+        "platform": [
+            "win"
+        ]
     },
     {
         "title": "War Thunder",
+        "release_date": "15 Aug, 2013",
+        "link": "https://store.steampowered.com/app/236390/War_Thunder/?snr=1_7_7_7000_150_1",
         "discount rate": null,
         "price": 0,
         "discounted": 0,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/236390/capsule_sm_120.jpg?t=1669195232",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/236390/capsule_231x87.jpg?t=1669195232",
-        "link": "https://store.steampowered.com/app/236390/War_Thunder/?snr=1_7_7_7000_150_1",
+        "review": "Mostly Positive",
+        "rating": "78% of the 349,227 user reviews for this game are positive.",
         "platform": [
             "win",
             "mac",
             "linux"
-        ],
-        "release_date": "15 Aug, 2013"
-    },
-    {
-        "title": "Dying Light 2 Stay Human",
-        "discount rate": "-50%",
-        "price": 66000,
-        "discounted": 33000,
-        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/534380/capsule_sm_120.jpg?t=1668102790",
-        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/534380/capsule_231x87.jpg?t=1668102790",
-        "link": "https://store.steampowered.com/app/534380/Dying_Light_2_Stay_Human/?snr=1_7_7_7000_150_1",
-        "platform": [
-            "win"
-        ],
-        "release_date": "3 Feb, 2022"
-    },
-    {
-        "title": "DJMAX RESPECT V - V EXTENSION III PACK",
-        "discount rate": null,
-        "price": 24800,
-        "discounted": 0,
-        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/2164540/capsule_sm_120.jpg?t=1669715203",
-        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/2164540/capsule_231x87.jpg?t=1669715203",
-        "link": "https://store.steampowered.com/app/2164540/DJMAX_RESPECT_V__V_EXTENSION_III_PACK/?snr=1_7_7_7000_150_1",
-        "platform": [
-            "win"
-        ],
-        "release_date": "15 Nov, 2022"
-    },
-    {
-        "title": "The Sims™ 4",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0,
-        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/capsule_sm_120.jpg?t=1668103304",
-        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/capsule_231x87.jpg?t=1668103304",
-        "link": "https://store.steampowered.com/app/1222670/The_Sims_4/?snr=1_7_7_7000_150_1",
-        "platform": [
-            "win"
-        ],
-        "release_date": "18 Jun, 2020"
+        ]
     },
     {
         "title": "Tom Clancy's Rainbow Six® Siege",
+        "release_date": "1 Dec, 2015",
+        "link": "https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/?snr=1_7_7_7000_150_1",
         "discount rate": "-60%",
         "price": 22000,
         "discounted": 8800,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/359550/capsule_sm_120.jpg?t=1667245148",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/359550/capsule_231x87.jpg?t=1667245148",
-        "link": "https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/?snr=1_7_7_7000_150_1",
+        "review": "Very Positive",
+        "rating": "87% of the 919,782 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "1 Dec, 2015"
+        ]
     },
     {
-        "title": "Destiny 2",
+        "title": "Mount & Blade II: Bannerlord",
+        "release_date": "25 Oct, 2022",
+        "link": "https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/?snr=1_7_7_7000_150_1",
+        "discount rate": "-20%",
+        "price": 55000,
+        "discounted": 44000,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/261550/capsule_sm_120.jpg?t=1666722041",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/261550/capsule_231x87.jpg?t=1666722041",
+        "review": "Very Positive",
+        "rating": "87% of the 164,903 user reviews for this game are positive.",
+        "platform": [
+            "win"
+        ]
+    },
+    {
+        "title": "DJMAX RESPECT V - V EXTENSION III PACK",
+        "release_date": "15 Nov, 2022",
+        "link": "https://store.steampowered.com/app/2164540/DJMAX_RESPECT_V__V_EXTENSION_III_PACK/?snr=1_7_7_7000_150_1",
+        "discount rate": null,
+        "price": 24800,
+        "discounted": 0,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/2164540/capsule_sm_120.jpg?t=1669715203",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/2164540/capsule_231x87.jpg?t=1669715203",
+        "review": "Very Positive",
+        "rating": "85% of the 227 user reviews for this game are positive.",
+        "platform": [
+            "win"
+        ]
+    },
+    {
+        "title": "Dying Light 2 Stay Human",
+        "release_date": "3 Feb, 2022",
+        "link": "https://store.steampowered.com/app/534380/Dying_Light_2_Stay_Human/?snr=1_7_7_7000_150_1",
+        "discount rate": "-50%",
+        "price": 66000,
+        "discounted": 33000,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/534380/capsule_sm_120.jpg?t=1668102790",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/534380/capsule_231x87.jpg?t=1668102790",
+        "review": "Mostly Positive",
+        "rating": "79% of the 90,950 user reviews for this game are positive.",
+        "platform": [
+            "win"
+        ]
+    },
+    {
+        "title": "The Sims™ 4",
+        "release_date": "18 Jun, 2020",
+        "link": "https://store.steampowered.com/app/1222670/The_Sims_4/?snr=1_7_7_7000_150_1",
         "discount rate": null,
         "price": 0,
         "discounted": 0,
-        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1085660/capsule_sm_120.jpg?t=1661876523",
-        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1085660/capsule_231x87.jpg?t=1661876523",
-        "link": "https://store.steampowered.com/app/1085660/Destiny_2/?snr=1_7_7_7000_150_1",
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/capsule_sm_120.jpg?t=1668103304",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/capsule_231x87.jpg?t=1668103304",
+        "review": "Very Positive",
+        "rating": "86% of the 76,498 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "1 Oct, 2019"
+        ]
     },
     {
         "title": "Hollow Knight",
+        "release_date": "24 Feb, 2017",
+        "link": "https://store.steampowered.com/app/367520/Hollow_Knight/?snr=1_7_7_7000_150_1",
         "discount rate": "-50%",
         "price": 16000,
         "discounted": 8000,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/capsule_sm_120.jpg?t=1667006028",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/capsule_231x87.jpg?t=1667006028",
-        "link": "https://store.steampowered.com/app/367520/Hollow_Knight/?snr=1_7_7_7000_150_1",
+        "review": "Overwhelmingly Positive",
+        "rating": "97% of the 229,832 user reviews for this game are positive.",
         "platform": [
             "win",
             "mac",
             "linux"
-        ],
-        "release_date": "24 Feb, 2017"
+        ]
+    },
+    {
+        "title": "Destiny 2",
+        "release_date": "1 Oct, 2019",
+        "link": "https://store.steampowered.com/app/1085660/Destiny_2/?snr=1_7_7_7000_150_1",
+        "discount rate": null,
+        "price": 0,
+        "discounted": 0,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1085660/capsule_sm_120.jpg?t=1661876523",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1085660/capsule_231x87.jpg?t=1661876523",
+        "review": "Very Positive",
+        "rating": "83% of the 506,272 user reviews for this game are positive.",
+        "platform": [
+            "win"
+        ]
     },
     {
         "title": "Battlefield™ 2042",
+        "release_date": "19 Nov, 2021",
+        "link": "https://store.steampowered.com/app/1517290/Battlefield_2042/?snr=1_7_7_7000_150_1",
         "discount rate": "-67%",
         "price": 66000,
         "discounted": 21780,
         "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1517290/capsule_sm_120.jpg?t=1669221841",
         "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1517290/capsule_231x87.jpg?t=1669221841",
-        "link": "https://store.steampowered.com/app/1517290/Battlefield_2042/?snr=1_7_7_7000_150_1",
+        "review": "Mostly Negative",
+        "rating": "32% of the 120,310 user reviews for this game are positive.",
         "platform": [
             "win"
-        ],
-        "release_date": "19 Nov, 2021"
+        ]
     }
 ]

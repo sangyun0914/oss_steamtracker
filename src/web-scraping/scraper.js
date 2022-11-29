@@ -2,6 +2,7 @@ const https = require("https");
 const cheerio = require("cheerio");
 const fs = require("fs");
 const { release } = require("os");
+const { exec } = require("child_process");
 
 let url =
   "https://store.steampowered.com/search/results/?query&start=0&count=50&dynamic_data=&sort_by=_ASC&os=win&supportedlang=english&snr=1_7_7_7000_7&filter=topsellers&infinite=1";
@@ -31,9 +32,15 @@ function parseSteam(url) {
           imgBig,
           link,
           platform = [],
-          release_date;
+          release_date,
+          review,
+          rating;
 
         title = $(tag).find(".title").text();
+
+        release_date = $(tag).find(".search_released").text().trim();
+
+        link = $(tag).attr("href");
 
         discount_rate = $(tag).find(".search_discount").text().trim();
         if (discount_rate === "") discount_rate = null;
@@ -69,7 +76,20 @@ function parseSteam(url) {
         imgSmall = $(tag).find("img").attr("srcset").split(" ")[0];
         imgBig = $(tag).find("img").attr("srcset").split(" ")[2];
 
-        link = $(tag).attr("href");
+        try {
+          review = $(tag)
+            .find(".search_review_summary")
+            .attr("data-tooltip-html")
+            .split("<br>")[0];
+
+          rating = $(tag)
+            .find(".search_review_summary")
+            .attr("data-tooltip-html")
+            .split("<br>")[1];
+        } catch {
+          review = null;
+          rating = null;
+        }
 
         $(tag)
           .find(".platform_img")
@@ -79,19 +99,19 @@ function parseSteam(url) {
             );
           });
 
-        release_date = $(tag).find(".search_released").text().trim();
-
         // Game object
         mygame = {
           title: title,
+          release_date: release_date,
+          link: link,
           "discount rate": discount_rate,
           price: price,
           discounted: discounted,
           imgSmall: imgSmall,
           imgBig: imgBig,
-          link: link,
+          review: review,
+          rating: rating,
           platform: platform,
-          release_date: release_date,
         };
 
         gameslist.push(mygame);
