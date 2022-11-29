@@ -57,11 +57,16 @@ function parseSteam(url) {
           discounted = 0;
         }
 
+        imgSmall = $(tag).find("img").attr("srcset").split(" ")[0];
+        imgBig = $(tag).find("img").attr("srcset").split(" ")[2];
+
         mygame = {
           title: title,
           "discount rate": discount_rate,
           price: price,
           discounted: discounted,
+          imgSmall: imgSmall,
+          imgBig: imgBig,
         };
 
         gameslist.push(mygame);
