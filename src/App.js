@@ -7,13 +7,17 @@ function App() {
     return (
       <li class="forSteamData">
         <li class="dataTitle">{item.title}</li>
-        <li class="nomalPrice">{item.price}</li>
+        <li class="nomalPrice">
+          {item.price === 0 ? 'Free game.' : item.price}
+        </li>
         <li class="discountRate">
           {item['discount rate'] === null
             ? 'No discount.'
             : item['discount rate']}{' '}
         </li>
-        <li class="discountedPrice">{item.discounted}</li>
+        <li class="discountedPrice">
+          {item.discounted === 0 ? 'Free game.' : item.discounted}
+        </li>
       </li>
     )
   })

@@ -1,6 +1,8 @@
 .App {
   text-align: center;
   align-content: center;
+  display: flex;
+  flex-direction: column;
 }
 
 .App-logo {
@@ -48,7 +50,7 @@
 }
 .forSteamData .nomalPrice {
   margin-left: 10px;
-  width: 100px;
+  width: 200px;
   text-align: left;
 }
 .forSteamData .discountRate {
@@ -58,6 +60,6 @@
 }
 .forSteamData .discountedPrice {
   margin-left: 10px;
-  width: 100px;
+  width: 200px;
   text-align: left;
 }
