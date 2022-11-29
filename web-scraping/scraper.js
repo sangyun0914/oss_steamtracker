@@ -22,14 +22,28 @@ function get_data(url) {
 
         let discount_rate = $(tag).find(".search_discount").text().trim();
         if (discount_rate === "") discount_rate = undefined;
-
-        let price = $(tag).find(".search_price").text().trim().split("₩")[1];
-
-        let discounted = $(tag)
-          .find(".search_price")
-          .text()
-          .trim()
-          .split("₩")[2];
+        let price;
+        let discounted;
+        try {
+          price = $(tag)
+            .find(".search_price")
+            .text()
+            .trim()
+            .split("₩")[1]
+            .trim();
+        } catch {
+          price = "0";
+        }
+        try {
+          discounted = $(tag)
+            .find(".search_price")
+            .text()
+            .trim()
+            .split("₩")[2]
+            .trim();
+        } catch {
+          discounted = "0";
+        }
 
         mygame = {
           title: title,
