@@ -3,900 +3,450 @@
         "title": "Red Dead Redemption 2",
         "discount rate": "-67%",
         "price": 66000,
-        "discounted": 21780
+        "discounted": 21780,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/capsule_sm_120.jpg?t=1656615305",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/capsule_231x87.jpg?t=1656615305",
+        "link": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "Project Zomboid",
         "discount rate": "-33%",
         "price": 20500,
-        "discounted": 13730
+        "discounted": 13730,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/108600/capsule_sm_120.jpg?t=1667832656",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/108600/capsule_231x87.jpg?t=1667832656",
+        "link": "https://store.steampowered.com/app/108600/Project_Zomboid/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "Cyberpunk 2077",
         "discount rate": "-50%",
         "price": 66000,
-        "discounted": 33000
+        "discounted": 33000,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_sm_120.jpg?t=1663663573",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_231x87.jpg?t=1663663573",
+        "link": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "DJMAX RESPECT V",
         "discount rate": "-75%",
         "price": 49800,
-        "discounted": 12450
+        "discounted": 12450,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/960170/capsule_sm_120.jpg?t=1666858912",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/960170/capsule_231x87.jpg?t=1666858912",
+        "link": "https://store.steampowered.com/app/960170/DJMAX_RESPECT_V/?snr=1_7_7_7000_150_1"
     },
     {
-        "title": "EA SPORTS\u2122 FIFA 23",
+        "title": "EA SPORTS™ FIFA 23",
         "discount rate": "-40%",
         "price": 77000,
-        "discounted": 46200
+        "discounted": 46200,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1811260/capsule_sm_120_alt_assets_0.jpg?t=1669311247",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1811260/capsule_231x87_alt_assets_0.jpg?t=1669311247",
+        "link": "https://store.steampowered.com/app/1811260/EA_SPORTS_FIFA_23/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "Persona 5 Royal",
         "discount rate": "-30%",
         "price": 69800,
-        "discounted": 48860
+        "discounted": 48860,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1687950/capsule_sm_120.jpg?t=1666698742",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1687950/capsule_231x87.jpg?t=1666698742",
+        "link": "https://store.steampowered.com/app/1687950/Persona_5_Royal/?snr=1_7_7_7000_150_1"
     },
     {
-        "title": "MONSTER HUNTER RISE",
-        "discount rate": "-50%",
-        "price": 48400,
-        "discounted": 24200
-    },
-    {
-        "title": "Marvel\u2019s Spider-Man Remastered",
+        "title": "Marvel’s Spider-Man Remastered",
         "discount rate": "-25%",
         "price": 58800,
-        "discounted": 44100
+        "discounted": 44100,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817070/capsule_sm_120.jpg?t=1667406675",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817070/capsule_231x87.jpg?t=1667406675",
+        "link": "https://store.steampowered.com/app/1817070/Marvels_SpiderMan_Remastered/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "Yu-Gi-Oh! Master Duel",
         "discount rate": null,
         "price": 0,
-        "discounted": 0
+        "discounted": 0,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1449850/capsule_sm_120.jpg?t=1648616316",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1449850/capsule_231x87.jpg?t=1648616316",
+        "link": "https://store.steampowered.com/app/1449850/YuGiOh_Master_Duel/?snr=1_7_7_7000_150_1"
     },
     {
-        "title": "Sid Meier\u2019s Civilization\u00ae VI",
-        "discount rate": "-90%",
-        "price": 65000,
-        "discounted": 6500
+        "title": "MONSTER HUNTER RISE",
+        "discount rate": "-50%",
+        "price": 48400,
+        "discounted": 24200,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1446780/capsule_sm_120.jpg?t=1669252485",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1446780/capsule_231x87.jpg?t=1669252485",
+        "link": "https://store.steampowered.com/app/1446780/MONSTER_HUNTER_RISE/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "PUBG: BATTLEGROUNDS",
         "discount rate": null,
         "price": 0,
-        "discounted": 0
+        "discounted": 0,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/capsule_sm_120.jpg?t=1667814365",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/capsule_231x87.jpg?t=1667814365",
+        "link": "https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/?snr=1_7_7_7000_150_1"
     },
     {
-        "title": "The Witcher\u00ae 3: Wild Hunt",
+        "title": "Sid Meier’s Civilization® VI",
+        "discount rate": "-90%",
+        "price": 65000,
+        "discounted": 6500,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/289070/capsule_sm_120.jpg?t=1669055236",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/289070/capsule_231x87.jpg?t=1669055236",
+        "link": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "title": "The Witcher® 3: Wild Hunt",
         "discount rate": "-80%",
         "price": 34800,
-        "discounted": 6960
-    },
-    {
-        "title": "Call of Duty\u00ae: Modern Warfare\u00ae II",
-        "discount rate": null,
-        "price": 84500,
-        "discounted": 84500
+        "discounted": 6960,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/capsule_sm_120.jpg?t=1668443314",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/capsule_231x87.jpg?t=1668443314",
+        "link": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "Raft",
         "discount rate": "-33%",
         "price": 21000,
-        "discounted": 14070
+        "discounted": 14070,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/648800/capsule_sm_120.jpg?t=1655744208",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/648800/capsule_231x87.jpg?t=1655744208",
+        "link": "https://store.steampowered.com/app/648800/Raft/?snr=1_7_7_7000_150_1"
     },
     {
-        "title": "Football Manager 2023",
+        "title": "Call of Duty®: Modern Warfare® II",
         "discount rate": null,
-        "price": 59000,
-        "discounted": 59000
+        "price": 84500,
+        "discounted": 0,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1938090/capsule_sm_120.jpg?t=1668813907",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1938090/capsule_231x87.jpg?t=1668813907",
+        "link": "https://store.steampowered.com/app/1938090/Call_of_Duty_Modern_Warfare_II/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "Forza Horizon 5",
         "discount rate": "-35%",
         "price": 59900,
-        "discounted": 38930
+        "discounted": 38930,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/capsule_sm_120.jpg?t=1668017884",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/capsule_231x87.jpg?t=1668017884",
+        "link": "https://store.steampowered.com/app/1551360/Forza_Horizon_5/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "title": "Football Manager 2023",
+        "discount rate": null,
+        "price": 59000,
+        "discounted": 0,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1904540/capsule_sm_120.jpg?t=1668082258",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1904540/capsule_231x87.jpg?t=1668082258",
+        "link": "https://store.steampowered.com/app/1904540/Football_Manager_2023/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "God of War",
         "discount rate": "-25%",
         "price": 45800,
-        "discounted": 34350
+        "discounted": 34350,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/capsule_sm_120.jpg?t=1650554420",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/capsule_231x87.jpg?t=1650554420",
+        "link": "https://store.steampowered.com/app/1593500/God_of_War/?snr=1_7_7_7000_150_1"
     },
     {
-        "title": "Apex Legends\u2122",
+        "title": "Apex Legends™",
         "discount rate": null,
         "price": 0,
-        "discounted": 0
+        "discounted": 0,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/capsule_sm_120.jpg?t=1667588841",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/capsule_231x87.jpg?t=1667588841",
+        "link": "https://store.steampowered.com/app/1172470/Apex_Legends/?snr=1_7_7_7000_150_1"
     },
     {
-        "title": "Sekiro\u2122: Shadows Die Twice - GOTY Edition",
+        "title": "Sekiro™: Shadows Die Twice - GOTY Edition",
         "discount rate": "-50%",
         "price": 59800,
-        "discounted": 29900
+        "discounted": 29900,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/capsule_sm_120.jpg?t=1669076148",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/capsule_231x87.jpg?t=1669076148",
+        "link": "https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "It Takes Two",
         "discount rate": "-60%",
         "price": 44000,
-        "discounted": 17600
+        "discounted": 17600,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1426210/capsule_sm_120.jpg?t=1666121755",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1426210/capsule_231x87.jpg?t=1666121755",
+        "link": "https://store.steampowered.com/app/1426210/It_Takes_Two/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "Grand Theft Auto V",
         "discount rate": null,
         "price": 0,
-        "discounted": 0
+        "discounted": 0,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/capsule_sm_120.jpg?t=1667343890",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/capsule_231x87.jpg?t=1667343890",
+        "link": "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/?snr=1_7_7_7000_150_1"
     },
     {
-        "title": "The Callisto Protocol\u2122",
+        "title": "The Callisto Protocol™",
         "discount rate": null,
         "price": 74800,
-        "discounted": 74800
+        "discounted": 0,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1544020/capsule_sm_120.jpg?t=1669670407",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1544020/capsule_231x87.jpg?t=1669670407",
+        "link": "https://store.steampowered.com/app/1544020/The_Callisto_Protocol/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "Total War: THREE KINGDOMS",
         "discount rate": "-66%",
         "price": 59800,
-        "discounted": 20330
-    },
-    {
-        "title": "Monster Hunter: World",
-        "discount rate": "-50%",
-        "price": 34900,
-        "discounted": 17450
-    },
-    {
-        "title": "Stardew Valley",
-        "discount rate": "-20%",
-        "price": 16000,
-        "discounted": 12800
+        "discounted": 20330,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/779340/capsule_sm_120.jpg?t=1668768473",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/779340/capsule_231x87.jpg?t=1668768473",
+        "link": "https://store.steampowered.com/app/779340/Total_War_THREE_KINGDOMS/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "Ready or Not",
         "discount rate": "-15%",
         "price": 43000,
-        "discounted": 36550
-    },
-    {
-        "title": "DAVE THE DIVER",
-        "discount rate": null,
-        "price": 24000,
-        "discounted": 24000
-    },
-    {
-        "title": "Horizon Zero Dawn\u2122 Complete Edition",
-        "discount rate": "-60%",
-        "price": 45800,
-        "discounted": 18320
-    },
-    {
-        "title": "Grounded",
-        "discount rate": "-25%",
-        "price": 39900,
-        "discounted": 29920
+        "discounted": 36550,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1144200/capsule_sm_120.jpg?t=1667401209",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1144200/capsule_231x87.jpg?t=1667401209",
+        "link": "https://store.steampowered.com/app/1144200/Ready_or_Not/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "FreestyleFootball R",
         "discount rate": null,
         "price": 0,
-        "discounted": 0
+        "discounted": 0,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1826980/capsule_sm_120.jpg?t=1667182213",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1826980/capsule_231x87.jpg?t=1667182213",
+        "link": "https://store.steampowered.com/app/1826980/FreestyleFootball_R/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "title": "Monster Hunter: World",
+        "discount rate": "-50%",
+        "price": 34900,
+        "discounted": 17450,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/capsule_sm_120.jpg?t=1661838392",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/capsule_231x87.jpg?t=1661838392",
+        "link": "https://store.steampowered.com/app/582010/Monster_Hunter_World/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "title": "DAVE THE DIVER",
+        "discount rate": null,
+        "price": 24000,
+        "discounted": 0,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1868140/capsule_sm_120.jpg?t=1668065344",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1868140/capsule_231x87.jpg?t=1668065344",
+        "link": "https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "title": "Stardew Valley",
+        "discount rate": "-20%",
+        "price": 16000,
+        "discounted": 12800,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/capsule_sm_120.jpg?t=1666917466",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/capsule_231x87.jpg?t=1666917466",
+        "link": "https://store.steampowered.com/app/413150/Stardew_Valley/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "title": "Grounded",
+        "discount rate": "-25%",
+        "price": 39900,
+        "discounted": 29920,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/962130/capsule_sm_120.jpg?t=1664324694",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/962130/capsule_231x87.jpg?t=1664324694",
+        "link": "https://store.steampowered.com/app/962130/Grounded/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "title": "Horizon Zero Dawn™ Complete Edition",
+        "discount rate": "-60%",
+        "price": 45800,
+        "discounted": 18320,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1151640/capsule_sm_120.jpg?t=1667297464",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1151640/capsule_231x87.jpg?t=1667297464",
+        "link": "https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "The Forest",
         "discount rate": "-77%",
         "price": 20500,
-        "discounted": 4710
+        "discounted": 4710,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/242760/capsule_sm_120.jpg?t=1666811027",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/242760/capsule_231x87.jpg?t=1666811027",
+        "link": "https://store.steampowered.com/app/242760/The_Forest/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "Hades",
         "discount rate": "-40%",
         "price": 26000,
-        "discounted": 15600
+        "discounted": 15600,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/capsule_sm_120.jpg?t=1661549369",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/capsule_231x87.jpg?t=1661549369",
+        "link": "https://store.steampowered.com/app/1145360/Hades/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "BURIED STARS",
         "discount rate": "-70%",
         "price": 41000,
-        "discounted": 12300
+        "discounted": 12300,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1025960/capsule_sm_120.jpg?t=1639477505",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1025960/capsule_231x87.jpg?t=1639477505",
+        "link": "https://store.steampowered.com/app/1025960/BURIED_STARS/?snr=1_7_7_7000_150_1"
     },
     {
-        "title": "Assassin's Creed\u00ae Odyssey",
+        "title": "Assassin's Creed® Odyssey",
         "discount rate": "-75%",
         "price": 65000,
-        "discounted": 16250
+        "discounted": 16250,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/812140/capsule_sm_120.jpg?t=1668697093",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/812140/capsule_231x87.jpg?t=1668697093",
+        "link": "https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "TEKKEN 7",
         "discount rate": "-85%",
         "price": 43800,
-        "discounted": 6570
+        "discounted": 6570,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/389730/capsule_sm_120.jpg?t=1666949098",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/389730/capsule_231x87.jpg?t=1666949098",
+        "link": "https://store.steampowered.com/app/389730/TEKKEN_7/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "Back 4 Blood",
         "discount rate": "-67%",
         "price": 68800,
-        "discounted": 22700
+        "discounted": 22700,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/924970/capsule_sm_120.jpg?t=1661878309",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/924970/capsule_231x87.jpg?t=1661878309",
+        "link": "https://store.steampowered.com/app/924970/Back_4_Blood/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "ARK: Survival Evolved",
         "discount rate": "-75%",
         "price": 20500,
-        "discounted": 5120
+        "discounted": 5120,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/346110/capsule_sm_120.jpg?t=1669254188",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/346110/capsule_231x87.jpg?t=1669254188",
+        "link": "https://store.steampowered.com/app/346110/ARK_Survival_Evolved/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "Dinkum",
         "discount rate": "-20%",
         "price": 20500,
-        "discounted": 16400
+        "discounted": 16400,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1062520/capsule_sm_120.jpg?t=1665535012",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1062520/capsule_231x87.jpg?t=1665535012",
+        "link": "https://store.steampowered.com/app/1062520/Dinkum/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "Dead by Daylight",
         "discount rate": "-60%",
         "price": 21000,
-        "discounted": 8400
+        "discounted": 8400,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/capsule_sm_120.jpg?t=1669150759",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/capsule_231x87.jpg?t=1669150759",
+        "link": "https://store.steampowered.com/app/381210/Dead_by_Daylight/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "War Thunder",
         "discount rate": null,
         "price": 0,
-        "discounted": 0
+        "discounted": 0,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/236390/capsule_sm_120.jpg?t=1669195232",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/236390/capsule_231x87.jpg?t=1669195232",
+        "link": "https://store.steampowered.com/app/236390/War_Thunder/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "Overcooked! 2",
         "discount rate": "-75%",
         "price": 26000,
-        "discounted": 6500
-    },
-    {
-        "title": "DJMAX RESPECT V - V EXTENSION III PACK",
-        "discount rate": null,
-        "price": 24800,
-        "discounted": 24800
-    },
-    {
-        "title": "The Sims\u2122 4",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
-    },
-    {
-        "title": "Mount & Blade II: Bannerlord",
-        "discount rate": "-20%",
-        "price": 55000,
-        "discounted": 44000
-    },
-    {
-        "title": "Dying Light 2 Stay Human",
-        "discount rate": "-50%",
-        "price": 66000,
-        "discounted": 33000
+        "discounted": 6500,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/728880/capsule_sm_120.jpg?t=1643298085",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/728880/capsule_231x87.jpg?t=1643298085",
+        "link": "https://store.steampowered.com/app/728880/Overcooked_2/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "Cities: Skylines",
         "discount rate": "-70%",
         "price": 32000,
-        "discounted": 9600
+        "discounted": 9600,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/255710/capsule_sm_120.jpg?t=1668007889",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/255710/capsule_231x87.jpg?t=1668007889",
+        "link": "https://store.steampowered.com/app/255710/Cities_Skylines/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "title": "DJMAX RESPECT V - V EXTENSION III PACK",
+        "discount rate": null,
+        "price": 24800,
+        "discounted": 0,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/2164540/capsule_sm_120.jpg?t=1669715203",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/2164540/capsule_231x87.jpg?t=1669715203",
+        "link": "https://store.steampowered.com/app/2164540/DJMAX_RESPECT_V__V_EXTENSION_III_PACK/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "title": "Tom Clancy's Rainbow Six® Siege",
+        "discount rate": "-60%",
+        "price": 22000,
+        "discounted": 8800,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/359550/capsule_sm_120.jpg?t=1667245148",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/359550/capsule_231x87.jpg?t=1667245148",
+        "link": "https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "title": "Mount & Blade II: Bannerlord",
+        "discount rate": "-20%",
+        "price": 55000,
+        "discounted": 44000,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/261550/capsule_sm_120.jpg?t=1666722041",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/261550/capsule_231x87.jpg?t=1666722041",
+        "link": "https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "title": "The Sims™ 4",
+        "discount rate": null,
+        "price": 0,
+        "discounted": 0,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/capsule_sm_120.jpg?t=1668103304",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/capsule_231x87.jpg?t=1668103304",
+        "link": "https://store.steampowered.com/app/1222670/The_Sims_4/?snr=1_7_7_7000_150_1"
+    },
+    {
+        "title": "Dying Light 2 Stay Human",
+        "discount rate": "-50%",
+        "price": 66000,
+        "discounted": 33000,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/534380/capsule_sm_120.jpg?t=1668102790",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/534380/capsule_231x87.jpg?t=1668102790",
+        "link": "https://store.steampowered.com/app/534380/Dying_Light_2_Stay_Human/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "Hollow Knight",
         "discount rate": "-50%",
         "price": 16000,
-        "discounted": 8000
-    },
-    {
-        "title": "Tom Clancy's Rainbow Six\u00ae Siege",
-        "discount rate": "-60%",
-        "price": 22000,
-        "discounted": 8800
+        "discounted": 8000,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/capsule_sm_120.jpg?t=1667006028",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/capsule_231x87.jpg?t=1667006028",
+        "link": "https://store.steampowered.com/app/367520/Hollow_Knight/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "Destiny 2",
         "discount rate": null,
         "price": 0,
-        "discounted": 0
+        "discounted": 0,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1085660/capsule_sm_120.jpg?t=1661876523",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1085660/capsule_231x87.jpg?t=1661876523",
+        "link": "https://store.steampowered.com/app/1085660/Destiny_2/?snr=1_7_7_7000_150_1"
     },
     {
         "title": "Monster Hunter World: Iceborne",
         "discount rate": "-50%",
         "price": 46500,
-        "discounted": 23250
-    },
-    {
-        "title": "EZ2ON REBOOT : R",
-        "discount rate": "-30%",
-        "price": 44800,
-        "discounted": 31360
-    },
-    {
-        "title": "Battlefield\u2122 2042",
-        "discount rate": "-67%",
-        "price": 66000,
-        "discounted": 21780
-    },
-    {
-        "title": "Divinity: Original Sin 2 - Definitive Edition",
-        "discount rate": "-60%",
-        "price": 54000,
-        "discounted": 21600
-    },
-    {
-        "title": "Risk of Rain 2",
-        "discount rate": "-50%",
-        "price": 26000,
-        "discounted": 13000
-    },
-    {
-        "title": "TRIANGLE STRATEGY",
-        "discount rate": "-30%",
-        "price": 69800,
-        "discounted": 48860
-    },
-    {
-        "title": "GUILTY GEAR -STRIVE-",
-        "discount rate": "-25%",
-        "price": 39900,
-        "discounted": 29920
-    },
-    {
-        "title": "Battlefield\u2122 V",
-        "discount rate": "-90%",
-        "price": 55000,
-        "discounted": 5500
-    },
-    {
-        "title": "Hearts of Iron IV",
-        "discount rate": "-75%",
-        "price": 43000,
-        "discounted": 10750
-    },
-    {
-        "title": "ASTRONEER",
-        "discount rate": "-50%",
-        "price": 31000,
-        "discounted": 15500
-    },
-    {
-        "title": "NBA 2K23",
-        "discount rate": "-55%",
-        "price": 65000,
-        "discounted": 29250
-    },
-    {
-        "title": "Tabletop Simulator",
-        "discount rate": "-50%",
-        "price": 21000,
-        "discounted": 10500
-    },
-    {
-        "title": "Counter-Strike: Global Offensive",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
-    },
-    {
-        "title": "Tales of Arise",
-        "discount rate": "-60%",
-        "price": 64800,
-        "discounted": 25920
-    },
-    {
-        "title": "Rust",
-        "discount rate": "-33%",
-        "price": 46000,
-        "discounted": 30820
-    },
-    {
-        "title": "Stellaris",
-        "discount rate": "-75%",
-        "price": 43000,
-        "discounted": 10750
-    },
-    {
-        "title": "Half-Life: Alyx",
-        "discount rate": "-60%",
-        "price": 63000,
-        "discounted": 25200
-    },
-    {
-        "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
-        "discount rate": "-50%",
-        "price": 64800,
-        "discounted": 32400
-    },
-    {
-        "title": "Valheim",
-        "discount rate": "-30%",
-        "price": 20500,
-        "discounted": 14350
-    },
-    {
-        "title": "V Rising",
-        "discount rate": "-20%",
-        "price": 20500,
-        "discounted": 16400
-    },
-    {
-        "title": "Age of Empires IV: Anniversary Edition",
-        "discount rate": "-33%",
-        "price": 39900,
-        "discounted": 26730
-    },
-    {
-        "title": "DOOM Eternal",
-        "discount rate": "-75%",
-        "price": 44500,
-        "discounted": 11120
-    },
-    {
-        "title": "Sea of Thieves",
-        "discount rate": "-50%",
-        "price": 39400,
-        "discounted": 19700
-    },
-    {
-        "title": "Lost Judgment",
-        "discount rate": "-30%",
-        "price": 49800,
-        "discounted": 34860
-    },
-    {
-        "title": "Days Gone",
-        "discount rate": "-60%",
-        "price": 45800,
-        "discounted": 18320
-    },
-    {
-        "title": "The Binding of Isaac: Rebirth",
-        "discount rate": "-25%",
-        "price": 15500,
-        "discounted": 11620
-    },
-    {
-        "title": "Total War: WARHAMMER III",
-        "discount rate": "-20%",
-        "price": 60000,
-        "discounted": 48000
-    },
-    {
-        "title": "Kena: Bridge of Spirits",
-        "discount rate": "-50%",
-        "price": 41000,
-        "discounted": 20500
-    },
-    {
-        "title": "Stray",
-        "discount rate": "-20%",
-        "price": 35000,
-        "discounted": 28000
-    },
-    {
-        "title": "Marvel\u2019s Spider-Man: Miles Morales",
-        "discount rate": null,
-        "price": 44800,
-        "discounted": 44800
-    },
-    {
-        "title": "Yakuza: Like a Dragon",
-        "discount rate": "-65%",
-        "price": 59800,
-        "discounted": 20930
-    },
-    {
-        "title": "Persona\u00ae 5 Strikers",
-        "discount rate": "-60%",
-        "price": 69800,
-        "discounted": 27920
-    },
-    {
-        "title": "Cuphead",
-        "discount rate": "-30%",
-        "price": 21000,
-        "discounted": 14700
-    },
-    {
-        "title": "Euro Truck Simulator 2",
-        "discount rate": "-75%",
-        "price": 24800,
-        "discounted": 6200
-    },
-    {
-        "title": "Tiny Tina's Wonderlands",
-        "discount rate": "-50%",
-        "price": 65000,
-        "discounted": 32500
-    },
-    {
-        "title": "Slay the Spire",
-        "discount rate": "-66%",
-        "price": 26000,
-        "discounted": 8840
-    },
-    {
-        "title": "The Elder Scrolls V: Skyrim Special Edition",
-        "discount rate": "-75%",
-        "price": 45000,
-        "discounted": 11250
-    },
-    {
-        "title": "Satisfactory",
-        "discount rate": "-40%",
-        "price": 31000,
-        "discounted": 18600
-    },
-    {
-        "title": "Human: Fall Flat",
-        "discount rate": "-70%",
-        "price": 20500,
-        "discounted": 6150
-    },
-    {
-        "title": "FINAL FANTASY VII REMAKE INTERGRADE",
-        "discount rate": "-29%",
-        "price": 79800,
-        "discounted": 56660
-    },
-    {
-        "title": "Monster Hunter Rise: Sunbreak",
-        "discount rate": "-25%",
-        "price": 48400,
-        "discounted": 36300
-    },
-    {
-        "title": "Warhammer 40,000: Darktide",
-        "discount rate": null,
-        "price": 44000,
-        "discounted": 44000
-    },
-    {
-        "title": "Dota 2",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
-    },
-    {
-        "title": "Library Of Ruina",
-        "discount rate": "-66%",
-        "price": 31000,
-        "discounted": 10540
-    },
-    {
-        "title": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
-        "discount rate": "-50%",
-        "price": 64800,
-        "discounted": 32400
-    },
-    {
-        "title": "Frostpunk",
-        "discount rate": "-75%",
-        "price": 31000,
-        "discounted": 7750
-    },
-    {
-        "title": "GrandChase",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
-    },
-    {
-        "title": "Terraria",
-        "discount rate": "-50%",
-        "price": 10500,
-        "discounted": 5250
-    },
-    {
-        "title": "Core Keeper",
-        "discount rate": "-20%",
-        "price": 13500,
-        "discounted": 10800
-    },
-    {
-        "title": "Gunfire Reborn",
-        "discount rate": "-30%",
-        "price": 20500,
-        "discounted": 14350
-    },
-    {
-        "title": "Don't Starve Together",
-        "discount rate": "-66%",
-        "price": 15500,
-        "discounted": 5270
-    },
-    {
-        "title": "Assassin's Creed\u00ae Origins",
-        "discount rate": "-80%",
-        "price": 65000,
-        "discounted": 13000
-    },
-    {
-        "title": "Subnautica",
-        "discount rate": "-50%",
-        "price": 31000,
-        "discounted": 15500
-    },
-    {
-        "title": "Phasmophobia",
-        "discount rate": "-20%",
-        "price": 14500,
-        "discounted": 11600
-    },
-    {
-        "title": "Devil May Cry 5",
-        "discount rate": "-67%",
-        "price": 33400,
-        "discounted": 11020
-    },
-    {
-        "title": "Escape Simulator",
-        "discount rate": "-25%",
-        "price": 15500,
-        "discounted": 11620
-    },
-    {
-        "title": "Fallout 4",
-        "discount rate": "-67%",
-        "price": 22000,
-        "discounted": 7260
-    },
-    {
-        "title": "Battlefield\u2122 1",
-        "discount rate": "-88%",
-        "price": 44000,
-        "discounted": 5280
-    },
-    {
-        "title": "Conqueror's Blade",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
-    },
-    {
-        "title": "ELDEN RING",
-        "discount rate": null,
-        "price": 64800,
-        "discounted": 64800
-    },
-    {
-        "title": "Left 4 Dead 2",
-        "discount rate": "-90%",
-        "price": 11000,
-        "discounted": 1100
-    },
-    {
-        "title": "Planet Zoo",
-        "discount rate": "-70%",
-        "price": 46000,
-        "discounted": 13800
-    },
-    {
-        "title": "Ori and the Will of the Wisps",
-        "discount rate": "-67%",
-        "price": 29900,
-        "discounted": 9870
-    },
-    {
-        "title": "Detroit: Become Human",
-        "discount rate": "-50%",
-        "price": 39900,
-        "discounted": 19950
-    },
-    {
-        "title": "No Man's Sky",
-        "discount rate": "-50%",
-        "price": 60000,
-        "discounted": 30000
-    },
-    {
-        "title": "Need for Speed\u2122 Unbound",
-        "discount rate": null,
-        "price": 77000,
-        "discounted": 77000
-    },
-    {
-        "title": "Cult of the Lamb",
-        "discount rate": "-20%",
-        "price": 25000,
-        "discounted": 20000
-    },
-    {
-        "title": "ARK: Genesis Season Pass",
-        "discount rate": "-50%",
-        "price": 31000,
-        "discounted": 15500
-    },
-    {
-        "title": "Skul: The Hero Slayer",
-        "discount rate": "-40%",
-        "price": 20500,
-        "discounted": 12300
-    },
-    {
-        "title": "Torchlight: Infinite",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
-    },
-    {
-        "title": "Warframe",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
-    },
-    {
-        "title": "Gang Beasts",
-        "discount rate": "-60%",
-        "price": 21000,
-        "discounted": 8400
-    },
-    {
-        "title": "Katana ZERO",
-        "discount rate": "-40%",
-        "price": 15500,
-        "discounted": 9300
-    },
-    {
-        "title": "ONE PIECE: PIRATE WARRIORS 4",
-        "discount rate": "-85%",
-        "price": 64800,
-        "discounted": 9720
-    },
-    {
-        "title": "Judgment",
-        "discount rate": "-25%",
-        "price": 34800,
-        "discounted": 26100
-    },
-    {
-        "title": "Kingdom Come: Deliverance",
-        "discount rate": "-70%",
-        "price": 31000,
-        "discounted": 9300
-    },
-    {
-        "title": "For The King",
-        "discount rate": "-70%",
-        "price": 20500,
-        "discounted": 6150
-    },
-    {
-        "title": "Oxygen Not Included",
-        "discount rate": "-66%",
-        "price": 26000,
-        "discounted": 8840
-    },
-    {
-        "title": "Lobotomy Corporation | Monster Management Simulation",
-        "discount rate": "-66%",
-        "price": 26000,
-        "discounted": 8840
-    },
-    {
-        "title": "Eternal Return",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
-    },
-    {
-        "title": "STAR WARS Jedi: Fallen Order\u2122",
-        "discount rate": "-85%",
-        "price": 44000,
-        "discounted": 6600
-    },
-    {
-        "title": "HITMAN 3",
-        "discount rate": "-65%",
-        "price": 64800,
-        "discounted": 22680
-    },
-    {
-        "title": "ZERO Sievert",
-        "discount rate": "-10%",
-        "price": 21500,
-        "discounted": 19350
-    },
-    {
-        "title": "ACE COMBAT\u2122 7: SKIES UNKNOWN",
-        "discount rate": "-85%",
-        "price": 54800,
-        "discounted": 8220
-    },
-    {
-        "title": "Resident Evil 3",
-        "discount rate": "-75%",
-        "price": 47300,
-        "discounted": 11820
-    },
-    {
-        "title": "Hunt: Showdown",
-        "discount rate": "-60%",
-        "price": 49000,
-        "discounted": 19600
-    },
-    {
-        "title": "Nioh 2 \u2013 The Complete Edition",
-        "discount rate": "-40%",
-        "price": 54800,
-        "discounted": 32880
-    },
-    {
-        "title": "DJMAX RESPECT V - V EXTENSION II PACK",
-        "discount rate": "-70%",
-        "price": 24800,
-        "discounted": 7440
-    },
-    {
-        "title": "Phoenix Wright: Ace Attorney Trilogy",
-        "discount rate": "-50%",
-        "price": 32000,
-        "discounted": 16000
-    },
-    {
-        "title": "Batman\u2122: Arkham Knight",
-        "discount rate": "-80%",
-        "price": 21000,
-        "discounted": 4200
-    },
-    {
-        "title": "Crusader Kings III",
-        "discount rate": "-20%",
-        "price": 52000,
-        "discounted": 41600
-    },
-    {
-        "title": "Football Manager 2023 In-game Editor",
-        "discount rate": null,
-        "price": 8850,
-        "discounted": 8850
-    },
-    {
-        "title": "Warhammer 40,000: Inquisitor - Martyr",
-        "discount rate": "-80%",
-        "price": 49800,
-        "discounted": 9960
-    },
-    {
-        "title": "Dead Cells",
-        "discount rate": "-40%",
-        "price": 25800,
-        "discounted": 15480
-    },
-    {
-        "title": "Outer Wilds",
-        "discount rate": "-40%",
-        "price": 26000,
-        "discounted": 15600
-    },
-    {
-        "title": "House Flipper",
-        "discount rate": "-55%",
-        "price": 26000,
-        "discounted": 11700
-    },
-    {
-        "title": "Total War: WARHAMMER II",
-        "discount rate": "-66%",
-        "price": 59800,
-        "discounted": 20330
-    },
-    {
-        "title": "Forza Horizon 4",
-        "discount rate": "-67%",
-        "price": 59900,
-        "discounted": 19770
-    },
-    {
-        "title": "Just Go",
-        "discount rate": "-20%",
-        "price": 10500,
-        "discounted": 8400
-    },
-    {
-        "title": "PAYDAY 2",
-        "discount rate": "-75%",
-        "price": 10500,
-        "discounted": 2620
-    },
-    {
-        "title": "Age of Empires II: Definitive Edition",
-        "discount rate": "-65%",
-        "price": 21000,
-        "discounted": 7350
+        "discounted": 23250,
+        "imgSmall": "https://cdn.cloudflare.steamstatic.com/steam/apps/1118010/capsule_sm_120.jpg?t=1661218568",
+        "imgBig": "https://cdn.cloudflare.steamstatic.com/steam/apps/1118010/capsule_231x87.jpg?t=1661218568",
+        "link": "https://store.steampowered.com/app/1118010/Monster_Hunter_World_Iceborne/?snr=1_7_7_7000_150_1"
     }
 ]

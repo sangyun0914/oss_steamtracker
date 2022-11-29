@@ -1,5 +1,6 @@
 const https = require("https");
 const cheerio = require("cheerio");
+const fs = require("fs");
 
 let url =
   "https://store.steampowered.com/search/results/?query&start=0&count=50&dynamic_data=&sort_by=_ASC&os=win&supportedlang=english&snr=1_7_7_7000_7&filter=topsellers&infinite=1";
@@ -75,7 +76,12 @@ function parseSteam(url) {
         gameslist.push(mygame);
       });
 
-      console.log(gameslist);
+      const jsonData = JSON.stringify(gameslist, null, 4);
+      fs.writeFile("./scraped.json", jsonData, function (err) {
+        if (err) {
+          console.log(err);
+        }
+      });
     });
   });
 }
