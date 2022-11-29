@@ -1,7 +1,10 @@
 
 const jsonData = require('../web-scraping/scraped.json');
 let game_data = JSON.parse(JSON.stringify(jsonData));
-game_data = game_data.filter(game => game['discount rate'] !== null);
+game_data.forEach(element => {
+    if (element['discount rate'] === null)
+        element['discount rate'] = 0;
+});
 
 //lowest price order
 function lowest_price(game_list) {
@@ -31,11 +34,11 @@ function load_list(user_select) {
 
     if (user_select.order === Order_type['lowest price'])
         lowest_price(game_list);
-    else if (user_select.order === Order_type['higest price'])
+    else if (user_select.order === Order_type['highest price'])
         highest_price(game_list);
     else if (user_select.order === Order_type['lowest rate'])
         lowest_rate(game_list);
-    else if (user_select.order === Order_type['higest rate'])
+    else if (user_select.order === Order_type['highest rate'])
         highest_rate(game_list);
 
 
@@ -48,15 +51,15 @@ function load_list(user_select) {
 const Order_type = {
     default: 0,
     "lowest price": 1,
-    "higest price": 2,
+    "highest price": 2,
     "lowest rate": 3,
-    "higest rate": 4,
+    "highest rate": 4,
 }
 
 
 // exmaple
 let user_select = {
-    order: Order_type['lowest rate'],
+    order: Order_type['highest rate'],
     title: null,
 }
 
