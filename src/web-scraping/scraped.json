@@ -1,9 +1,21 @@
 [
     {
-        "title": "DAVE THE DIVER",
-        "discount rate": null,
-        "price": 24000,
-        "discounted": 24000
+        "title": "Red Dead Redemption 2",
+        "discount rate": "-67%",
+        "price": 66000,
+        "discounted": 21780
+    },
+    {
+        "title": "Project Zomboid",
+        "discount rate": "-33%",
+        "price": 20500,
+        "discounted": 13730
+    },
+    {
+        "title": "Cyberpunk 2077",
+        "discount rate": "-50%",
+        "price": 66000,
+        "discounted": 33000
     },
     {
         "title": "DJMAX RESPECT V",
@@ -12,7 +24,31 @@
         "discounted": 12450
     },
     {
-        "title": "PUBG: BATTLEGROUNDS",
+        "title": "EA SPORTS\u2122 FIFA 23",
+        "discount rate": "-40%",
+        "price": 77000,
+        "discounted": 46200
+    },
+    {
+        "title": "Persona 5 Royal",
+        "discount rate": "-30%",
+        "price": 69800,
+        "discounted": 48860
+    },
+    {
+        "title": "MONSTER HUNTER RISE",
+        "discount rate": "-50%",
+        "price": 48400,
+        "discounted": 24200
+    },
+    {
+        "title": "Marvel\u2019s Spider-Man Remastered",
+        "discount rate": "-25%",
+        "price": 58800,
+        "discounted": 44100
+    },
+    {
+        "title": "Yu-Gi-Oh! Master Duel",
         "discount rate": null,
         "price": 0,
         "discounted": 0
@@ -24,10 +60,16 @@
         "discounted": 6500
     },
     {
-        "title": "Football Manager 2023",
+        "title": "PUBG: BATTLEGROUNDS",
         "discount rate": null,
-        "price": 59000,
-        "discounted": 59000
+        "price": 0,
+        "discounted": 0
+    },
+    {
+        "title": "The Witcher\u00ae 3: Wild Hunt",
+        "discount rate": "-80%",
+        "price": 34800,
+        "discounted": 6960
     },
     {
         "title": "Call of Duty\u00ae: Modern Warfare\u00ae II",
@@ -36,64 +78,28 @@
         "discounted": 84500
     },
     {
-        "title": "MONSTER HUNTER RISE",
-        "discount rate": "-50%",
-        "price": 48400,
-        "discounted": 24200
+        "title": "Raft",
+        "discount rate": "-33%",
+        "price": 21000,
+        "discounted": 14070
     },
     {
-        "title": "GrandChase",
+        "title": "Football Manager 2023",
         "discount rate": null,
-        "price": 0,
-        "discounted": 0
+        "price": 59000,
+        "discounted": 59000
     },
     {
-        "title": "Soulstone Survivors",
-        "discount rate": null,
-        "price": 11000,
-        "discounted": 11000
+        "title": "Forza Horizon 5",
+        "discount rate": "-35%",
+        "price": 59900,
+        "discounted": 38930
     },
     {
-        "title": "FreestyleFootball R",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
-    },
-    {
-        "title": "Monster Hunter: World",
-        "discount rate": "-50%",
-        "price": 34900,
-        "discounted": 17450
-    },
-    {
-        "title": "Torchlight: Infinite",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
-    },
-    {
-        "title": "Yu-Gi-Oh! Master Duel",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
-    },
-    {
-        "title": "Against the Storm",
-        "discount rate": "-15%",
-        "price": 19900,
-        "discounted": 16910
-    },
-    {
-        "title": "EA SPORTS\u2122 FIFA 23",
-        "discount rate": null,
-        "price": 77000,
-        "discounted": 77000
-    },
-    {
-        "title": "Cities: Skylines",
-        "discount rate": "-70%",
-        "price": 32000,
-        "discounted": 9600
+        "title": "God of War",
+        "discount rate": "-25%",
+        "price": 45800,
+        "discounted": 34350
     },
     {
         "title": "Apex Legends\u2122",
@@ -102,43 +108,187 @@
         "discounted": 0
     },
     {
-        "title": "Dying Light 2 Stay Human",
-        "discount rate": "-45%",
-        "price": 66000,
-        "discounted": 36300
+        "title": "Sekiro\u2122: Shadows Die Twice - GOTY Edition",
+        "discount rate": "-50%",
+        "price": 59800,
+        "discounted": 29900
     },
     {
-        "title": "Conqueror's Blade",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
-    },
-    {
-        "title": "Core Keeper",
-        "discount rate": null,
-        "price": 13500,
-        "discounted": 13500
-    },
-    {
-        "title": "Euro Truck Simulator 2",
-        "discount rate": "-75%",
-        "price": 24800,
-        "discounted": 6200
-    },
-    {
-        "title": "Counter-Strike: Global Offensive",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
-    },
-    {
-        "title": "TEKKEN 7",
-        "discount rate": null,
-        "price": 43800,
-        "discounted": 43800
+        "title": "It Takes Two",
+        "discount rate": "-60%",
+        "price": 44000,
+        "discounted": 17600
     },
     {
         "title": "Grand Theft Auto V",
+        "discount rate": null,
+        "price": 0,
+        "discounted": 0
+    },
+    {
+        "title": "The Callisto Protocol\u2122",
+        "discount rate": null,
+        "price": 74800,
+        "discounted": 74800
+    },
+    {
+        "title": "Total War: THREE KINGDOMS",
+        "discount rate": "-66%",
+        "price": 59800,
+        "discounted": 20330
+    },
+    {
+        "title": "Monster Hunter: World",
+        "discount rate": "-50%",
+        "price": 34900,
+        "discounted": 17450
+    },
+    {
+        "title": "Stardew Valley",
+        "discount rate": "-20%",
+        "price": 16000,
+        "discounted": 12800
+    },
+    {
+        "title": "Ready or Not",
+        "discount rate": "-15%",
+        "price": 43000,
+        "discounted": 36550
+    },
+    {
+        "title": "DAVE THE DIVER",
+        "discount rate": null,
+        "price": 24000,
+        "discounted": 24000
+    },
+    {
+        "title": "Horizon Zero Dawn\u2122 Complete Edition",
+        "discount rate": "-60%",
+        "price": 45800,
+        "discounted": 18320
+    },
+    {
+        "title": "Grounded",
+        "discount rate": "-25%",
+        "price": 39900,
+        "discounted": 29920
+    },
+    {
+        "title": "FreestyleFootball R",
+        "discount rate": null,
+        "price": 0,
+        "discounted": 0
+    },
+    {
+        "title": "The Forest",
+        "discount rate": "-77%",
+        "price": 20500,
+        "discounted": 4710
+    },
+    {
+        "title": "Hades",
+        "discount rate": "-40%",
+        "price": 26000,
+        "discounted": 15600
+    },
+    {
+        "title": "BURIED STARS",
+        "discount rate": "-70%",
+        "price": 41000,
+        "discounted": 12300
+    },
+    {
+        "title": "Assassin's Creed\u00ae Odyssey",
+        "discount rate": "-75%",
+        "price": 65000,
+        "discounted": 16250
+    },
+    {
+        "title": "TEKKEN 7",
+        "discount rate": "-85%",
+        "price": 43800,
+        "discounted": 6570
+    },
+    {
+        "title": "Back 4 Blood",
+        "discount rate": "-67%",
+        "price": 68800,
+        "discounted": 22700
+    },
+    {
+        "title": "ARK: Survival Evolved",
+        "discount rate": "-75%",
+        "price": 20500,
+        "discounted": 5120
+    },
+    {
+        "title": "Dinkum",
+        "discount rate": "-20%",
+        "price": 20500,
+        "discounted": 16400
+    },
+    {
+        "title": "Dead by Daylight",
+        "discount rate": "-60%",
+        "price": 21000,
+        "discounted": 8400
+    },
+    {
+        "title": "War Thunder",
+        "discount rate": null,
+        "price": 0,
+        "discounted": 0
+    },
+    {
+        "title": "Overcooked! 2",
+        "discount rate": "-75%",
+        "price": 26000,
+        "discounted": 6500
+    },
+    {
+        "title": "DJMAX RESPECT V - V EXTENSION III PACK",
+        "discount rate": null,
+        "price": 24800,
+        "discounted": 24800
+    },
+    {
+        "title": "The Sims\u2122 4",
+        "discount rate": null,
+        "price": 0,
+        "discounted": 0
+    },
+    {
+        "title": "Mount & Blade II: Bannerlord",
+        "discount rate": "-20%",
+        "price": 55000,
+        "discounted": 44000
+    },
+    {
+        "title": "Dying Light 2 Stay Human",
+        "discount rate": "-50%",
+        "price": 66000,
+        "discounted": 33000
+    },
+    {
+        "title": "Cities: Skylines",
+        "discount rate": "-70%",
+        "price": 32000,
+        "discounted": 9600
+    },
+    {
+        "title": "Hollow Knight",
+        "discount rate": "-50%",
+        "price": 16000,
+        "discounted": 8000
+    },
+    {
+        "title": "Tom Clancy's Rainbow Six\u00ae Siege",
+        "discount rate": "-60%",
+        "price": 22000,
+        "discounted": 8800
+    },
+    {
+        "title": "Destiny 2",
         "discount rate": null,
         "price": 0,
         "discounted": 0
@@ -150,22 +300,244 @@
         "discounted": 23250
     },
     {
-        "title": "Victoria 3",
-        "discount rate": null,
-        "price": 52000,
-        "discounted": 52000
+        "title": "EZ2ON REBOOT : R",
+        "discount rate": "-30%",
+        "price": 44800,
+        "discounted": 31360
     },
     {
-        "title": "DJMAX RESPECT V - V EXTENSION II PACK",
-        "discount rate": "-70%",
+        "title": "Battlefield\u2122 2042",
+        "discount rate": "-67%",
+        "price": 66000,
+        "discounted": 21780
+    },
+    {
+        "title": "Divinity: Original Sin 2 - Definitive Edition",
+        "discount rate": "-60%",
+        "price": 54000,
+        "discounted": 21600
+    },
+    {
+        "title": "Risk of Rain 2",
+        "discount rate": "-50%",
+        "price": 26000,
+        "discounted": 13000
+    },
+    {
+        "title": "TRIANGLE STRATEGY",
+        "discount rate": "-30%",
+        "price": 69800,
+        "discounted": 48860
+    },
+    {
+        "title": "GUILTY GEAR -STRIVE-",
+        "discount rate": "-25%",
+        "price": 39900,
+        "discounted": 29920
+    },
+    {
+        "title": "Battlefield\u2122 V",
+        "discount rate": "-90%",
+        "price": 55000,
+        "discounted": 5500
+    },
+    {
+        "title": "Hearts of Iron IV",
+        "discount rate": "-75%",
+        "price": 43000,
+        "discounted": 10750
+    },
+    {
+        "title": "ASTRONEER",
+        "discount rate": "-50%",
+        "price": 31000,
+        "discounted": 15500
+    },
+    {
+        "title": "NBA 2K23",
+        "discount rate": "-55%",
+        "price": 65000,
+        "discounted": 29250
+    },
+    {
+        "title": "Tabletop Simulator",
+        "discount rate": "-50%",
+        "price": 21000,
+        "discounted": 10500
+    },
+    {
+        "title": "Counter-Strike: Global Offensive",
+        "discount rate": null,
+        "price": 0,
+        "discounted": 0
+    },
+    {
+        "title": "Tales of Arise",
+        "discount rate": "-60%",
+        "price": 64800,
+        "discounted": 25920
+    },
+    {
+        "title": "Rust",
+        "discount rate": "-33%",
+        "price": 46000,
+        "discounted": 30820
+    },
+    {
+        "title": "Stellaris",
+        "discount rate": "-75%",
+        "price": 43000,
+        "discounted": 10750
+    },
+    {
+        "title": "Half-Life: Alyx",
+        "discount rate": "-60%",
+        "price": 63000,
+        "discounted": 25200
+    },
+    {
+        "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
+        "discount rate": "-50%",
+        "price": 64800,
+        "discounted": 32400
+    },
+    {
+        "title": "Valheim",
+        "discount rate": "-30%",
+        "price": 20500,
+        "discounted": 14350
+    },
+    {
+        "title": "V Rising",
+        "discount rate": "-20%",
+        "price": 20500,
+        "discounted": 16400
+    },
+    {
+        "title": "Age of Empires IV: Anniversary Edition",
+        "discount rate": "-33%",
+        "price": 39900,
+        "discounted": 26730
+    },
+    {
+        "title": "DOOM Eternal",
+        "discount rate": "-75%",
+        "price": 44500,
+        "discounted": 11120
+    },
+    {
+        "title": "Sea of Thieves",
+        "discount rate": "-50%",
+        "price": 39400,
+        "discounted": 19700
+    },
+    {
+        "title": "Lost Judgment",
+        "discount rate": "-30%",
+        "price": 49800,
+        "discounted": 34860
+    },
+    {
+        "title": "Days Gone",
+        "discount rate": "-60%",
+        "price": 45800,
+        "discounted": 18320
+    },
+    {
+        "title": "The Binding of Isaac: Rebirth",
+        "discount rate": "-25%",
+        "price": 15500,
+        "discounted": 11620
+    },
+    {
+        "title": "Total War: WARHAMMER III",
+        "discount rate": "-20%",
+        "price": 60000,
+        "discounted": 48000
+    },
+    {
+        "title": "Kena: Bridge of Spirits",
+        "discount rate": "-50%",
+        "price": 41000,
+        "discounted": 20500
+    },
+    {
+        "title": "Stray",
+        "discount rate": "-20%",
+        "price": 35000,
+        "discounted": 28000
+    },
+    {
+        "title": "Marvel\u2019s Spider-Man: Miles Morales",
+        "discount rate": null,
+        "price": 44800,
+        "discounted": 44800
+    },
+    {
+        "title": "Yakuza: Like a Dragon",
+        "discount rate": "-65%",
+        "price": 59800,
+        "discounted": 20930
+    },
+    {
+        "title": "Persona\u00ae 5 Strikers",
+        "discount rate": "-60%",
+        "price": 69800,
+        "discounted": 27920
+    },
+    {
+        "title": "Cuphead",
+        "discount rate": "-30%",
+        "price": 21000,
+        "discounted": 14700
+    },
+    {
+        "title": "Euro Truck Simulator 2",
+        "discount rate": "-75%",
         "price": 24800,
-        "discounted": 7440
+        "discounted": 6200
     },
     {
-        "title": "Stardew Valley",
-        "discount rate": null,
-        "price": 16000,
-        "discounted": 16000
+        "title": "Tiny Tina's Wonderlands",
+        "discount rate": "-50%",
+        "price": 65000,
+        "discounted": 32500
+    },
+    {
+        "title": "Slay the Spire",
+        "discount rate": "-66%",
+        "price": 26000,
+        "discounted": 8840
+    },
+    {
+        "title": "The Elder Scrolls V: Skyrim Special Edition",
+        "discount rate": "-75%",
+        "price": 45000,
+        "discounted": 11250
+    },
+    {
+        "title": "Satisfactory",
+        "discount rate": "-40%",
+        "price": 31000,
+        "discounted": 18600
+    },
+    {
+        "title": "Human: Fall Flat",
+        "discount rate": "-70%",
+        "price": 20500,
+        "discounted": 6150
+    },
+    {
+        "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+        "discount rate": "-29%",
+        "price": 79800,
+        "discounted": 56660
+    },
+    {
+        "title": "Monster Hunter Rise: Sunbreak",
+        "discount rate": "-25%",
+        "price": 48400,
+        "discounted": 36300
     },
     {
         "title": "Warhammer 40,000: Darktide",
@@ -174,19 +546,103 @@
         "discounted": 44000
     },
     {
-        "title": "Tactics Ogre: Reborn",
-        "discount rate": null,
-        "price": 62000,
-        "discounted": 62000
-    },
-    {
-        "title": "War Thunder",
+        "title": "Dota 2",
         "discount rate": null,
         "price": 0,
         "discounted": 0
     },
     {
-        "title": "MARVEL SNAP",
+        "title": "Library Of Ruina",
+        "discount rate": "-66%",
+        "price": 31000,
+        "discounted": 10540
+    },
+    {
+        "title": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
+        "discount rate": "-50%",
+        "price": 64800,
+        "discounted": 32400
+    },
+    {
+        "title": "Frostpunk",
+        "discount rate": "-75%",
+        "price": 31000,
+        "discounted": 7750
+    },
+    {
+        "title": "GrandChase",
+        "discount rate": null,
+        "price": 0,
+        "discounted": 0
+    },
+    {
+        "title": "Terraria",
+        "discount rate": "-50%",
+        "price": 10500,
+        "discounted": 5250
+    },
+    {
+        "title": "Core Keeper",
+        "discount rate": "-20%",
+        "price": 13500,
+        "discounted": 10800
+    },
+    {
+        "title": "Gunfire Reborn",
+        "discount rate": "-30%",
+        "price": 20500,
+        "discounted": 14350
+    },
+    {
+        "title": "Don't Starve Together",
+        "discount rate": "-66%",
+        "price": 15500,
+        "discounted": 5270
+    },
+    {
+        "title": "Assassin's Creed\u00ae Origins",
+        "discount rate": "-80%",
+        "price": 65000,
+        "discounted": 13000
+    },
+    {
+        "title": "Subnautica",
+        "discount rate": "-50%",
+        "price": 31000,
+        "discounted": 15500
+    },
+    {
+        "title": "Phasmophobia",
+        "discount rate": "-20%",
+        "price": 14500,
+        "discounted": 11600
+    },
+    {
+        "title": "Devil May Cry 5",
+        "discount rate": "-67%",
+        "price": 33400,
+        "discounted": 11020
+    },
+    {
+        "title": "Escape Simulator",
+        "discount rate": "-25%",
+        "price": 15500,
+        "discounted": 11620
+    },
+    {
+        "title": "Fallout 4",
+        "discount rate": "-67%",
+        "price": 22000,
+        "discounted": 7260
+    },
+    {
+        "title": "Battlefield\u2122 1",
+        "discount rate": "-88%",
+        "price": 44000,
+        "discounted": 5280
+    },
+    {
+        "title": "Conqueror's Blade",
         "discount rate": null,
         "price": 0,
         "discounted": 0
@@ -198,34 +654,64 @@
         "discounted": 64800
     },
     {
-        "title": "Deep Rock Galactic",
+        "title": "Left 4 Dead 2",
+        "discount rate": "-90%",
+        "price": 11000,
+        "discounted": 1100
+    },
+    {
+        "title": "Planet Zoo",
+        "discount rate": "-70%",
+        "price": 46000,
+        "discounted": 13800
+    },
+    {
+        "title": "Ori and the Will of the Wisps",
         "discount rate": "-67%",
+        "price": 29900,
+        "discounted": 9870
+    },
+    {
+        "title": "Detroit: Become Human",
+        "discount rate": "-50%",
+        "price": 39900,
+        "discounted": 19950
+    },
+    {
+        "title": "No Man's Sky",
+        "discount rate": "-50%",
+        "price": 60000,
+        "discounted": 30000
+    },
+    {
+        "title": "Need for Speed\u2122 Unbound",
+        "discount rate": null,
+        "price": 77000,
+        "discounted": 77000
+    },
+    {
+        "title": "Cult of the Lamb",
+        "discount rate": "-20%",
+        "price": 25000,
+        "discounted": 20000
+    },
+    {
+        "title": "ARK: Genesis Season Pass",
+        "discount rate": "-50%",
         "price": 31000,
-        "discounted": 10230
+        "discounted": 15500
     },
     {
-        "title": "ASTRONEER",
-        "discount rate": null,
-        "price": 31000,
-        "discounted": 31000
+        "title": "Skul: The Hero Slayer",
+        "discount rate": "-40%",
+        "price": 20500,
+        "discounted": 12300
     },
     {
-        "title": "Brotato",
+        "title": "Torchlight: Infinite",
         "discount rate": null,
-        "price": 5500,
-        "discounted": 5500
-    },
-    {
-        "title": "Cyberpunk 2077",
-        "discount rate": null,
-        "price": 66000,
-        "discounted": 66000
-    },
-    {
-        "title": "Risk of Rain 2",
-        "discount rate": null,
-        "price": 26000,
-        "discounted": 26000
+        "price": 0,
+        "discounted": 0
     },
     {
         "title": "Warframe",
@@ -234,160 +720,52 @@
         "discounted": 0
     },
     {
-        "title": "Human: Fall Flat",
+        "title": "Gang Beasts",
+        "discount rate": "-60%",
+        "price": 21000,
+        "discounted": 8400
+    },
+    {
+        "title": "Katana ZERO",
+        "discount rate": "-40%",
+        "price": 15500,
+        "discounted": 9300
+    },
+    {
+        "title": "ONE PIECE: PIRATE WARRIORS 4",
+        "discount rate": "-85%",
+        "price": 64800,
+        "discounted": 9720
+    },
+    {
+        "title": "Judgment",
+        "discount rate": "-25%",
+        "price": 34800,
+        "discounted": 26100
+    },
+    {
+        "title": "Kingdom Come: Deliverance",
+        "discount rate": "-70%",
+        "price": 31000,
+        "discounted": 9300
+    },
+    {
+        "title": "For The King",
         "discount rate": "-70%",
         "price": 20500,
         "discounted": 6150
     },
     {
-        "title": "Tales of Arise",
-        "discount rate": "-60%",
-        "price": 86800,
-        "discounted": 34720
+        "title": "Oxygen Not Included",
+        "discount rate": "-66%",
+        "price": 26000,
+        "discounted": 8840
     },
     {
-        "title": "Persona 5 Royal",
-        "discount rate": null,
-        "price": 69800,
-        "discounted": 69800
-    },
-    {
-        "title": "V Rising",
-        "discount rate": null,
-        "price": 20500,
-        "discounted": 20500
-    },
-    {
-        "title": "DJMAX RESPECT V - TECHNIKA TUNE & Q Pack",
-        "discount rate": "-30%",
-        "price": 19800,
-        "discounted": 13860
-    },
-    {
-        "title": "RimWorld",
-        "discount rate": null,
-        "price": 36000,
-        "discounted": 36000
-    },
-    {
-        "title": "Sid Meier's Civilization\u00ae V",
-        "discount rate": null,
-        "price": 32000,
-        "discounted": 32000
-    },
-    {
-        "title": "DJMAX RESPECT V - Muse Dash PACK",
-        "discount rate": "-60%",
-        "price": 17800,
-        "discounted": 7120
-    },
-    {
-        "title": "Football Manager 2023 In-game Editor",
-        "discount rate": null,
-        "price": 8850,
-        "discounted": 8850
-    },
-    {
-        "title": "The Past Within",
-        "discount rate": "-40%",
-        "price": 6700,
-        "discounted": 4020
-    },
-    {
-        "title": "For The King",
-        "discount rate": null,
-        "price": 20500,
-        "discounted": 20500
-    },
-    {
-        "title": "God of War",
-        "discount rate": null,
-        "price": 45800,
-        "discounted": 45800
-    },
-    {
-        "title": "Project Zomboid",
-        "discount rate": null,
-        "price": 20500,
-        "discounted": 20500
-    },
-    {
-        "title": "Dead by Daylight",
-        "discount rate": null,
-        "price": 21000,
-        "discounted": 21000
-    },
-    {
-        "title": "Marvel\u2019s Spider-Man: Miles Morales",
-        "discount rate": null,
-        "price": 44800,
-        "discounted": 44800
-    },
-    {
-        "title": "The Callisto Protocol\u2122",
-        "discount rate": null,
-        "price": 74800,
-        "discounted": 74800
-    },
-    {
-        "title": "Dota 2",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
-    },
-    {
-        "title": "The Binding of Isaac: Rebirth",
-        "discount rate": null,
-        "price": 15500,
-        "discounted": 15500
-    },
-    {
-        "title": "Monster Hunter Rise: Sunbreak",
-        "discount rate": "-25%",
-        "price": 48400,
-        "discounted": 36300
-    },
-    {
-        "title": "Raft",
-        "discount rate": null,
-        "price": 21000,
-        "discounted": 21000
-    },
-    {
-        "title": "Sonic Frontiers",
-        "discount rate": null,
-        "price": 49800,
-        "discounted": 49800
-    },
-    {
-        "title": "Devil May Cry 5",
-        "discount rate": "-67%",
-        "price": 33400,
-        "discounted": 11020
-    },
-    {
-        "title": "DJMAX RESPECT V - V Extension PACK",
-        "discount rate": "-70%",
-        "price": 24800,
-        "discounted": 7440
-    },
-    {
-        "title": "Longvinter",
-        "discount rate": null,
-        "price": 18500,
-        "discounted": 18500
-    },
-    {
-        "title": "Rust",
-        "discount rate": null,
-        "price": 46000,
-        "discounted": 46000
-    },
-    {
-        "title": "Tom Clancy's Rainbow Six\u00ae Siege",
-        "discount rate": null,
-        "price": 22000,
-        "discounted": 22000
+        "title": "Lobotomy Corporation | Monster Management Simulation",
+        "discount rate": "-66%",
+        "price": 26000,
+        "discounted": 8840
     },
     {
         "title": "Eternal Return",
@@ -396,256 +774,52 @@
         "discounted": 0
     },
     {
-        "title": "Red Dead Redemption 2",
-        "discount rate": null,
-        "price": 66000,
-        "discounted": 66000
+        "title": "STAR WARS Jedi: Fallen Order\u2122",
+        "discount rate": "-85%",
+        "price": 44000,
+        "discounted": 6600
     },
     {
-        "title": "SUPER PEOPLE",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
+        "title": "HITMAN 3",
+        "discount rate": "-65%",
+        "price": 64800,
+        "discounted": 22680
     },
     {
-        "title": "Destiny 2",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
-    },
-    {
-        "title": "The Forest",
-        "discount rate": null,
-        "price": 20500,
-        "discounted": 20500
-    },
-    {
-        "title": "Slay the Spire",
-        "discount rate": null,
-        "price": 26000,
-        "discounted": 26000
-    },
-    {
-        "title": "DJMAX RESPECT V - NEXON PACK",
-        "discount rate": "-70%",
-        "price": 19800,
-        "discounted": 5940
-    },
-    {
-        "title": "Marvel\u2019s Spider-Man Remastered",
-        "discount rate": null,
-        "price": 58800,
-        "discounted": 58800
-    },
-    {
-        "title": "RimWorld - Biotech",
-        "discount rate": null,
-        "price": 27000,
-        "discounted": 27000
-    },
-    {
-        "title": "Spiritfarer\u00ae: Farewell Edition",
-        "discount rate": "-75%",
-        "price": 31000,
-        "discounted": 7750
-    },
-    {
-        "title": "Warhammer: Vermintide 2",
-        "discount rate": "-80%",
-        "price": 31000,
-        "discounted": 6200
-    },
-    {
-        "title": "ARK: Survival Evolved",
-        "discount rate": null,
-        "price": 20500,
-        "discounted": 20500
-    },
-    {
-        "title": "EZ2ON REBOOT : R",
-        "discount rate": null,
-        "price": 44800,
-        "discounted": 44800
-    },
-    {
-        "title": "NBA 2K23",
-        "discount rate": null,
-        "price": 65000,
-        "discounted": 65000
-    },
-    {
-        "title": "Forza Horizon 5",
-        "discount rate": null,
-        "price": 59900,
-        "discounted": 59900
-    },
-    {
-        "title": "Sid Meier's Civilization\u00ae VI: Persia and Macedon Civilization & Scenario Pack",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
-    },
-    {
-        "title": "Sid Meier's Civilization\u00ae VI: Khmer and Indonesia Civilization & Scenario Pack",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
-    },
-    {
-        "title": "Borderlands 3",
-        "discount rate": "-75%",
-        "price": 64900,
-        "discounted": 16220
-    },
-    {
-        "title": "Wallpaper Engine",
-        "discount rate": null,
-        "price": 4500,
-        "discounted": 4500
-    },
-    {
-        "title": "Don't Starve Together",
-        "discount rate": null,
-        "price": 15500,
-        "discounted": 15500
-    },
-    {
-        "title": "Going Medieval",
-        "discount rate": "-20%",
-        "price": 26000,
-        "discounted": 20800
-    },
-    {
-        "title": "Phasmophobia",
-        "discount rate": null,
-        "price": 14500,
-        "discounted": 14500
-    },
-    {
-        "title": "Valheim",
-        "discount rate": null,
-        "price": 20500,
-        "discounted": 20500
-    },
-    {
-        "title": "American Truck Simulator",
-        "discount rate": "-75%",
-        "price": 24800,
-        "discounted": 6200
-    },
-    {
-        "title": "Mount & Blade II: Bannerlord",
-        "discount rate": null,
-        "price": 55000,
-        "discounted": 55000
-    },
-    {
-        "title": "Grounded",
-        "discount rate": null,
-        "price": 39900,
-        "discounted": 39900
-    },
-    {
-        "title": "DEAD OR ALIVE Xtreme Venus Vacation",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
-    },
-    {
-        "title": "The Sims\u2122 4",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
-    },
-    {
-        "title": "Ready or Not",
-        "discount rate": null,
-        "price": 43000,
-        "discounted": 43000
-    },
-    {
-        "title": "Sid Meier\u2019s Civilization\u00ae VI: Rise and Fall",
-        "discount rate": "-84%",
-        "price": 32500,
-        "discounted": 5200
-    },
-    {
-        "title": "Sid Meier's Civilization\u00ae VI: Gathering Storm",
-        "discount rate": "-88%",
-        "price": 45000,
-        "discounted": 5400
-    },
-    {
-        "title": "Hearts of Iron IV",
-        "discount rate": null,
-        "price": 43000,
-        "discounted": 43000
-    },
-    {
-        "title": "Far Cry\u00ae 5",
-        "discount rate": null,
-        "price": 65000,
-        "discounted": 65000
-    },
-    {
-        "title": "Sid Meier's Civilization\u00ae VI: Byzantium & Gaul Pack",
-        "discount rate": "-25%",
-        "price": 11000,
-        "discounted": 8250
-    },
-    {
-        "title": "Sid Meier's Civilization\u00ae VI: Vietnam & Kublai Khan Pack",
-        "discount rate": "-25%",
-        "price": 11000,
-        "discounted": 8250
-    },
-    {
-        "title": "Sid Meier's Civilization\u00ae VI: Maya & Gran Colombia Pack",
-        "discount rate": "-25%",
-        "price": 11000,
-        "discounted": 8250
+        "title": "ZERO Sievert",
+        "discount rate": "-10%",
+        "price": 21500,
+        "discounted": 19350
     },
     {
         "title": "ACE COMBAT\u2122 7: SKIES UNKNOWN",
-        "discount rate": null,
+        "discount rate": "-85%",
         "price": 54800,
-        "discounted": 54800
+        "discounted": 8220
     },
     {
-        "title": "Resident Evil Village",
-        "discount rate": null,
-        "price": 48400,
-        "discounted": 48400
+        "title": "Resident Evil 3",
+        "discount rate": "-75%",
+        "price": 47300,
+        "discounted": 11820
     },
     {
-        "title": "Squad",
-        "discount rate": "-25%",
+        "title": "Hunt: Showdown",
+        "discount rate": "-60%",
         "price": 49000,
-        "discounted": 36750
+        "discounted": 19600
     },
     {
-        "title": "DJMAX RESPECT V - TECHNIKA 3 PACK",
+        "title": "Nioh 2 \u2013 The Complete Edition",
+        "discount rate": "-40%",
+        "price": 54800,
+        "discounted": 32880
+    },
+    {
+        "title": "DJMAX RESPECT V - V EXTENSION II PACK",
         "discount rate": "-70%",
         "price": 24800,
         "discounted": 7440
-    },
-    {
-        "title": "Detroit: Become Human",
-        "discount rate": null,
-        "price": 39900,
-        "discounted": 39900
-    },
-    {
-        "title": "Terraria",
-        "discount rate": null,
-        "price": 10500,
-        "discounted": 10500
-    },
-    {
-        "title": "Card Shark",
-        "discount rate": "-30%",
-        "price": 22000,
-        "discounted": 15400
     },
     {
         "title": "Phoenix Wright: Ace Attorney Trilogy",
@@ -654,249 +828,75 @@
         "discounted": 16000
     },
     {
+        "title": "Batman\u2122: Arkham Knight",
+        "discount rate": "-80%",
+        "price": 21000,
+        "discounted": 4200
+    },
+    {
+        "title": "Crusader Kings III",
+        "discount rate": "-20%",
+        "price": 52000,
+        "discounted": 41600
+    },
+    {
+        "title": "Football Manager 2023 In-game Editor",
+        "discount rate": null,
+        "price": 8850,
+        "discounted": 8850
+    },
+    {
+        "title": "Warhammer 40,000: Inquisitor - Martyr",
+        "discount rate": "-80%",
+        "price": 49800,
+        "discounted": 9960
+    },
+    {
         "title": "Dead Cells",
-        "discount rate": null,
+        "discount rate": "-40%",
         "price": 25800,
-        "discounted": 25800
+        "discounted": 15480
     },
     {
-        "title": "ROMANCE OF THE THREE KINGDOMS XIV",
-        "discount rate": null,
-        "price": 64800,
-        "discounted": 64800
-    },
-    {
-        "title": "Outward Definitive Edition",
-        "discount rate": "-55%",
-        "price": 42000,
-        "discounted": 18900
-    },
-    {
-        "title": "Risk of Rain 2: Survivors of the Void",
-        "discount rate": null,
-        "price": 15000,
-        "discounted": 15000
-    },
-    {
-        "title": "A Dance of Fire and Ice",
-        "discount rate": null,
-        "price": 6500,
-        "discounted": 6500
-    },
-    {
-        "title": "Microsoft Flight Simulator 40th Anniversary Edition",
-        "discount rate": null,
-        "price": 59900,
-        "discounted": 59900
-    },
-    {
-        "title": "Sid Meier's Civilization\u00ae VI: Nubia Civilization & Scenario Pack",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
-    },
-    {
-        "title": "Sid Meier's Civilization\u00ae VI: Australia Civilization & Scenario Pack",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
-    },
-    {
-        "title": "Sid Meier's Civilization\u00ae VI: Vikings Scenario Pack",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
-    },
-    {
-        "title": "Sid Meier's Civilization\u00ae VI: Poland Civilization & Scenario Pack",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
-    },
-    {
-        "title": "It Takes Two",
-        "discount rate": null,
-        "price": 44000,
-        "discounted": 44000
-    },
-    {
-        "title": "DJMAX RESPECT V - BLACK SQUARE PACK",
-        "discount rate": "-70%",
-        "price": 19800,
-        "discounted": 5940
-    },
-    {
-        "title": "GWENT: The Witcher Card Game",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
-    },
-    {
-        "title": "DJMAX RESPECT V - Cytus Pack",
-        "discount rate": "-70%",
-        "price": 14800,
-        "discounted": 4440
-    },
-    {
-        "title": "Overcooked! 2",
-        "discount rate": null,
+        "title": "Outer Wilds",
+        "discount rate": "-40%",
         "price": 26000,
-        "discounted": 26000
-    },
-    {
-        "title": "Solasta: Crown of the Magister",
-        "discount rate": "-65%",
-        "price": 41000,
-        "discounted": 14350
-    },
-    {
-        "title": "Monster Hunter Stories 2: Wings of Ruin",
-        "discount rate": "-67%",
-        "price": 66800,
-        "discounted": 22040
-    },
-    {
-        "title": "Gunfire Reborn",
-        "discount rate": null,
-        "price": 20500,
-        "discounted": 20500
-    },
-    {
-        "title": "DJMAX RESPECT V - Portable 3 PACK",
-        "discount rate": "-70%",
-        "price": 19800,
-        "discounted": 5940
-    },
-    {
-        "title": "Escape Simulator",
-        "discount rate": null,
-        "price": 15500,
-        "discounted": 15500
-    },
-    {
-        "title": "DJMAX RESPECT V - CLEAR PASS : S7 PREMIUM TICKET",
-        "discount rate": null,
-        "price": 14800,
-        "discounted": 14800
-    },
-    {
-        "title": "DJMAX RESPECT V - Deemo Pack",
-        "discount rate": "-70%",
-        "price": 14800,
-        "discounted": 4440
-    },
-    {
-        "title": "Tiny Tina's Wonderlands",
-        "discount rate": null,
-        "price": 65000,
-        "discounted": 65000
-    },
-    {
-        "title": "Total War: WARHAMMER III",
-        "discount rate": null,
-        "price": 60000,
-        "discounted": 60000
-    },
-    {
-        "title": "DJMAX RESPECT V - TECHNIKA 2 PACK",
-        "discount rate": "-70%",
-        "price": 19800,
-        "discounted": 5940
-    },
-    {
-        "title": "DJMAX RESPECT V - GROOVE COASTER PACK",
-        "discount rate": "-70%",
-        "price": 14800,
-        "discounted": 4440
-    },
-    {
-        "title": "Cult of the Lamb",
-        "discount rate": null,
-        "price": 25000,
-        "discounted": 25000
-    },
-    {
-        "title": "Viscera Cleanup Detail",
-        "discount rate": null,
-        "price": 14000,
-        "discounted": 14000
-    },
-    {
-        "title": "DJMAX RESPECT V - Clazziquai Edition PACK",
-        "discount rate": "-70%",
-        "price": 19800,
-        "discounted": 5940
-    },
-    {
-        "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
-        "discount rate": null,
-        "price": 64800,
-        "discounted": 64800
-    },
-    {
-        "title": "Albion Online",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
-    },
-    {
-        "title": "Team Fortress 2",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
-    },
-    {
-        "title": "DJMAX RESPECT V - TECHNIKA PACK",
-        "discount rate": "-70%",
-        "price": 19800,
-        "discounted": 5940
-    },
-    {
-        "title": "Hogwarts Legacy",
-        "discount rate": null,
-        "price": 68800,
-        "discounted": 68800
-    },
-    {
-        "title": "Dome Keeper",
-        "discount rate": null,
-        "price": 18000,
-        "discounted": 18000
-    },
-    {
-        "title": "Night of the Dead",
-        "discount rate": null,
-        "price": 26000,
-        "discounted": 26000
-    },
-    {
-        "title": "TRIANGLE STRATEGY",
-        "discount rate": null,
-        "price": 69800,
-        "discounted": 69800
-    },
-    {
-        "title": "Warhammer 40,000: Darktide - Imperial Edition",
-        "discount rate": null,
-        "price": 26970,
-        "discounted": 26970
-    },
-    {
-        "title": "Left 4 Dead 2",
-        "discount rate": null,
-        "price": 11000,
-        "discounted": 11000
-    },
-    {
-        "title": "DCS World Steam Edition",
-        "discount rate": null,
-        "price": 0,
-        "discounted": 0
+        "discounted": 15600
     },
     {
         "title": "House Flipper",
-        "discount rate": "-19%",
+        "discount rate": "-55%",
         "price": 26000,
-        "discounted": 21060
+        "discounted": 11700
+    },
+    {
+        "title": "Total War: WARHAMMER II",
+        "discount rate": "-66%",
+        "price": 59800,
+        "discounted": 20330
+    },
+    {
+        "title": "Forza Horizon 4",
+        "discount rate": "-67%",
+        "price": 59900,
+        "discounted": 19770
+    },
+    {
+        "title": "Just Go",
+        "discount rate": "-20%",
+        "price": 10500,
+        "discounted": 8400
+    },
+    {
+        "title": "PAYDAY 2",
+        "discount rate": "-75%",
+        "price": 10500,
+        "discounted": 2620
+    },
+    {
+        "title": "Age of Empires II: Definitive Edition",
+        "discount rate": "-65%",
+        "price": 21000,
+        "discounted": 7350
     }
 ]
