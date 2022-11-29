@@ -5,16 +5,24 @@ import steamData from './web-scraping/scraped.json'
 function App() {
   const newSteamData = steamData.map((item, index) => {
     return (
-      <li key={index}>
-        {item.title} / {item.price} /{' '}
-        {item['discount rate'] === null
-          ? 'No discount.'
-          : item['discount rate']}{' '}
-        /{item.discounted}
+      <li class="forSteamData">
+        <li class="dataTitle">{item.title}</li>
+        <li class="nomalPrice">{item.price}</li>
+        <li class="discountRate">
+          {item['discount rate'] === null
+            ? 'No discount.'
+            : item['discount rate']}{' '}
+        </li>
+        <li class="discountedPrice">{item.discounted}</li>
       </li>
     )
   })
-  return <div className="App">{newSteamData}</div>
+  return (
+    <div className="App">
+      <h1>STEAMTRACKER for SKKU</h1>
+      {newSteamData}
+    </div>
+  )
 }
 
 export default App

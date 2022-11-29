@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  align-content: center;
 }
 
 .App-logo {
@@ -35,4 +36,28 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.forSteamData {
+  display: flex;
+  flex-direction: row;
+}
+.forSteamData .dataTitle {
+  margin-left: 10px;
+  width: 500px;
+}
+.forSteamData .nomalPrice {
+  margin-left: 10px;
+  width: 100px;
+  text-align: left;
+}
+.forSteamData .discountRate {
+  margin-left: 10px;
+  width: 200px;
+  text-align: left;
+}
+.forSteamData .discountedPrice {
+  margin-left: 10px;
+  width: 100px;
+  text-align: left;
 }
