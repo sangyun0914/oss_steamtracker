@@ -60,6 +60,8 @@ function parseSteam(url) {
         imgSmall = $(tag).find("img").attr("srcset").split(" ")[0];
         imgBig = $(tag).find("img").attr("srcset").split(" ")[2];
 
+        link = $(tag).attr("href");
+
         mygame = {
           title: title,
           "discount rate": discount_rate,
@@ -67,6 +69,7 @@ function parseSteam(url) {
           discounted: discounted,
           imgSmall: imgSmall,
           imgBig: imgBig,
+          link: link,
         };
 
         gameslist.push(mygame);
