@@ -57,7 +57,9 @@ let game_data = JSON.parse(JSON.stringify(jsonData));
     })
 
     if (user_select.title) game_list = search_title(game_list, user_select.title)
-    if (user_select.platform) game_list = select_platform(game_list, user_select.platform)
+    if (user_select.platform) user_select.platform.forEach(plat => {
+        game_list = select_platform(game_list, plat)
+    });
 
     if (user_select.order === 1) lowest_price(game_list)
     else if (user_select.order === 2) highest_price(game_list)
@@ -83,7 +85,7 @@ let game_data = JSON.parse(JSON.stringify(jsonData));
 /*export*/ let user_select = {
     order: Order_type['lowest rate'],
     title: null,
-    platform: "win",
+    platform: [],
 }
 
 /*export*/ let game_list = load_list(user_select)
