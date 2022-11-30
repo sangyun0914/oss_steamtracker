@@ -2,10 +2,7 @@ const https = require("https");
 const cheerio = require("cheerio");
 const fs = require("fs");
 
-let url =
-  "https://store.steampowered.com/search/results/?query&start=0&count=50&dynamic_data=&sort_by=_ASC&os=win&supportedlang=english&snr=1_7_7_7000_7&filter=topsellers&infinite=1";
-
-function parseSteam(url) {
+function parseSteam(url, command) {
   https.get(url, (res) => {
     let data = "";
     res.on("data", (d) => {
@@ -68,7 +65,8 @@ function parseSteam(url) {
               .replaceAll(",", "")
           );
         } catch {
-          discounted = 0;
+          if (price !== 0) discounted = price;
+          else discounted = 0;
         }
 
         imgSmall = $(tag).find("img").attr("srcset").split(" ")[0]; // Image 1x
@@ -117,7 +115,7 @@ function parseSteam(url) {
 
       // Save to json
       const jsonData = JSON.stringify(gameslist, null, 4);
-      fs.writeFile("./scraped.json", jsonData, function (err) {
+      fs.writeFile(`./${command}.json`, jsonData, function (err) {
         if (err) {
           console.log(err);
         }
@@ -126,4 +124,30 @@ function parseSteam(url) {
   });
 }
 
-parseSteam(url);
+function main() {
+  if (process.argv.length <= 2) {
+    console.log("Insufficient parameter! arg: topSeller or  popularNew");
+    process.exit(1);
+  }
+
+  let command = process.argv[2];
+  let url;
+
+  switch (command) {
+    case "topSeller":
+      url =
+        "https://store.steampowered.com/search/results/?query&start=0&count=50&dynamic_data=&sort_by=_ASC&os=win&supportedlang=english&snr=1_7_7_7000_7&filter=topsellers&infinite=1";
+      break;
+    case "popularNew":
+      url =
+        "https://store.steampowered.com/search/results/?query&start=0&count=50&dynamic_data=&sort_by=Released_DESC&os=win&supportedlang=english&snr=1_7_7_popularnew_7&filter=popularnew&infinite=1";
+      break;
+    default:
+      console.log("Wrong command!");
+      process.exit(1);
+  }
+
+  parseSteam(url, command);
+}
+
+main();
