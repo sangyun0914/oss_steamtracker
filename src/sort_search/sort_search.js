@@ -28,16 +28,16 @@ export function highest_rate(game_list) {
 //lowest rating order
 export function lowest_rating(game_list) {
     game_list.sort((a, b) => {
-        let _a = a.rating !== null ? a.rating.toString().slice(0, 2) : 0;
-        let _b = b.rating !== null ? b.rating.toString().slice(0, 2) : 0;
+        let _a = a.rating !== null ? parseInt(a.rating.toString().slice(0, 3)) : 0;
+        let _b = b.rating !== null ? parseInt(b.rating.toString().slice(0, 3)) : 0;
         return _a - _b;
     });
 }
 //highest rating order
 export function highest_rating(game_list) {
     game_list.sort((a, b) => {
-        let _a = a.rating !== null ? a.rating.toString().slice(0, 2) : 0;
-        let _b = b.rating !== null ? b.rating.toString().slice(0, 2) : 0;
+        let _a = a.rating !== null ? parseInt(a.rating.toString().slice(0, 3)) : 0;
+        let _b = b.rating !== null ? parseInt(b.rating.toString().slice(0, 3)) : 0;
         return _b - _a;
     });
 }
@@ -82,12 +82,6 @@ export const Order_type = {
     'highest rating': 6,
 }
 
-// exmaple
-export let user_select = {
-    order: Order_type['lowest rate'],
-    title: "nba",
-    platform: [],
-}
 
-export let game_list = load_list(user_select)
-console.log(game_list)
+export let game_list = load_list(6)
+game_list.forEach((e) => console.log(e.rating));
