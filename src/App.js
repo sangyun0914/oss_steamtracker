@@ -102,7 +102,7 @@ function App() {
       </Header>
       <SortContainer
         style={{
-          width: isMenuOpen ? 500 : 100,
+          width: isMenuOpen ? 700 : 100,
         }}
       >
         <SortTitle
@@ -119,7 +119,7 @@ function App() {
           }}
           style={{ width: isMenuOpen ? '100px' : '0' }}
         >
-          1
+          Lowest Price
         </SortItems>
         <SortItems
           onClick={() => {
@@ -128,7 +128,7 @@ function App() {
           }}
           style={{ width: isMenuOpen ? '100px' : '0' }}
         >
-          2
+          Highest Price
         </SortItems>
         <SortItems
           onClick={() => {
@@ -137,7 +137,7 @@ function App() {
           }}
           style={{ width: isMenuOpen ? '100px' : '0' }}
         >
-          3
+          Lowest Discount Rate
         </SortItems>
         <SortItems
           onClick={() => {
@@ -146,7 +146,25 @@ function App() {
           }}
           style={{ width: isMenuOpen ? '100px' : '0' }}
         >
-          4
+          Highest Discount Rate
+        </SortItems>
+        <SortItems
+          onClick={() => {
+            clickHandler(5)
+            setIsMenuOpen(0)
+          }}
+          style={{ width: isMenuOpen ? '100px' : '0' }}
+        >
+          Lowest User Rate
+        </SortItems>
+        <SortItems
+          onClick={() => {
+            clickHandler(5)
+            setIsMenuOpen(0)
+          }}
+          style={{ width: isMenuOpen ? '100px' : '0' }}
+        >
+          Highest User Rate
         </SortItems>
       </SortContainer>
       <IntroductionContent>
@@ -174,7 +192,7 @@ function App() {
             <li class="discountedPrice">
               {item.discounted === 0 ? 'Free game.' : item.discounted}
             </li>
-            <li>{item.rating}</li>
+            <li class="Ratings">{item.rating}</li>
           </li>
         )
       })}
