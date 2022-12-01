@@ -66,8 +66,8 @@ export function load_list(user_select) {
     else if (user_select === 2) highest_price(game_list)
     else if (user_select === 3) lowest_rate(game_list)
     else if (user_select === 4) highest_rate(game_list)
-    else if (user_select.order === 5) lowest_rating(game_list)
-    else if (user_select.order === 6) highest_rating(game_list)
+    else if (user_select === 5) lowest_rating(game_list)
+    else if (user_select === 6) highest_rating(game_list)
 
     return game_list
 }
