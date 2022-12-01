@@ -110,7 +110,7 @@ function App() {
             menuClickHandler()
           }}
         >
-          sex
+          Sorting Option
         </SortTitle>
         <SortItems
           onClick={() => {
