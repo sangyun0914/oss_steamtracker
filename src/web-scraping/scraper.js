@@ -112,42 +112,41 @@ function parseSteam(url, command) {
 
         gameslist.push(mygame);
       });
-
-      // Save to json
-      const jsonData = JSON.stringify(gameslist, null, 4);
-      fs.writeFile(`./${command}.json`, jsonData, function (err) {
-        if (err) {
-          console.log(err);
-        }
-      });
+      //console.log(gameslist);
+      return gameslist;
     });
   });
 }
 
 function main() {
-  if (process.argv.length <= 2) {
-    console.log("Insufficient parameter! arg: topSeller or  popularNew");
-    process.exit(1);
-  }
-
   let command = process.argv[2];
   let url;
 
   switch (command) {
-    case "topSeller":
-      url =
-        "https://store.steampowered.com/search/results/?query&start=0&count=50&dynamic_data=&sort_by=_ASC&os=win&supportedlang=english&snr=1_7_7_7000_7&filter=topsellers&infinite=1";
-      break;
     case "popularNew":
       url =
         "https://store.steampowered.com/search/results/?query&start=0&count=50&dynamic_data=&sort_by=Released_DESC&os=win&supportedlang=english&snr=1_7_7_popularnew_7&filter=popularnew&infinite=1";
       break;
     default:
-      console.log("Wrong command!");
-      process.exit(1);
+      url =
+        "https://store.steampowered.com/search/results/?query&start=0&count=50&dynamic_data=&sort_by=_ASC&os=win&supportedlang=english&snr=1_7_7_7000_7&filter=topsellers&infinite=1";
+      command = "scraped";
   }
-
-  parseSteam(url, command);
+  // Start modification for loop
+  let total = [];
+  for (let i = 0; i < 101; i += 50) {
+    url = `https://store.steampowered.com/search/results/?query&start=${i}&count=50&dynamic_data=&sort_by=_ASC&os=win&supportedlang=english&snr=1_7_7_7000_7&filter=topsellers&infinite=1`;
+    let temp = parseSteam(url, command);
+    total.push(temp);
+  }
+  console.log(total);
+  // Save to json
+  // const jsonData = JSON.stringify(total, null, 4);
+  // fs.writeFile(`./${command}.json`, jsonData, function (err) {
+  //   if (err) {
+  //     console.log(err);
+  //   }
+  // });
 }
 
 main();
