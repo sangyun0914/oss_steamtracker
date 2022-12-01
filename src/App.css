@@ -40,7 +40,9 @@
     transform: rotate(360deg);
   }
 }
-
+li {
+  list-style: none;
+}
 .forSteamData {
   display: flex;
   flex-direction: row;
