@@ -43,7 +43,7 @@ export function highest_rating(game_list) {
 }
 //search title
 export function search_title(game_list, substirng) {
-    return game_list.filter((game) => game.title.indexOf(substirng) !== -1)
+    return game_list.filter((game) => game.title.toLowerCase().indexOf(substirng.toLowerCase()) !== -1)
 }
 //select platform
 export function select_platform(game_list, platform) {
@@ -85,7 +85,7 @@ export const Order_type = {
 // exmaple
 export let user_select = {
     order: Order_type['lowest rate'],
-    title: null,
+    title: "nba",
     platform: [],
 }
 
