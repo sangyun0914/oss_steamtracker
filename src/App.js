@@ -159,7 +159,7 @@ function App() {
         </SortItems>
         <SortItems
           onClick={() => {
-            clickHandler(5)
+            clickHandler(6)
             setIsMenuOpen(0)
           }}
           style={{ width: isMenuOpen ? '100px' : '0' }}
