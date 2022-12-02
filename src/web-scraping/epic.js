@@ -22,9 +22,11 @@ games.forEach((element) => {
   price = element["price"]["totalPrice"]["originalPrice"];
   discounted = element["price"]["totalPrice"]["discountPrice"];
   discount_rate =
+    "-" +
     Math.floor((element["price"]["totalPrice"]["discount"] / price) * 100) +
     "%";
-  if (discount_rate === "NaN%" || discount_rate === "0%") discount_rate = null;
+  if (discount_rate === "-NaN%" || discount_rate === "-0%")
+    discount_rate = null;
 
   element["keyImages"].forEach((data) => {
     if (data.type === "Thumbnail") imgSmall = data.url;
