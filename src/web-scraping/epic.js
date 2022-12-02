@@ -1,4 +1,4 @@
-const jsonData = require("./sale.json");
+const jsonData = require("./epicSaleRaw.json");
 const fs = require("fs");
 
 let game_data = JSON.parse(JSON.stringify(jsonData));
@@ -29,9 +29,13 @@ games.forEach((element) => {
     if (data.type === "Thumbnail") imgSmall = data.url;
   });
   imgBig = imgSmall;
-  release_date = element["releaseDate"].split("T")[0];
-  link = element["url"];
-  platform = null;
+  try {
+    release_date = element["releaseDate"].split("T")[0];
+  } catch {
+    release_date = null;
+  }
+  link = "https://store.epicgames.com/en-US/p/" + element["productSlug"];
+  platform = "epic";
   review = null;
   rating = null;
 
@@ -50,8 +54,6 @@ games.forEach((element) => {
   };
   total.push(game);
 });
-
-console.log(total);
 
 // Save games to json file
 const totalJson = JSON.stringify(total, null, 4);
