@@ -1,6 +1,21 @@
 <a name="readme-top"></a>
 
+<div>
 <h1 align="center">✨ SteamTracker for SKKU</h3>
+<h3 align="center">All the game deals in one place</h3>
+  <p align="center">
+    An awesome README template to jumpstart your projects!
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+  </p>
+</div>
 
 <!-- ABOUT THE PROJECT -->
 
@@ -10,9 +25,9 @@
 
 SteamTracker is an open-source web project designed to provide personalized STEAM games for your needs. Not only do we provide a list of game info, we also provide sorting as well as a place to store your favourites.
 
-- **Features TBA**.
-- **Features TBA**.
-- **Features TBA**.
+- <strong>Provides games from both STEAM and Epic Games</strong>
+- <strong>Provides joint sorting and searching games for both platforms according to your needs</strong>
+- <strong>Provides a 'Wish List' to store your favourites</strong>
 
 <!-- GETTING STARTED -->
 

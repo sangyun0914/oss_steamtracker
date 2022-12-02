@@ -11,7 +11,7 @@
   pointer-events: none;
 }
 body {
-  background-color: #79706c;
+  background-color: #0E0F37;
 }
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -50,7 +50,7 @@ li {
   flex-direction: row;
   align-items: center;
   height: 150px;
-  background-color: rgb(142, 119, 145);
+  background-color:#778899;
 }
 .epic {
   display: flex;
