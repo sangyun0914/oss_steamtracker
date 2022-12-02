@@ -105,7 +105,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 - [Wi Seong Cho](https://github.com/seeewd)
 - [Sangyun Shin](https://github.com/sangyun0914)
-- [JinHyeok Lee](https://github.com/seeewds)
+- [JinHyeok Lee](https://github.com/tool7831)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
