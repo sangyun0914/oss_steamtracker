@@ -4,16 +4,9 @@
 <h1 align="center">✨ SteamTracker for SKKU</h3>
 <h3 align="center">All the game deals in one place</h3>
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="#presentation">View presentation</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href=https://github.com/seeewd/oss_steamtracker/issues>Report Bug</a>
   </p>
 </div>
 
@@ -21,7 +14,7 @@
 
 ## About The Project
 
-- THUMBNAIL TBA
+![image info](./src/mainpage.png)
 
 SteamTracker is an open-source web project designed to provide personalized STEAM games for your needs. Not only do we provide a list of game info, we also provide sorting as well as a place to store your favourites.
 
@@ -104,7 +97,7 @@ Default scraper execution results to scraping top 100 games. numGames should be 
 
 <!-- Presentation -->
 
-## Presentation
+## Presentation<a name="presentation"></a>
 
 Link to Youtube TBA
 
