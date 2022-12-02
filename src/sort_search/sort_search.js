@@ -66,3 +66,16 @@ export function load_list(user_select) {
     return game_list
 }
 
+export const Order_type = {
+    default: 0,
+    'lowest price': 1,
+    'higest price': 2,
+    'lowest rate': 3,
+    'higest rate': 4,
+    'lowest rating': 5,
+    'highest rating': 6,
+}
+
+
+export let game_list = load_list(0)
+
