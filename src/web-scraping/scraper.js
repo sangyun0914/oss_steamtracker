@@ -106,13 +106,7 @@ function parse(result) {
       rating = null;
     }
 
-    $(tag)
-      .find(".platform_img")
-      .each(function (index, element) {
-        platform.push(
-          $(element).attr("class").replaceAll("platform_img", "").trim()
-        );
-      });
+    platform = "steam";
 
     // Game object
     game = {
@@ -154,7 +148,7 @@ async function main() {
         url = `https://store.steampowered.com/search/results/?query&start=${i}&count=50&dynamic_data=&sort_by=Released_DESC&os=win&supportedlang=english&snr=1_7_7_popularnew_7&filter=popularnew&infinite=1`;
       default:
         url = `https://store.steampowered.com/search/results/?query&start=${i}&count=50&dynamic_data=&sort_by=_ASC&os=win&supportedlang=english&snr=1_7_7_7000_7&filter=topsellers&infinite=1`;
-        command = "scraped";
+        command = "SteamTop";
     }
 
     total = total.concat(await parseSteam(url));

@@ -1,4 +1,4 @@
-const jsonData = require("./epicSaleRaw.json");
+const jsonData = require("./epicTotalRaw.json");
 const fs = require("fs");
 
 let game_data = JSON.parse(JSON.stringify(jsonData));
@@ -24,6 +24,7 @@ games.forEach((element) => {
   discount_rate =
     Math.floor((element["price"]["totalPrice"]["discount"] / price) * 100) +
     "%";
+  if (discount_rate === "NaN%" || discount_rate === "0%") discount_rate = null;
 
   element["keyImages"].forEach((data) => {
     if (data.type === "Thumbnail") imgSmall = data.url;
@@ -57,7 +58,7 @@ games.forEach((element) => {
 
 // Save games to json file
 const totalJson = JSON.stringify(total, null, 4);
-fs.writeFile(`EpicSale.json`, totalJson, function (err) {
+fs.writeFile(`EpicTotal.json`, totalJson, function (err) {
   if (err) {
     console.log(err);
   }
