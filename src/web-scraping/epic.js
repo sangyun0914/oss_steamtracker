@@ -35,7 +35,9 @@ games.forEach((element) => {
   } catch {
     release_date = null;
   }
-  link = "https://store.epicgames.com/en-US/p/" + element["productSlug"];
+  link =
+    "https://store.epicgames.com/en-US/p/" +
+    element["catalogNs"]["mappings"][0]["pageSlug"];
   platform = "epic";
   review = null;
   rating = null;
