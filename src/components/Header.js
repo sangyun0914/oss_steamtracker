@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import styled from 'styled-components'
 import { Link } from 'react-router-dom'
 const HeaderContainer = styled.header`
-  width: 100vw;
+  width: 1220px;
   height: 100px;
 
   padding: 0px 30px;

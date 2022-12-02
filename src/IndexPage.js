@@ -67,6 +67,11 @@ const InputBox = styled.input`
 const IntroductionContent = styled.div`
   width: 1220px;
   height: 400px;
+  overflow: hidden;
+  display: flex:
+  justify-content: center;
+  align-items: center;
+  padding-top: -100px;
 `
 
 const CheckBox = styled.div`
@@ -117,7 +122,7 @@ const IndexPage = (props) => {
       }
     }
     if (!isDup) wishlist.push(displayList[idx])
-    console.log(wishlist)
+    //console.log(wishlist)
 
     window.localStorage.clear()
     const wishlistString = JSON.stringify(wishlist)
@@ -224,7 +229,15 @@ const IndexPage = (props) => {
       </SortContainer>
       <InputBox onChange={search} placeholder="Search" />
 
-      <IntroductionContent></IntroductionContent>
+      <IntroductionContent>
+        <img
+          src="./steam.jpg"
+          style={{
+            width: '100%',
+            height: 'auto',
+          }}
+        ></img>
+      </IntroductionContent>
       {displayList.map((item, index) => {
         return (
           <li class={item.platform}>
