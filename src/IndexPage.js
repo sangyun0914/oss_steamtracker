@@ -18,7 +18,8 @@ const SortContainer = styled.div`
 
   display: flex;
   flex-wrap: nowrap;
-
+  align-items: center;
+  justify-content: center;
   z-index: 100000;
 
   transition: 0.3s ease-out;
@@ -28,7 +29,10 @@ const SortTitle = styled.div`
   width: 100px;
   height: 50px;
   background: gray;
-
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
   cursor: pointer;
 `
 
@@ -39,8 +43,9 @@ const SortItems = styled.div`
 
   color: white;
 
+  top: 10px
   //display: none;
-
+  font-size: 14px;
   cursor: pointer;
 
   transition: 0.3s ease-out;

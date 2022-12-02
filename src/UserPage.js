@@ -9,7 +9,7 @@ import Header from './components/Header'
 const UserPage = () => {
   return (
     <>
-      <Header />
+      <Header></Header>
     </>
   )
 }

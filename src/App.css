@@ -42,10 +42,13 @@
 }
 li {
   list-style: none;
+  align-items: center;
+  justify-content: center;
 }
 .forSteamData {
   display: flex;
   flex-direction: row;
+  height: 60px;
 }
 .forSteamData .dataTitle {
   margin-left: 10px;
@@ -53,21 +56,21 @@ li {
 }
 .forSteamData .nomalPrice {
   margin-left: 10px;
-  width: 200px;
+  width: 100px;
   text-align: left;
 }
 .forSteamData .discountRate {
   margin-left: 10px;
-  width: 200px;
+  width: 120px;
   text-align: left;
 }
 .forSteamData .discountedPrice {
   margin-left: 10px;
-  width: 200px;
+  width: 100px;
   text-align: left;
 }
 .forSteamData .Ratings {
   margin-left: 10px;
-  width: 200px;
+  width: 480px;
   text-align: left;
 }

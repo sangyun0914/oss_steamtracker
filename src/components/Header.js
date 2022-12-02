@@ -24,10 +24,12 @@ const HeaderLogo = styled(Link)`
 const HeaderButton = styled(Link)`
   width: 100px;
   height: 100px;
-
+  display: flex;
+  align-items: center;
+  justify-content: center;
   color: white;
   background: black;
-
+  margin-top: 30px;
   border-radius: 10px;
 
   cursor: pointer;
