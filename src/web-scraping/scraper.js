@@ -106,13 +106,7 @@ function parse(result) {
       rating = null;
     }
 
-    $(tag)
-      .find(".platform_img")
-      .each(function (index, element) {
-        platform.push(
-          $(element).attr("class").replaceAll("platform_img", "").trim()
-        );
-      });
+    platform = "steam";
 
     // Game object
     game = {
