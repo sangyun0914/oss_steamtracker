@@ -84,6 +84,7 @@ li {
 .dataTitle {
   margin-left: 10px;
   width: 250px;
+  font-weight: bold;
 }
 a {
   text-decoration: none;
