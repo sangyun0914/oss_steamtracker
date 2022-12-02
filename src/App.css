@@ -10,7 +10,9 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+body {
+  background-color: #79706c;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -48,14 +50,14 @@ li {
   flex-direction: row;
   align-items: center;
   height: 150px;
-  background-color: aquamarine;
+  background-color: rgb(142, 119, 145);
 }
 .epic {
   display: flex;
   flex-direction: row;
   align-items: center;
   height: 150px;
-  background-color: red;
+  background-color: rgb(106, 106, 124);
 }
 .imgCell {
   overflow: hidden;

@@ -65,7 +65,7 @@ const InputBox = styled.input`
 `
 
 const IntroductionContent = styled.div`
-  width: 100vw;
+  width: 1220px;
   height: 400px;
 `
 
