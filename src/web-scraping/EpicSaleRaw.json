@@ -1,0 +1,3255 @@
+{
+    "data": {
+        "Catalog": {
+            "searchStore": {
+                "elements": [
+                    {
+                        "title": "Sackboy™: A Big Adventure",
+                        "id": "0caf0acf740b4705b4c477c7ddda9527",
+                        "namespace": "1b60f39de33b4902a8d5fa543b1fb628",
+                        "description": "PlayStation® icon Sackboy bursts into action on PC in a huge 3D multiplayer platforming adventure. \n•\tAn epic journey stuffed with platforming challenges.\n•\tDeeply immersive controls.\n•\tCollaborative, chaotic, and joyful multiplayer fun.",
+                        "effectiveDate": "2022-10-27T15:00:00.000Z",
+                        "keyImages": [
+                            {
+                                "type": "CodeRedemption_340x440",
+                                "url": "https://cdn1.epicgames.com/offer/1b60f39de33b4902a8d5fa543b1fb628/EGS_SackboyABigAdventure_SumoDigital_S2_1200x1600-cc68022e4d17a383c8571dc43586353c"
+                            },
+                            {
+                                "type": "DieselStoreFrontTall",
+                                "url": "https://cdn1.epicgames.com/offer/1b60f39de33b4902a8d5fa543b1fb628/EGS_SackboyABigAdventure_SumoDigital_S2_1200x1600-cc68022e4d17a383c8571dc43586353c"
+                            },
+                            {
+                                "type": "DieselStoreFrontWide",
+                                "url": "https://cdn1.epicgames.com/offer/1b60f39de33b4902a8d5fa543b1fb628/EGS_SackboyABigAdventure_SumoDigital_S1_2560x1440-6a435e8dec7bd8cdcf6a87d1b1ed0262"
+                            },
+                            {
+                                "type": "OfferImageTall",
+                                "url": "https://cdn1.epicgames.com/offer/1b60f39de33b4902a8d5fa543b1fb628/EGS_SackboyABigAdventure_SumoDigital_S2_1200x1600-cc68022e4d17a383c8571dc43586353c"
+                            },
+                            {
+                                "type": "OfferImageWide",
+                                "url": "https://cdn1.epicgames.com/offer/1b60f39de33b4902a8d5fa543b1fb628/EGS_SackboyABigAdventure_SumoDigital_S1_2560x1440-6a435e8dec7bd8cdcf6a87d1b1ed0262"
+                            },
+                            {
+                                "type": "Thumbnail",
+                                "url": "https://cdn1.epicgames.com/offer/1b60f39de33b4902a8d5fa543b1fb628/EGS_SackboyABigAdventure_SumoDigital_S2_1200x1600-cc68022e4d17a383c8571dc43586353c"
+                            }
+                        ],
+                        "currentPrice": 58800,
+                        "seller": {
+                            "id": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+                            "name": "Sony Interactive Entertainment"
+                        },
+                        "productSlug": "sackboy-a-big-adventure",
+                        "urlSlug": "sackboy-a-big-adventure",
+                        "url": null,
+                        "tags": [
+                            {
+                                "id": "1264"
+                            },
+                            {
+                                "id": "1203"
+                            },
+                            {
+                                "id": "21894"
+                            },
+                            {
+                                "id": "1370"
+                            },
+                            {
+                                "id": "9547"
+                            },
+                            {
+                                "id": "1117"
+                            },
+                            {
+                                "id": "9549"
+                            },
+                            {
+                                "id": "1151"
+                            }
+                        ],
+                        "items": [
+                            {
+                                "id": "c661b29c6d2c4cc287d7c3f1f6302f6c",
+                                "namespace": "1b60f39de33b4902a8d5fa543b1fb628"
+                            }
+                        ],
+                        "customAttributes": [
+                            {
+                                "key": "com.epicgames.app.productSlug",
+                                "value": "sackboy-a-big-adventure"
+                            }
+                        ],
+                        "categories": [
+                            {
+                                "path": "games"
+                            },
+                            {
+                                "path": "games/edition"
+                            },
+                            {
+                                "path": "games/edition/base"
+                            },
+                            {
+                                "path": "applications"
+                            }
+                        ],
+                        "catalogNs": {
+                            "mappings": [
+                                {
+                                    "pageSlug": "sackboy-a-big-adventure",
+                                    "pageType": "productHome"
+                                }
+                            ]
+                        },
+                        "offerMappings": [],
+                        "developerDisplayName": "Sumo Digital",
+                        "publisherDisplayName": "PlayStation PC LLC",
+                        "price": {
+                            "totalPrice": {
+                                "discountPrice": 39390,
+                                "originalPrice": 58800,
+                                "voucherDiscount": 0,
+                                "discount": 19410,
+                                "currencyCode": "KRW",
+                                "currencyInfo": {
+                                    "decimals": 0
+                                },
+                                "fmtPrice": {
+                                    "originalPrice": "₩58,800",
+                                    "discountPrice": "₩39,390",
+                                    "intermediatePrice": "₩39,390"
+                                }
+                            },
+                            "lineOffers": [
+                                {
+                                    "appliedRules": [
+                                        {
+                                            "id": "eccba03576e0489c9363cbca7ceef20f",
+                                            "endDate": "2022-12-04T16:00:00.000Z",
+                                            "discountSetting": {
+                                                "discountType": "PERCENTAGE"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "prePurchase": null,
+                        "releaseDate": "2022-10-27T15:00:00.000Z",
+                        "pcReleaseDate": "2022-10-27T15:00:00.000Z",
+                        "viewableDate": "2022-10-27T15:00:00.000Z",
+                        "approximateReleasePlan": null
+                    },
+                    {
+                        "title": "DOOM 3",
+                        "id": "a6f4dc69036c4208817b25587ca2807d",
+                        "namespace": "7f1853beef0a4b40827038d0f47606f3",
+                        "description": "In this critically acclaimed action-horror re-telling of the original DOOM, players must battle their way through a demon-infested facility before entering the abyss to battle Hell's mightiest warrior - and put an end to the invasion.",
+                        "effectiveDate": "2022-08-18T15:00:00.000Z",
+                        "keyImages": [
+                            {
+                                "type": "OfferImageTall",
+                                "url": "https://cdn1.epicgames.com/offer/7f1853beef0a4b40827038d0f47606f3/EGS_DOOM3_idSoftwarePanicButton_S2_1200x1600-ea552d0725a456dad637318dbf2f50c3"
+                            },
+                            {
+                                "type": "OfferImageWide",
+                                "url": "https://cdn1.epicgames.com/offer/7f1853beef0a4b40827038d0f47606f3/EGS_DOOM3_idSoftwarePanicButton_S1_2560x1440-e29ea97ef0c5689b6ee1b5ae12d9a1bb"
+                            },
+                            {
+                                "type": "Thumbnail",
+                                "url": "https://cdn1.epicgames.com/offer/7f1853beef0a4b40827038d0f47606f3/EGS_DOOM3_idSoftwarePanicButton_S2_1200x1600-ea552d0725a456dad637318dbf2f50c3"
+                            }
+                        ],
+                        "currentPrice": 11000,
+                        "seller": {
+                            "id": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+                            "name": "Bethesda Softworks LLC"
+                        },
+                        "productSlug": "doom-3",
+                        "urlSlug": "doom-3",
+                        "url": null,
+                        "tags": [
+                            {
+                                "id": "1216"
+                            },
+                            {
+                                "id": "1185"
+                            },
+                            {
+                                "id": "1218"
+                            },
+                            {
+                                "id": "21109"
+                            },
+                            {
+                                "id": "22485"
+                            },
+                            {
+                                "id": "21894"
+                            },
+                            {
+                                "id": "1370"
+                            },
+                            {
+                                "id": "9547"
+                            },
+                            {
+                                "id": "1198"
+                            },
+                            {
+                                "id": "18607"
+                            }
+                        ],
+                        "items": [
+                            {
+                                "id": "f88c208169304ece8cc0bc6c8caa0aae",
+                                "namespace": "7f1853beef0a4b40827038d0f47606f3"
+                            }
+                        ],
+                        "customAttributes": [
+                            {
+                                "key": "com.epicgames.app.productSlug",
+                                "value": "doom-3"
+                            }
+                        ],
+                        "categories": [
+                            {
+                                "path": "games"
+                            },
+                            {
+                                "path": "games/edition"
+                            },
+                            {
+                                "path": "games/edition/base"
+                            },
+                            {
+                                "path": "applications"
+                            }
+                        ],
+                        "catalogNs": {
+                            "mappings": [
+                                {
+                                    "pageSlug": "doom-3",
+                                    "pageType": "productHome"
+                                }
+                            ]
+                        },
+                        "offerMappings": [],
+                        "developerDisplayName": null,
+                        "publisherDisplayName": null,
+                        "price": {
+                            "totalPrice": {
+                                "discountPrice": 4400,
+                                "originalPrice": 11000,
+                                "voucherDiscount": 0,
+                                "discount": 6600,
+                                "currencyCode": "KRW",
+                                "currencyInfo": {
+                                    "decimals": 0
+                                },
+                                "fmtPrice": {
+                                    "originalPrice": "₩11,000",
+                                    "discountPrice": "₩4,400",
+                                    "intermediatePrice": "₩4,400"
+                                }
+                            },
+                            "lineOffers": [
+                                {
+                                    "appliedRules": [
+                                        {
+                                            "id": "dc405f9ccff94017abf2ee22942f1bbe",
+                                            "endDate": "2024-09-06T15:00:00.000Z",
+                                            "discountSetting": {
+                                                "discountType": "PERCENTAGE"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "prePurchase": null,
+                        "releaseDate": "2022-08-18T15:00:00.000Z",
+                        "pcReleaseDate": "2004-08-03T12:00:00.000Z",
+                        "viewableDate": "2022-08-18T15:00:00.000Z",
+                        "approximateReleasePlan": null
+                    },
+                    {
+                        "title": "Deliver Us Mars",
+                        "id": "78a8324fe5e54dc795fef7be19d1bad2",
+                        "namespace": "53ec6d9f552241549c4d8aa1a42bcb3b",
+                        "description": "Deliver Us Mars is an atmospheric sci-fi adventure taking you on a suspense-fuelled, high-stakes mission to recover the ARK colony ships stolen by the mysterious Outward.",
+                        "effectiveDate": "2022-06-08T14:00:00.000Z",
+                        "keyImages": [
+                            {
+                                "type": "Thumbnail",
+                                "url": "https://cdn1.epicgames.com/offer/53ec6d9f552241549c4d8aa1a42bcb3b/EGS_DeliverUsMars_KeokeNInteractive_S2_1200x1600-8c8042da2f394f7d2ce9403e713b17c9"
+                            },
+                            {
+                                "type": "OfferImageTall",
+                                "url": "https://cdn1.epicgames.com/offer/53ec6d9f552241549c4d8aa1a42bcb3b/EGS_DeliverUsMars_KeokeNInteractive_S2_1200x1600-8c8042da2f394f7d2ce9403e713b17c9"
+                            },
+                            {
+                                "type": "OfferImageWide",
+                                "url": "https://cdn1.epicgames.com/offer/53ec6d9f552241549c4d8aa1a42bcb3b/EGS_DeliverUsMars_KeokeNInteractive_S1_2560x1440-b5b36e7ef7feabf180837cc9d15efdae"
+                            }
+                        ],
+                        "currentPrice": 31000,
+                        "seller": {
+                            "id": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+                            "name": "Frontier Developments"
+                        },
+                        "productSlug": "deliver-us-mars",
+                        "urlSlug": "currant-prepurchase-audience",
+                        "url": null,
+                        "tags": [
+                            {
+                                "id": "1216"
+                            },
+                            {
+                                "id": "9547"
+                            },
+                            {
+                                "id": "1117"
+                            },
+                            {
+                                "id": "1263"
+                            }
+                        ],
+                        "items": [
+                            {
+                                "id": "d940a58eba96432c92dedd4784ebd7d6",
+                                "namespace": "53ec6d9f552241549c4d8aa1a42bcb3b"
+                            }
+                        ],
+                        "customAttributes": [
+                            {
+                                "key": "com.epicgames.app.blacklist",
+                                "value": "[]"
+                            },
+                            {
+                                "key": "publisherName",
+                                "value": "Frontier Developments"
+                            },
+                            {
+                                "key": "isPrepurchase",
+                                "value": "true"
+                            },
+                            {
+                                "key": "availableDate",
+                                "value": "1664272800"
+                            },
+                            {
+                                "key": "developerName",
+                                "value": "Frontier Developments"
+                            },
+                            {
+                                "key": "com.epicgames.app.productSlug",
+                                "value": "deliver-us-mars"
+                            }
+                        ],
+                        "categories": [
+                            {
+                                "path": "games"
+                            },
+                            {
+                                "path": "games/edition"
+                            },
+                            {
+                                "path": "games/edition/base"
+                            },
+                            {
+                                "path": "applications"
+                            }
+                        ],
+                        "catalogNs": {
+                            "mappings": [
+                                {
+                                    "pageSlug": "deliver-us-mars",
+                                    "pageType": "productHome"
+                                }
+                            ]
+                        },
+                        "offerMappings": [],
+                        "developerDisplayName": "KeokeN Interactive",
+                        "publisherDisplayName": "Frontier Foundry",
+                        "price": {
+                            "totalPrice": {
+                                "discountPrice": 27900,
+                                "originalPrice": 31000,
+                                "voucherDiscount": 0,
+                                "discount": 3100,
+                                "currencyCode": "KRW",
+                                "currencyInfo": {
+                                    "decimals": 0
+                                },
+                                "fmtPrice": {
+                                    "originalPrice": "₩31,000",
+                                    "discountPrice": "₩27,900",
+                                    "intermediatePrice": "₩27,900"
+                                }
+                            },
+                            "lineOffers": [
+                                {
+                                    "appliedRules": [
+                                        {
+                                            "id": "0c76857a72174779b391361e0e10ac2a",
+                                            "endDate": "2023-02-02T15:00:00.000Z",
+                                            "discountSetting": {
+                                                "discountType": "PERCENTAGE"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "prePurchase": true,
+                        "releaseDate": "2023-02-02T14:00:00.000Z",
+                        "pcReleaseDate": null,
+                        "viewableDate": "2022-03-24T22:30:00.000Z",
+                        "approximateReleasePlan": null
+                    },
+                    {
+                        "title": "Warpips",
+                        "id": "f6e75092c08045afa343fb5c5aa817ae",
+                        "namespace": "277788d421e748e580ca0972c339f1a6",
+                        "description": "Warpips is the ultimate quick to learn but amazingly deep tug-of-war strategy game. Deploy the right composition of soldiers, tanks, helicopters and planes in this tight, streamlined strategy-focused war game. Compose the best army, research the right tech; overwhelm your enemy!",
+                        "effectiveDate": "2022-04-21T17:00:00.000Z",
+                        "keyImages": [
+                            {
+                                "type": "OfferImageWide",
+                                "url": "https://cdn1.epicgames.com/spt-assets/581b8af82db34e5c98f5dae3ed5b9904/warpips-offer-1pcp0.jpg"
+                            },
+                            {
+                                "type": "OfferImageTall",
+                                "url": "https://cdn1.epicgames.com/spt-assets/581b8af82db34e5c98f5dae3ed5b9904/download-warpips-offer-8qlt0.jpg"
+                            },
+                            {
+                                "type": "Thumbnail",
+                                "url": "https://cdn1.epicgames.com/spt-assets/581b8af82db34e5c98f5dae3ed5b9904/download-warpips-offer-8qlt0.jpg"
+                            }
+                        ],
+                        "currentPrice": 19000,
+                        "seller": {
+                            "id": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+                            "name": "Daedalic Entertainment"
+                        },
+                        "productSlug": null,
+                        "urlSlug": "328b55dfde1c4c56927f6af911f1b276",
+                        "url": null,
+                        "tags": [
+                            {
+                                "id": "1370"
+                            },
+                            {
+                                "id": "22810"
+                            },
+                            {
+                                "id": "1083"
+                            },
+                            {
+                                "id": "1115"
+                            },
+                            {
+                                "id": "9547"
+                            },
+                            {
+                                "id": "16011"
+                            },
+                            {
+                                "id": "9549"
+                            }
+                        ],
+                        "items": [
+                            {
+                                "id": "002dae58227b461ea5cc889cb9a249f2",
+                                "namespace": "277788d421e748e580ca0972c339f1a6"
+                            }
+                        ],
+                        "customAttributes": [
+                            {
+                                "key": "autoGeneratedPrice",
+                                "value": "false"
+                            },
+                            {
+                                "key": "isManuallySetPCReleaseDate",
+                                "value": "false"
+                            }
+                        ],
+                        "categories": [
+                            {
+                                "path": "games/edition/base"
+                            },
+                            {
+                                "path": "games/edition"
+                            },
+                            {
+                                "path": "games"
+                            }
+                        ],
+                        "catalogNs": {
+                            "mappings": [
+                                {
+                                    "pageSlug": "warpips-57e2c4",
+                                    "pageType": "productHome"
+                                }
+                            ]
+                        },
+                        "offerMappings": [
+                            {
+                                "pageSlug": "warpips-57e2c4",
+                                "pageType": "productHome"
+                            }
+                        ],
+                        "developerDisplayName": "Skirmish Mode Games",
+                        "publisherDisplayName": "Daedalic Entertainment",
+                        "price": {
+                            "totalPrice": {
+                                "discountPrice": 7600,
+                                "originalPrice": 19000,
+                                "voucherDiscount": 0,
+                                "discount": 11400,
+                                "currencyCode": "KRW",
+                                "currencyInfo": {
+                                    "decimals": 0
+                                },
+                                "fmtPrice": {
+                                    "originalPrice": "₩19,000",
+                                    "discountPrice": "₩7,600",
+                                    "intermediatePrice": "₩7,600"
+                                }
+                            },
+                            "lineOffers": [
+                                {
+                                    "appliedRules": [
+                                        {
+                                            "id": "024fcec2209d447187f9cffa1359c42e",
+                                            "endDate": "2022-12-07T16:00:00.000Z",
+                                            "discountSetting": {
+                                                "discountType": "PERCENTAGE"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "prePurchase": null,
+                        "releaseDate": "2022-04-21T17:00:00.000Z",
+                        "pcReleaseDate": "2022-04-21T17:00:00.000Z",
+                        "viewableDate": "2022-03-24T17:00:00.000Z",
+                        "approximateReleasePlan": null
+                    },
+                    {
+                        "title": "Unrailed!",
+                        "id": "38ad328025584a26bab9ca92c5f5b842",
+                        "namespace": "5a6d34ba28bc45d081d9311c3885feef",
+                        "description": "Unrailed! is a co-op multiplayer game where you have to work together with your friends to build a train track across endless procedurally generated worlds. Master random encounters with its inhabitants, upgrade your train and keep it from derailing!",
+                        "effectiveDate": "2022-04-25T16:00:00.000Z",
+                        "keyImages": [
+                            {
+                                "type": "OfferImageWide",
+                                "url": "https://cdn1.epicgames.com/spt-assets/dc57439aac3c481aaa52ccb443a4d01a/unrailed-offer-16fiw.jpg"
+                            },
+                            {
+                                "type": "OfferImageTall",
+                                "url": "https://cdn1.epicgames.com/spt-assets/dc57439aac3c481aaa52ccb443a4d01a/download-unrailed-offer-11wt8.jpg"
+                            },
+                            {
+                                "type": "Thumbnail",
+                                "url": "https://cdn1.epicgames.com/spt-assets/dc57439aac3c481aaa52ccb443a4d01a/download-unrailed-offer-11wt8.jpg"
+                            }
+                        ],
+                        "currentPrice": 19500,
+                        "seller": {
+                            "id": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+                            "name": "Daedalic Entertainment"
+                        },
+                        "productSlug": null,
+                        "urlSlug": "3b5f52ffd03345279b47eb84cebe271d",
+                        "url": null,
+                        "tags": [
+                            {
+                                "id": "1216"
+                            },
+                            {
+                                "id": "21122"
+                            },
+                            {
+                                "id": "1188"
+                            },
+                            {
+                                "id": "19847"
+                            },
+                            {
+                                "id": "9547"
+                            },
+                            {
+                                "id": "9549"
+                            },
+                            {
+                                "id": "1263"
+                            },
+                            {
+                                "id": "1264"
+                            },
+                            {
+                                "id": "21136"
+                            },
+                            {
+                                "id": "21138"
+                            },
+                            {
+                                "id": "1203"
+                            },
+                            {
+                                "id": "21139"
+                            },
+                            {
+                                "id": "21140"
+                            },
+                            {
+                                "id": "21141"
+                            },
+                            {
+                                "id": "1110"
+                            },
+                            {
+                                "id": "1370"
+                            },
+                            {
+                                "id": "21149"
+                            },
+                            {
+                                "id": "21119"
+                            }
+                        ],
+                        "items": [
+                            {
+                                "id": "82ea0e13d3014ceab6e9fb46a11a2e05",
+                                "namespace": "5a6d34ba28bc45d081d9311c3885feef"
+                            }
+                        ],
+                        "customAttributes": [
+                            {
+                                "key": "autoGeneratedPrice",
+                                "value": "false"
+                            },
+                            {
+                                "key": "isManuallySetPCReleaseDate",
+                                "value": "true"
+                            }
+                        ],
+                        "categories": [
+                            {
+                                "path": "games/edition/base"
+                            },
+                            {
+                                "path": "games/edition"
+                            },
+                            {
+                                "path": "games"
+                            }
+                        ],
+                        "catalogNs": {
+                            "mappings": [
+                                {
+                                    "pageSlug": "unrailed-e19729",
+                                    "pageType": "productHome"
+                                }
+                            ]
+                        },
+                        "offerMappings": [
+                            {
+                                "pageSlug": "unrailed-e19729",
+                                "pageType": "productHome"
+                            }
+                        ],
+                        "developerDisplayName": "Indoor Astronaut",
+                        "publisherDisplayName": "Daedalic Entertainment, bilibili(China)",
+                        "price": {
+                            "totalPrice": {
+                                "discountPrice": 4870,
+                                "originalPrice": 19500,
+                                "voucherDiscount": 0,
+                                "discount": 14630,
+                                "currencyCode": "KRW",
+                                "currencyInfo": {
+                                    "decimals": 0
+                                },
+                                "fmtPrice": {
+                                    "originalPrice": "₩19,500",
+                                    "discountPrice": "₩4,870",
+                                    "intermediatePrice": "₩4,870"
+                                }
+                            },
+                            "lineOffers": [
+                                {
+                                    "appliedRules": [
+                                        {
+                                            "id": "769058ceca2c4726a6ddaf941b1d02a9",
+                                            "endDate": "2022-12-07T16:00:00.000Z",
+                                            "discountSetting": {
+                                                "discountType": "PERCENTAGE"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "prePurchase": null,
+                        "releaseDate": "2022-04-25T16:00:00.000Z",
+                        "pcReleaseDate": "2020-09-23T00:00:00.000Z",
+                        "viewableDate": "2022-03-15T15:00:00.000Z",
+                        "approximateReleasePlan": null
+                    },
+                    {
+                        "title": "Iratus: Lord of the Dead",
+                        "id": "101ca62ae8064e4799bd84cd549479fa",
+                        "namespace": "d250bdf072934b70ab080c6fcee77734",
+                        "description": "Iratus: Lord of the Dead is a turn-based tactical roguelike RPG set in a dark fantasy universe. Lead an army of undead to help an angry necromancer in his quest to reach the surface world and bring death to the mortal realms!",
+                        "effectiveDate": "2022-05-19T15:00:00.000Z",
+                        "keyImages": [
+                            {
+                                "type": "OfferImageWide",
+                                "url": "https://cdn1.epicgames.com/spt-assets/e7bee97d9a88475487a71b456a81110f/iratus--lord-of-the-dead-offer-i34hd.jpg"
+                            },
+                            {
+                                "type": "OfferImageTall",
+                                "url": "https://cdn1.epicgames.com/spt-assets/e7bee97d9a88475487a71b456a81110f/download-iratus--lord-of-the-dead-offer-1ucid.jpg"
+                            },
+                            {
+                                "type": "Thumbnail",
+                                "url": "https://cdn1.epicgames.com/spt-assets/e7bee97d9a88475487a71b456a81110f/download-iratus--lord-of-the-dead-offer-1ucid.jpg"
+                            }
+                        ],
+                        "currentPrice": 32000,
+                        "seller": {
+                            "id": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+                            "name": "Daedalic Entertainment"
+                        },
+                        "productSlug": null,
+                        "urlSlug": "2eb857a94203486db2119cd4ccf5b488",
+                        "url": null,
+                        "tags": [
+                            {
+                                "id": "21122"
+                            },
+                            {
+                                "id": "1188"
+                            },
+                            {
+                                "id": "21127"
+                            },
+                            {
+                                "id": "21129"
+                            },
+                            {
+                                "id": "1386"
+                            },
+                            {
+                                "id": "16011"
+                            },
+                            {
+                                "id": "9547"
+                            },
+                            {
+                                "id": "21137"
+                            },
+                            {
+                                "id": "21138"
+                            },
+                            {
+                                "id": "21139"
+                            },
+                            {
+                                "id": "21140"
+                            },
+                            {
+                                "id": "21141"
+                            },
+                            {
+                                "id": "1367"
+                            },
+                            {
+                                "id": "1370"
+                            },
+                            {
+                                "id": "22810"
+                            },
+                            {
+                                "id": "1115"
+                            },
+                            {
+                                "id": "21147"
+                            },
+                            {
+                                "id": "21149"
+                            },
+                            {
+                                "id": "10719"
+                            }
+                        ],
+                        "items": [
+                            {
+                                "id": "f96073dae3a04cb686b3cf6b9c25265c",
+                                "namespace": "d250bdf072934b70ab080c6fcee77734"
+                            }
+                        ],
+                        "customAttributes": [
+                            {
+                                "key": "autoGeneratedPrice",
+                                "value": "false"
+                            },
+                            {
+                                "key": "isManuallySetPCReleaseDate",
+                                "value": "true"
+                            }
+                        ],
+                        "categories": [
+                            {
+                                "path": "games/edition/base"
+                            },
+                            {
+                                "path": "games/edition"
+                            },
+                            {
+                                "path": "games"
+                            }
+                        ],
+                        "catalogNs": {
+                            "mappings": [
+                                {
+                                    "pageSlug": "iratus-d0e5ba",
+                                    "pageType": "productHome"
+                                }
+                            ]
+                        },
+                        "offerMappings": [
+                            {
+                                "pageSlug": "iratus-d0e5ba",
+                                "pageType": "productHome"
+                            }
+                        ],
+                        "developerDisplayName": "Unfrozen",
+                        "publisherDisplayName": "Daedalic Entertainment",
+                        "price": {
+                            "totalPrice": {
+                                "discountPrice": 6400,
+                                "originalPrice": 32000,
+                                "voucherDiscount": 0,
+                                "discount": 25600,
+                                "currencyCode": "KRW",
+                                "currencyInfo": {
+                                    "decimals": 0
+                                },
+                                "fmtPrice": {
+                                    "originalPrice": "₩32,000",
+                                    "discountPrice": "₩6,400",
+                                    "intermediatePrice": "₩6,400"
+                                }
+                            },
+                            "lineOffers": [
+                                {
+                                    "appliedRules": [
+                                        {
+                                            "id": "8475085c65ff466d9c71c4129cab7106",
+                                            "endDate": "2022-12-07T16:00:00.000Z",
+                                            "discountSetting": {
+                                                "discountType": "PERCENTAGE"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "prePurchase": null,
+                        "releaseDate": "2022-05-19T15:00:00.000Z",
+                        "pcReleaseDate": "2020-04-23T00:00:00.000Z",
+                        "viewableDate": "2022-03-10T18:00:00.000Z",
+                        "approximateReleasePlan": null
+                    },
+                    {
+                        "title": "Insurmountable",
+                        "id": "185b6f2fc0e945cc909fe8a691d39b7d",
+                        "namespace": "e25eba2210804006a61763a4108322de",
+                        "description": "Confront various terrains as a lonely mountaineer and endure the countless dangers of climbing! Many tough decisions await you in a risky environment. Make your way up and down the mountain, overcoming insurmountable heights!",
+                        "effectiveDate": "2022-04-14T15:00:00.000Z",
+                        "keyImages": [
+                            {
+                                "type": "OfferImageTall",
+                                "url": "https://cdn1.epicgames.com/spt-assets/dbc7343b22614dab86a493df7ba9803d/download-insurmountable-offer-eadfm.jpg"
+                            },
+                            {
+                                "type": "OfferImageWide",
+                                "url": "https://cdn1.epicgames.com/spt-assets/dbc7343b22614dab86a493df7ba9803d/insurmountable-offer-1fpj8.jpg"
+                            },
+                            {
+                                "type": "Thumbnail",
+                                "url": "https://cdn1.epicgames.com/spt-assets/dbc7343b22614dab86a493df7ba9803d/download-insurmountable-offer-eadfm.jpg"
+                            }
+                        ],
+                        "currentPrice": 25000,
+                        "seller": {
+                            "id": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+                            "name": "Daedalic Entertainment"
+                        },
+                        "productSlug": null,
+                        "urlSlug": "aca770bc6a2a4d1e81930e9409f2e4b2",
+                        "url": null,
+                        "tags": [
+                            {
+                                "id": "21894"
+                            },
+                            {
+                                "id": "1080"
+                            },
+                            {
+                                "id": "1370"
+                            },
+                            {
+                                "id": "1083"
+                            },
+                            {
+                                "id": "1115"
+                            },
+                            {
+                                "id": "9547"
+                            }
+                        ],
+                        "items": [
+                            {
+                                "id": "abdb20b27edb407a855e5896995cc90d",
+                                "namespace": "e25eba2210804006a61763a4108322de"
+                            }
+                        ],
+                        "customAttributes": [
+                            {
+                                "key": "autoGeneratedPrice",
+                                "value": "false"
+                            },
+                            {
+                                "key": "isManuallySetPCReleaseDate",
+                                "value": "true"
+                            }
+                        ],
+                        "categories": [
+                            {
+                                "path": "games/edition/base"
+                            },
+                            {
+                                "path": "games/edition"
+                            },
+                            {
+                                "path": "games"
+                            }
+                        ],
+                        "catalogNs": {
+                            "mappings": [
+                                {
+                                    "pageSlug": "insurmountable-b02c31",
+                                    "pageType": "productHome"
+                                }
+                            ]
+                        },
+                        "offerMappings": [
+                            {
+                                "pageSlug": "insurmountable-b02c31",
+                                "pageType": "productHome"
+                            }
+                        ],
+                        "developerDisplayName": "ByteRockers' Games",
+                        "publisherDisplayName": "Daedalic Entertainment",
+                        "price": {
+                            "totalPrice": {
+                                "discountPrice": 10000,
+                                "originalPrice": 25000,
+                                "voucherDiscount": 0,
+                                "discount": 15000,
+                                "currencyCode": "KRW",
+                                "currencyInfo": {
+                                    "decimals": 0
+                                },
+                                "fmtPrice": {
+                                    "originalPrice": "₩25,000",
+                                    "discountPrice": "₩10,000",
+                                    "intermediatePrice": "₩10,000"
+                                }
+                            },
+                            "lineOffers": [
+                                {
+                                    "appliedRules": [
+                                        {
+                                            "id": "47bc424a8d424306b0bc25757aae5d04",
+                                            "endDate": "2022-12-07T16:00:00.000Z",
+                                            "discountSetting": {
+                                                "discountType": "PERCENTAGE"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "prePurchase": null,
+                        "releaseDate": "2022-04-14T15:00:00.000Z",
+                        "pcReleaseDate": "2021-04-29T00:00:00.000Z",
+                        "viewableDate": "2022-03-10T18:00:00.000Z",
+                        "approximateReleasePlan": null
+                    },
+                    {
+                        "title": "The Suicide of Rachel Foster",
+                        "id": "063bd1cfc7bc45da8f5fd265031a31c5",
+                        "namespace": "67eb392889234b4d99a6562c5e60c825",
+                        "description": "Coming back to the family hotel after years, a young woman finds herself trapped with the ghosts from her past and an old cellular telephone as the only way to unveil a terrible truth.",
+                        "effectiveDate": "2022-05-20T15:00:00.000Z",
+                        "keyImages": [
+                            {
+                                "type": "OfferImageWide",
+                                "url": "https://cdn1.epicgames.com/spt-assets/13be2d108e0344c98158bf4a2926bba5/the-suicide-of-rachel-foster-offer-srd1l.png"
+                            },
+                            {
+                                "type": "OfferImageTall",
+                                "url": "https://cdn1.epicgames.com/spt-assets/13be2d108e0344c98158bf4a2926bba5/download-the-suicide-of-rachel-foster-offer-9a21t.jpg"
+                            },
+                            {
+                                "type": "Thumbnail",
+                                "url": "https://cdn1.epicgames.com/spt-assets/13be2d108e0344c98158bf4a2926bba5/download-the-suicide-of-rachel-foster-offer-9a21t.jpg"
+                            }
+                        ],
+                        "currentPrice": 18500,
+                        "seller": {
+                            "id": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+                            "name": "Daedalic Entertainment"
+                        },
+                        "productSlug": null,
+                        "urlSlug": "22ab0b91d78e43b887bbd03816caeb53",
+                        "url": null,
+                        "tags": [
+                            {
+                                "id": "1218"
+                            },
+                            {
+                                "id": "1395"
+                            },
+                            {
+                                "id": "1381"
+                            },
+                            {
+                                "id": "21894"
+                            },
+                            {
+                                "id": "1370"
+                            },
+                            {
+                                "id": "22810"
+                            },
+                            {
+                                "id": "9547"
+                            },
+                            {
+                                "id": "16011"
+                            }
+                        ],
+                        "items": [
+                            {
+                                "id": "e4f073c368da4765ba36c9a7b308a157",
+                                "namespace": "67eb392889234b4d99a6562c5e60c825"
+                            }
+                        ],
+                        "customAttributes": [
+                            {
+                                "key": "autoGeneratedPrice",
+                                "value": "false"
+                            },
+                            {
+                                "key": "isManuallySetPCReleaseDate",
+                                "value": "true"
+                            }
+                        ],
+                        "categories": [
+                            {
+                                "path": "games/edition/base"
+                            },
+                            {
+                                "path": "games/edition"
+                            },
+                            {
+                                "path": "games"
+                            }
+                        ],
+                        "catalogNs": {
+                            "mappings": [
+                                {
+                                    "pageSlug": "the-suicide-of-rachel-foster-1dc01b",
+                                    "pageType": "productHome"
+                                }
+                            ]
+                        },
+                        "offerMappings": [
+                            {
+                                "pageSlug": "the-suicide-of-rachel-foster-1dc01b",
+                                "pageType": "productHome"
+                            }
+                        ],
+                        "developerDisplayName": "ONE-O-ONE GAMES",
+                        "publisherDisplayName": "Daedalic Entertainment",
+                        "price": {
+                            "totalPrice": {
+                                "discountPrice": 2770,
+                                "originalPrice": 18500,
+                                "voucherDiscount": 0,
+                                "discount": 15730,
+                                "currencyCode": "KRW",
+                                "currencyInfo": {
+                                    "decimals": 0
+                                },
+                                "fmtPrice": {
+                                    "originalPrice": "₩18,500",
+                                    "discountPrice": "₩2,770",
+                                    "intermediatePrice": "₩2,770"
+                                }
+                            },
+                            "lineOffers": [
+                                {
+                                    "appliedRules": [
+                                        {
+                                            "id": "0eed8685d7974338a1601fe86bf73a63",
+                                            "endDate": "2022-12-07T16:00:00.000Z",
+                                            "discountSetting": {
+                                                "discountType": "PERCENTAGE"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "prePurchase": null,
+                        "releaseDate": "2022-05-20T15:00:00.000Z",
+                        "pcReleaseDate": "2020-02-19T00:00:00.000Z",
+                        "viewableDate": "2022-02-16T18:00:00.000Z",
+                        "approximateReleasePlan": null
+                    },
+                    {
+                        "title": "Zombie Rollerz: Pinball Heroes",
+                        "id": "0285995fc3fc4a92bca06fb478301efa",
+                        "namespace": "f03887880e3f49c9b478cae9beac3812",
+                        "description": "Zombie Rollerz is the ultimate mashup of classic pinball, zombie defense and rogue-like! Shoot, slam and smash your way through hordes of zombies and epic boss fights. Select your hero, it’s time to become a pinball wizard!",
+                        "effectiveDate": "2022-03-02T18:00:00.000Z",
+                        "keyImages": [
+                            {
+                                "type": "OfferImageWide",
+                                "url": "https://cdn1.epicgames.com/spt-assets/555b34e18d6d4c6d9cf89533866089cb/zombie-rollerz-offer-m2f6u.jpg"
+                            },
+                            {
+                                "type": "OfferImageTall",
+                                "url": "https://cdn1.epicgames.com/spt-assets/555b34e18d6d4c6d9cf89533866089cb/download-zombie-rollerz-offer-k2b0m.png"
+                            },
+                            {
+                                "type": "Thumbnail",
+                                "url": "https://cdn1.epicgames.com/spt-assets/555b34e18d6d4c6d9cf89533866089cb/download-zombie-rollerz-offer-k2b0m.png"
+                            }
+                        ],
+                        "currentPrice": 17000,
+                        "seller": {
+                            "id": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+                            "name": "Daedalic Entertainment"
+                        },
+                        "productSlug": null,
+                        "urlSlug": "e611f8fda23c461b8461a2000c18110f",
+                        "url": null,
+                        "tags": [
+                            {
+                                "id": "1216"
+                            },
+                            {
+                                "id": "1296"
+                            },
+                            {
+                                "id": "21894"
+                            },
+                            {
+                                "id": "1370"
+                            },
+                            {
+                                "id": "22810"
+                            },
+                            {
+                                "id": "1083"
+                            },
+                            {
+                                "id": "9547"
+                            },
+                            {
+                                "id": "16011"
+                            },
+                            {
+                                "id": "9549"
+                            },
+                            {
+                                "id": "15375"
+                            }
+                        ],
+                        "items": [
+                            {
+                                "id": "2d0e0bd49d704a0a8353731139f4463f",
+                                "namespace": "f03887880e3f49c9b478cae9beac3812"
+                            }
+                        ],
+                        "customAttributes": [
+                            {
+                                "key": "autoGeneratedPrice",
+                                "value": "false"
+                            }
+                        ],
+                        "categories": [
+                            {
+                                "path": "games/edition/base"
+                            },
+                            {
+                                "path": "games/edition"
+                            },
+                            {
+                                "path": "games"
+                            }
+                        ],
+                        "catalogNs": {
+                            "mappings": [
+                                {
+                                    "pageSlug": "zombie-rollerz-7aa027",
+                                    "pageType": "productHome"
+                                }
+                            ]
+                        },
+                        "offerMappings": [
+                            {
+                                "pageSlug": "zombie-rollerz-7aa027",
+                                "pageType": "productHome"
+                            }
+                        ],
+                        "developerDisplayName": "Zing Games Inc.",
+                        "publisherDisplayName": "Daedalic Entertainment",
+                        "price": {
+                            "totalPrice": {
+                                "discountPrice": 6800,
+                                "originalPrice": 17000,
+                                "voucherDiscount": 0,
+                                "discount": 10200,
+                                "currencyCode": "KRW",
+                                "currencyInfo": {
+                                    "decimals": 0
+                                },
+                                "fmtPrice": {
+                                    "originalPrice": "₩17,000",
+                                    "discountPrice": "₩6,800",
+                                    "intermediatePrice": "₩6,800"
+                                }
+                            },
+                            "lineOffers": [
+                                {
+                                    "appliedRules": [
+                                        {
+                                            "id": "170d268a60724bd99eeed4b873f97b52",
+                                            "endDate": "2022-12-07T16:00:00.000Z",
+                                            "discountSetting": {
+                                                "discountType": "PERCENTAGE"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "prePurchase": null,
+                        "releaseDate": "2022-03-02T18:00:00.000Z",
+                        "pcReleaseDate": "2022-03-02T18:00:00.000Z",
+                        "viewableDate": "2022-02-15T18:00:00.000Z",
+                        "approximateReleasePlan": null
+                    },
+                    {
+                        "title": "Iron Danger",
+                        "id": "fedfcd24b07f43a88f9821ab27bff63e",
+                        "namespace": "cd8a253549eb42ce8ce491e09ca49690",
+                        "description": "Iron Danger is a tactical combat game with a unique time manipulation mechanic. A never before seen combination that blends the tactical depth of turn-based games with the exciting action of real-time games.",
+                        "effectiveDate": "2022-01-18T18:00:00.000Z",
+                        "keyImages": [
+                            {
+                                "type": "OfferImageWide",
+                                "url": "https://cdn1.epicgames.com/spt-assets/26bc65608bc84294900df1974ef3758a/iron-danger-offer-kzbdp.jpg"
+                            },
+                            {
+                                "type": "OfferImageTall",
+                                "url": "https://cdn1.epicgames.com/spt-assets/26bc65608bc84294900df1974ef3758a/download-iron-danger-offer-jha5m.jpg"
+                            },
+                            {
+                                "type": "Thumbnail",
+                                "url": "https://cdn1.epicgames.com/spt-assets/26bc65608bc84294900df1974ef3758a/download-iron-danger-offer-jha5m.jpg"
+                            }
+                        ],
+                        "currentPrice": 22000,
+                        "seller": {
+                            "id": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+                            "name": "Daedalic Entertainment"
+                        },
+                        "productSlug": null,
+                        "urlSlug": "548189b5ab5a4d2398dc48ebeab5ebc2",
+                        "url": null,
+                        "tags": [
+                            {
+                                "id": "21894"
+                            },
+                            {
+                                "id": "1367"
+                            },
+                            {
+                                "id": "1336"
+                            },
+                            {
+                                "id": "1370"
+                            },
+                            {
+                                "id": "22810"
+                            },
+                            {
+                                "id": "9547"
+                            },
+                            {
+                                "id": "16011"
+                            },
+                            {
+                                "id": "1263"
+                            },
+                            {
+                                "id": "15375"
+                            }
+                        ],
+                        "items": [
+                            {
+                                "id": "de9c69f49c92447e956c2737380ccab5",
+                                "namespace": "cd8a253549eb42ce8ce491e09ca49690"
+                            }
+                        ],
+                        "customAttributes": [
+                            {
+                                "key": "autoGeneratedPrice",
+                                "value": "false"
+                            }
+                        ],
+                        "categories": [
+                            {
+                                "path": "games/edition/base"
+                            },
+                            {
+                                "path": "games/edition"
+                            },
+                            {
+                                "path": "games"
+                            }
+                        ],
+                        "catalogNs": {
+                            "mappings": [
+                                {
+                                    "pageSlug": "iron-danger-b4320c",
+                                    "pageType": "productHome"
+                                }
+                            ]
+                        },
+                        "offerMappings": [
+                            {
+                                "pageSlug": "iron-danger-b4320c",
+                                "pageType": "productHome"
+                            }
+                        ],
+                        "developerDisplayName": "Action Squad Studios",
+                        "publisherDisplayName": "Daedalic Entertainment",
+                        "price": {
+                            "totalPrice": {
+                                "discountPrice": 3300,
+                                "originalPrice": 22000,
+                                "voucherDiscount": 0,
+                                "discount": 18700,
+                                "currencyCode": "KRW",
+                                "currencyInfo": {
+                                    "decimals": 0
+                                },
+                                "fmtPrice": {
+                                    "originalPrice": "₩22,000",
+                                    "discountPrice": "₩3,300",
+                                    "intermediatePrice": "₩3,300"
+                                }
+                            },
+                            "lineOffers": [
+                                {
+                                    "appliedRules": [
+                                        {
+                                            "id": "f68b5ee302e6419588aa146e8a95ffe3",
+                                            "endDate": "2022-12-07T16:00:00.000Z",
+                                            "discountSetting": {
+                                                "discountType": "PERCENTAGE"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "prePurchase": null,
+                        "releaseDate": "2022-01-18T18:00:00.000Z",
+                        "pcReleaseDate": "2020-03-25T00:00:00.000Z",
+                        "viewableDate": "2022-01-18T18:00:00.000Z",
+                        "approximateReleasePlan": null
+                    },
+                    {
+                        "title": "Partisans 1941",
+                        "id": "22390b42e5e947de9cb9621e808e949c",
+                        "namespace": "aa102e1c575d42868a11ac8e79af2126",
+                        "description": "Partisans 1941 is a real-time tactics game with stealth elements, set on the eastern front of WW II. As an army commander behind enemy lines you gather a group of Partisans to wage guerilla warfare against the German occupants.",
+                        "effectiveDate": "2022-01-11T19:00:00.000Z",
+                        "keyImages": [
+                            {
+                                "type": "OfferImageTall",
+                                "url": "https://cdn1.epicgames.com/offer/aa102e1c575d42868a11ac8e79af2126/EGS_Partisans1941_AlterGames_S2_1200x1600-ba0c71510a30532eceafe90b268fca46_1200x1600-ba0c71510a30532eceafe90b268fca46_1200x1600-ba0c71510a30532eceafe90b268fca46"
+                            },
+                            {
+                                "type": "OfferImageWide",
+                                "url": "https://cdn1.epicgames.com/offer/aa102e1c575d42868a11ac8e79af2126/EGS_Partisans1941_AlterGames_S1_2560x1440-56ed5080ed870e2ab62b3e49440bb128_2560x1440-56ed5080ed870e2ab62b3e49440bb128_2560x1440-56ed5080ed870e2ab62b3e49440bb128"
+                            },
+                            {
+                                "type": "DieselStoreFrontWide",
+                                "url": "https://cdn1.epicgames.com/offer/aa102e1c575d42868a11ac8e79af2126/EGS_Partisans1941_AlterGames_S1_2560x1440-56ed5080ed870e2ab62b3e49440bb128_2560x1440-56ed5080ed870e2ab62b3e49440bb128_2560x1440-56ed5080ed870e2ab62b3e49440bb128"
+                            },
+                            {
+                                "type": "Thumbnail",
+                                "url": "https://cdn1.epicgames.com/offer/aa102e1c575d42868a11ac8e79af2126/EGS_Partisans1941_AlterGames_S2_1200x1600-ba0c71510a30532eceafe90b268fca46_1200x1600-ba0c71510a30532eceafe90b268fca46_1200x1600-ba0c71510a30532eceafe90b268fca46"
+                            },
+                            {
+                                "type": "CodeRedemption_340x440",
+                                "url": "https://cdn1.epicgames.com/offer/aa102e1c575d42868a11ac8e79af2126/EGS_Partisans1941_AlterGames_S2_1200x1600-ba0c71510a30532eceafe90b268fca46_1200x1600-ba0c71510a30532eceafe90b268fca46_1200x1600-ba0c71510a30532eceafe90b268fca46"
+                            },
+                            {
+                                "type": "DieselStoreFrontTall",
+                                "url": "https://cdn1.epicgames.com/offer/aa102e1c575d42868a11ac8e79af2126/EGS_Partisans1941_AlterGames_S2_1200x1600-ba0c71510a30532eceafe90b268fca46_1200x1600-ba0c71510a30532eceafe90b268fca46_1200x1600-ba0c71510a30532eceafe90b268fca46"
+                            }
+                        ],
+                        "currentPrice": 45500,
+                        "seller": {
+                            "id": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+                            "name": "Daedalic Entertainment"
+                        },
+                        "productSlug": "partisans-1941",
+                        "urlSlug": "patrisans-1941",
+                        "url": null,
+                        "tags": [
+                            {
+                                "id": "1216"
+                            },
+                            {
+                                "id": "1370"
+                            },
+                            {
+                                "id": "19242"
+                            },
+                            {
+                                "id": "22810"
+                            },
+                            {
+                                "id": "1115"
+                            },
+                            {
+                                "id": "9547"
+                            },
+                            {
+                                "id": "16011"
+                            },
+                            {
+                                "id": "1084"
+                            },
+                            {
+                                "id": "1311"
+                            },
+                            {
+                                "id": "15375"
+                            }
+                        ],
+                        "items": [
+                            {
+                                "id": "571a3dc58140457e8d70a08479953a27",
+                                "namespace": "aa102e1c575d42868a11ac8e79af2126"
+                            }
+                        ],
+                        "customAttributes": [
+                            {
+                                "key": "com.epicgames.app.blacklist",
+                                "value": ""
+                            },
+                            {
+                                "key": "publisherName",
+                                "value": "Daedalic Entertainment"
+                            },
+                            {
+                                "key": "developerName",
+                                "value": "Alter Games"
+                            },
+                            {
+                                "key": "com.epicgames.app.productSlug",
+                                "value": "partisans-1941"
+                            }
+                        ],
+                        "categories": [
+                            {
+                                "path": "games"
+                            },
+                            {
+                                "path": "games/edition"
+                            },
+                            {
+                                "path": "games/edition/base"
+                            },
+                            {
+                                "path": "applications"
+                            }
+                        ],
+                        "catalogNs": {
+                            "mappings": [
+                                {
+                                    "pageSlug": "partisans-1941",
+                                    "pageType": "productHome"
+                                }
+                            ]
+                        },
+                        "offerMappings": [],
+                        "developerDisplayName": null,
+                        "publisherDisplayName": null,
+                        "price": {
+                            "totalPrice": {
+                                "discountPrice": 13650,
+                                "originalPrice": 45500,
+                                "voucherDiscount": 0,
+                                "discount": 31850,
+                                "currencyCode": "KRW",
+                                "currencyInfo": {
+                                    "decimals": 0
+                                },
+                                "fmtPrice": {
+                                    "originalPrice": "₩45,500",
+                                    "discountPrice": "₩13,650",
+                                    "intermediatePrice": "₩13,650"
+                                }
+                            },
+                            "lineOffers": [
+                                {
+                                    "appliedRules": [
+                                        {
+                                            "id": "f4d34a10fde24ab38c442c10665816c4",
+                                            "endDate": "2022-12-07T16:00:00.000Z",
+                                            "discountSetting": {
+                                                "discountType": "PERCENTAGE"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "prePurchase": null,
+                        "releaseDate": "2022-01-11T19:00:00.000Z",
+                        "pcReleaseDate": "2020-10-14T12:00:28.000Z",
+                        "viewableDate": "2022-01-11T19:00:00.000Z",
+                        "approximateReleasePlan": null
+                    },
+                    {
+                        "title": "Aspire Inas Tale",
+                        "id": "30ffc0d65b5f4b778efa076ee44575a0",
+                        "namespace": "83aa4b4bfd114c3a8b84ab262460af90",
+                        "description": "Set out on a fantastical adventure as Ina and take a journey of self-discovery against the backdrop of dazzling landscapes in The Tower. Experience fear turn to conviction as she unravels her purpose in this world and embarks on her path to freedom.",
+                        "effectiveDate": "2021-12-17T18:00:00.000Z",
+                        "keyImages": [
+                            {
+                                "type": "OfferImageTall",
+                                "url": "https://cdn1.epicgames.com/spt-assets/6effcd6ee578436ab2956846868ca836/download-aspire-inas-tale-offer-7isgy.jpg"
+                            },
+                            {
+                                "type": "OfferImageWide",
+                                "url": "https://cdn1.epicgames.com/spt-assets/6effcd6ee578436ab2956846868ca836/aspire-inas-tale-offer-6lk1p.jpg"
+                            },
+                            {
+                                "type": "Thumbnail",
+                                "url": "https://cdn1.epicgames.com/spt-assets/6effcd6ee578436ab2956846868ca836/download-aspire-inas-tale-offer-7isgy.jpg"
+                            }
+                        ],
+                        "currentPrice": 13000,
+                        "seller": {
+                            "id": "o-fkvj29n26bsmb8vcze2g2lm3sk7cp2",
+                            "name": "Untold Tales S.A."
+                        },
+                        "productSlug": null,
+                        "urlSlug": "83632f0174b448cda48f8fdd0852db82",
+                        "url": null,
+                        "tags": [
+                            {
+                                "id": "21894"
+                            },
+                            {
+                                "id": "1370"
+                            },
+                            {
+                                "id": "9547"
+                            },
+                            {
+                                "id": "16011"
+                            },
+                            {
+                                "id": "1117"
+                            }
+                        ],
+                        "items": [
+                            {
+                                "id": "0371c63109f940da884e27e953a8a33d",
+                                "namespace": "83aa4b4bfd114c3a8b84ab262460af90"
+                            }
+                        ],
+                        "customAttributes": [
+                            {
+                                "key": "autoGeneratedPrice",
+                                "value": "false"
+                            }
+                        ],
+                        "categories": [
+                            {
+                                "path": "games/edition/base"
+                            },
+                            {
+                                "path": "games/edition"
+                            },
+                            {
+                                "path": "games"
+                            }
+                        ],
+                        "catalogNs": {
+                            "mappings": [
+                                {
+                                    "pageSlug": "aspire-inas-tale-f77a17",
+                                    "pageType": "productHome"
+                                }
+                            ]
+                        },
+                        "offerMappings": [
+                            {
+                                "pageSlug": "aspire-inas-tale-f77a17",
+                                "pageType": "productHome"
+                            }
+                        ],
+                        "developerDisplayName": "Wondernaut Studio",
+                        "publisherDisplayName": "Untold Tales S.A.",
+                        "price": {
+                            "totalPrice": {
+                                "discountPrice": 2600,
+                                "originalPrice": 13000,
+                                "voucherDiscount": 0,
+                                "discount": 10400,
+                                "currencyCode": "KRW",
+                                "currencyInfo": {
+                                    "decimals": 0
+                                },
+                                "fmtPrice": {
+                                    "originalPrice": "₩13,000",
+                                    "discountPrice": "₩2,600",
+                                    "intermediatePrice": "₩2,600"
+                                }
+                            },
+                            "lineOffers": [
+                                {
+                                    "appliedRules": [
+                                        {
+                                            "id": "f3a7b591a3ec4aa6a19de2a45ad0d969",
+                                            "endDate": "2022-12-02T17:00:00.000Z",
+                                            "discountSetting": {
+                                                "discountType": "PERCENTAGE"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "prePurchase": null,
+                        "releaseDate": "2021-12-17T18:00:00.000Z",
+                        "pcReleaseDate": "2021-12-17T18:00:00.000Z",
+                        "viewableDate": "2021-12-17T18:00:00.000Z",
+                        "approximateReleasePlan": null
+                    },
+                    {
+                        "title": "JARS",
+                        "id": "640d91e1f4a2444ebdb2ea1ed241acdb",
+                        "namespace": "9b89b68d8751414db0991007bdc4766c",
+                        "description": "JARS is a strategy game featuring puzzles and elements of tower defense. Join Victor in his spooky yet endearing world and prepare for a quest to uncover the secrets of his family’s basement. Will you save the world or get grounded by mother?",
+                        "effectiveDate": "2021-10-20T16:00:00.000Z",
+                        "keyImages": [
+                            {
+                                "type": "OfferImageTall",
+                                "url": "https://cdn1.epicgames.com/spt-assets/aa4e814e8db94167a3ca35871c75c846/download-jars-offer-13zfp.jpg"
+                            },
+                            {
+                                "type": "OfferImageWide",
+                                "url": "https://cdn1.epicgames.com/spt-assets/aa4e814e8db94167a3ca35871c75c846/jars-offer-k3h96.jpg"
+                            },
+                            {
+                                "type": "Thumbnail",
+                                "url": "https://cdn1.epicgames.com/spt-assets/aa4e814e8db94167a3ca35871c75c846/download-jars-offer-13zfp.jpg"
+                            }
+                        ],
+                        "currentPrice": 13500,
+                        "seller": {
+                            "id": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+                            "name": "Daedalic Entertainment"
+                        },
+                        "productSlug": null,
+                        "urlSlug": "96eecbb308fa4c6a8c517efedf16ad83",
+                        "url": null,
+                        "tags": [
+                            {
+                                "id": "1170"
+                            },
+                            {
+                                "id": "21894"
+                            },
+                            {
+                                "id": "19242"
+                            },
+                            {
+                                "id": "1370"
+                            },
+                            {
+                                "id": "18778"
+                            },
+                            {
+                                "id": "22810"
+                            },
+                            {
+                                "id": "9547"
+                            },
+                            {
+                                "id": "1115"
+                            },
+                            {
+                                "id": "9549"
+                            },
+                            {
+                                "id": "1263"
+                            },
+                            {
+                                "id": "15375"
+                            },
+                            {
+                                "id": "10719"
+                            }
+                        ],
+                        "items": [
+                            {
+                                "id": "51e6661e8bfc4ab2a3a41b216425d405",
+                                "namespace": "9b89b68d8751414db0991007bdc4766c"
+                            }
+                        ],
+                        "customAttributes": [
+                            {
+                                "key": "autoGeneratedPrice",
+                                "value": "false"
+                            }
+                        ],
+                        "categories": [
+                            {
+                                "path": "games/edition/base"
+                            },
+                            {
+                                "path": "games/edition"
+                            },
+                            {
+                                "path": "games"
+                            }
+                        ],
+                        "catalogNs": {
+                            "mappings": [
+                                {
+                                    "pageSlug": "jars-e39063",
+                                    "pageType": "productHome"
+                                }
+                            ]
+                        },
+                        "offerMappings": [
+                            {
+                                "pageSlug": "jars-e39063",
+                                "pageType": "productHome"
+                            }
+                        ],
+                        "developerDisplayName": "Mousetrap Games",
+                        "publisherDisplayName": "Daedalic Entertainment",
+                        "price": {
+                            "totalPrice": {
+                                "discountPrice": 5400,
+                                "originalPrice": 13500,
+                                "voucherDiscount": 0,
+                                "discount": 8100,
+                                "currencyCode": "KRW",
+                                "currencyInfo": {
+                                    "decimals": 0
+                                },
+                                "fmtPrice": {
+                                    "originalPrice": "₩13,500",
+                                    "discountPrice": "₩5,400",
+                                    "intermediatePrice": "₩5,400"
+                                }
+                            },
+                            "lineOffers": [
+                                {
+                                    "appliedRules": [
+                                        {
+                                            "id": "51868540feb14c90bfe4f0f3f5a5a5cf",
+                                            "endDate": "2022-12-07T16:00:00.000Z",
+                                            "discountSetting": {
+                                                "discountType": "PERCENTAGE"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "prePurchase": null,
+                        "releaseDate": "2021-10-20T16:00:00.000Z",
+                        "pcReleaseDate": "2021-10-20T16:00:00.000Z",
+                        "viewableDate": "2021-10-18T16:00:00.000Z",
+                        "approximateReleasePlan": null
+                    },
+                    {
+                        "title": "Golf Club Wasteland",
+                        "id": "661dc483940e4dabb3515096120e5964",
+                        "namespace": "f7203037288e4949b5b74f0855025aec",
+                        "description": "Human life is wiped out and earth is now a golf course for the ultra-rich. Try sink the perfect shot in a dystopian wasteland while piecing together the fall of man through narrative, exploration and a radio show broadcast from Mars.",
+                        "effectiveDate": "2021-09-03T08:00:00.000Z",
+                        "keyImages": [
+                            {
+                                "type": "OfferImageWide",
+                                "url": "https://cdn1.epicgames.com/spt-assets/0986393db51d4236a6e924ce88bccd0a/golf-club-wasteland-offer-13g20.jpg"
+                            },
+                            {
+                                "type": "OfferImageTall",
+                                "url": "https://cdn1.epicgames.com/spt-assets/0986393db51d4236a6e924ce88bccd0a/download-golf-club-wasteland-offer-15rc6.jpg"
+                            },
+                            {
+                                "type": "Thumbnail",
+                                "url": "https://cdn1.epicgames.com/spt-assets/0986393db51d4236a6e924ce88bccd0a/download-golf-club-wasteland-offer-15rc6.jpg"
+                            }
+                        ],
+                        "currentPrice": 10500,
+                        "seller": {
+                            "id": "o-fkvj29n26bsmb8vcze2g2lm3sk7cp2",
+                            "name": "Untold Tales S.A."
+                        },
+                        "productSlug": null,
+                        "urlSlug": "e84845c4448e410db85568e22c81c3a9",
+                        "url": null,
+                        "tags": [
+                            {
+                                "id": "1283"
+                            },
+                            {
+                                "id": "1370"
+                            },
+                            {
+                                "id": "9547"
+                            },
+                            {
+                                "id": "16011"
+                            },
+                            {
+                                "id": "9549"
+                            },
+                            {
+                                "id": "1263"
+                            },
+                            {
+                                "id": "1151"
+                            }
+                        ],
+                        "items": [
+                            {
+                                "id": "c56dfccca5c8453cb7a05ae12f259099",
+                                "namespace": "f7203037288e4949b5b74f0855025aec"
+                            }
+                        ],
+                        "customAttributes": [
+                            {
+                                "key": "autoGeneratedPrice",
+                                "value": "false"
+                            }
+                        ],
+                        "categories": [
+                            {
+                                "path": "games/edition/base"
+                            },
+                            {
+                                "path": "games/edition"
+                            },
+                            {
+                                "path": "games"
+                            }
+                        ],
+                        "catalogNs": {
+                            "mappings": [
+                                {
+                                    "pageSlug": "golf-club-wasteland-f6771e",
+                                    "pageType": "productHome"
+                                }
+                            ]
+                        },
+                        "offerMappings": [
+                            {
+                                "pageSlug": "golf-club-wasteland-f6771e",
+                                "pageType": "productHome"
+                            }
+                        ],
+                        "developerDisplayName": "Demagog Studio",
+                        "publisherDisplayName": "Untold Tales S.A.",
+                        "price": {
+                            "totalPrice": {
+                                "discountPrice": 2100,
+                                "originalPrice": 10500,
+                                "voucherDiscount": 0,
+                                "discount": 8400,
+                                "currencyCode": "KRW",
+                                "currencyInfo": {
+                                    "decimals": 0
+                                },
+                                "fmtPrice": {
+                                    "originalPrice": "₩10,500",
+                                    "discountPrice": "₩2,100",
+                                    "intermediatePrice": "₩2,100"
+                                }
+                            },
+                            "lineOffers": [
+                                {
+                                    "appliedRules": [
+                                        {
+                                            "id": "fbbd94e24bcc41129070e1ca80b5b5cc",
+                                            "endDate": "2022-12-02T17:00:00.000Z",
+                                            "discountSetting": {
+                                                "discountType": "PERCENTAGE"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "prePurchase": null,
+                        "releaseDate": "2021-09-03T08:00:00.000Z",
+                        "pcReleaseDate": "2021-09-03T19:00:00.000Z",
+                        "viewableDate": "2021-09-01T07:00:00.000Z",
+                        "approximateReleasePlan": null
+                    },
+                    {
+                        "title": "Fort Triumph",
+                        "id": "f3575fe40f894984a7027d86034e3b2c",
+                        "namespace": "58dbbafdb5b04b3e9442506354457e3c",
+                        "description": "A strategy game combining the turn-based combat of XCOM with the world exploration of HOMM. Build towns, collect artifacts, improve your heroes, and influence your tactical surroundings using physics!",
+                        "effectiveDate": "2021-08-17T01:00:00.000Z",
+                        "keyImages": [
+                            {
+                                "type": "CodeRedemption_340x440",
+                                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FortTriumph_CookieByteEntertainment_S2_1200x1600-4371ffe4b85f2e1b4041dcb4e207f0a5"
+                            },
+                            {
+                                "type": "DieselStoreFrontTall",
+                                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FortTriumph_CookieByteEntertainment_S2_1200x1600-4371ffe4b85f2e1b4041dcb4e207f0a5"
+                            },
+                            {
+                                "type": "DieselStoreFrontWide",
+                                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FortTriumph_CookieByteEntertainment_S1_2560x1440-a0b5e1aeb62c1ee5550d97886ab475a3"
+                            },
+                            {
+                                "type": "OfferImageTall",
+                                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FortTriumph_CookieByteEntertainment_S2_1200x1600-4371ffe4b85f2e1b4041dcb4e207f0a5"
+                            },
+                            {
+                                "type": "OfferImageWide",
+                                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FortTriumph_CookieByteEntertainment_S1_2560x1440-a0b5e1aeb62c1ee5550d97886ab475a3"
+                            },
+                            {
+                                "type": "Thumbnail",
+                                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FortTriumph_CookieByteEntertainment_S2_1200x1600-4371ffe4b85f2e1b4041dcb4e207f0a5"
+                            }
+                        ],
+                        "currentPrice": 20500,
+                        "seller": {
+                            "id": "o-6frwxc24bbnzjuwjj3bsxtskufu2ug",
+                            "name": "All in! Games"
+                        },
+                        "productSlug": "fort-triumph",
+                        "urlSlug": "carnationpink-general-audience",
+                        "url": null,
+                        "tags": [
+                            {
+                                "id": "1264"
+                            },
+                            {
+                                "id": "21894"
+                            },
+                            {
+                                "id": "1367"
+                            },
+                            {
+                                "id": "1370"
+                            },
+                            {
+                                "id": "1115"
+                            },
+                            {
+                                "id": "9547"
+                            },
+                            {
+                                "id": "10719"
+                            },
+                            {
+                                "id": "18607"
+                            }
+                        ],
+                        "items": [
+                            {
+                                "id": "7332d1acfdbd4ae498344a4cb7de45f8",
+                                "namespace": "58dbbafdb5b04b3e9442506354457e3c"
+                            }
+                        ],
+                        "customAttributes": [
+                            {
+                                "key": "com.epicgames.app.blacklist",
+                                "value": "[]"
+                            },
+                            {
+                                "key": "publisherName",
+                                "value": "All in! Games"
+                            },
+                            {
+                                "key": "developerName",
+                                "value": "CookieByte Entertainment"
+                            },
+                            {
+                                "key": "com.epicgames.app.productSlug",
+                                "value": "fort-triumph"
+                            }
+                        ],
+                        "categories": [
+                            {
+                                "path": "freegames"
+                            },
+                            {
+                                "path": "games"
+                            },
+                            {
+                                "path": "games/edition"
+                            },
+                            {
+                                "path": "games/edition/base"
+                            }
+                        ],
+                        "catalogNs": {
+                            "mappings": [
+                                {
+                                    "pageSlug": "fort-triumph",
+                                    "pageType": "productHome"
+                                }
+                            ]
+                        },
+                        "offerMappings": [],
+                        "developerDisplayName": null,
+                        "publisherDisplayName": null,
+                        "price": {
+                            "totalPrice": {
+                                "discountPrice": 0,
+                                "originalPrice": 20500,
+                                "voucherDiscount": 0,
+                                "discount": 20500,
+                                "currencyCode": "KRW",
+                                "currencyInfo": {
+                                    "decimals": 0
+                                },
+                                "fmtPrice": {
+                                    "originalPrice": "₩20,500",
+                                    "discountPrice": "0",
+                                    "intermediatePrice": "0"
+                                }
+                            },
+                            "lineOffers": [
+                                {
+                                    "appliedRules": [
+                                        {
+                                            "id": "638cda620fd64e1897f4d4fadb834ff0",
+                                            "endDate": "2022-12-08T16:00:00.000Z",
+                                            "discountSetting": {
+                                                "discountType": "PERCENTAGE"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "prePurchase": null,
+                        "releaseDate": "2021-08-17T01:00:00.000Z",
+                        "pcReleaseDate": "2021-08-13T07:00:00.000Z",
+                        "viewableDate": "2021-08-17T01:00:00.000Z",
+                        "approximateReleasePlan": null
+                    },
+                    {
+                        "title": "Fashion Police Squad",
+                        "id": "dbe4bfec956f40f3b08cbf0f060f7468",
+                        "namespace": "65d31d60510a49629a0b52e93da8416a",
+                        "description": "Even at this moment, our fashionable city is under assault. Baggy pants, dull suits, sightings of socks with sandals. A message needs to be sent, and it needs to be sent in style... Time to serve some good ol' Fashion Justice!",
+                        "effectiveDate": "2022-08-15T15:00:00.000Z",
+                        "keyImages": [
+                            {
+                                "type": "OfferImageWide",
+                                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/fps-2_2560x1440-1153471fec5f73c91eb8792904c7f2cc"
+                            },
+                            {
+                                "type": "OfferImageTall",
+                                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/fps_1200x1600-dd40393f202c5a61c1f7b426139b29a1"
+                            },
+                            {
+                                "type": "Thumbnail",
+                                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/fps_1200x1600-dd40393f202c5a61c1f7b426139b29a1"
+                            },
+                            {
+                                "type": "CodeRedemption_340x440",
+                                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/fps_1200x1600-dd40393f202c5a61c1f7b426139b29a1"
+                            },
+                            {
+                                "type": "DieselStoreFrontWide",
+                                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/fps-2_2560x1440-1153471fec5f73c91eb8792904c7f2cc"
+                            },
+                            {
+                                "type": "DieselStoreFrontTall",
+                                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/fps_1200x1600-dd40393f202c5a61c1f7b426139b29a1"
+                            }
+                        ],
+                        "currentPrice": 20000,
+                        "seller": {
+                            "id": "o-236t9erksuklvbpwrddx5953wndtps",
+                            "name": "No More Robots"
+                        },
+                        "productSlug": "fashion-police-squad",
+                        "urlSlug": "blackchocolategeneralaudience",
+                        "url": null,
+                        "tags": [
+                            {
+                                "id": "1185"
+                            },
+                            {
+                                "id": "1210"
+                            },
+                            {
+                                "id": "1370"
+                            },
+                            {
+                                "id": "9547"
+                            },
+                            {
+                                "id": "1294"
+                            }
+                        ],
+                        "items": [
+                            {
+                                "id": "67d0e5ddc3bb4e4984bb5b965f6ac146",
+                                "namespace": "65d31d60510a49629a0b52e93da8416a"
+                            }
+                        ],
+                        "customAttributes": [
+                            {
+                                "key": "com.epicgames.app.blacklist",
+                                "value": "[]"
+                            },
+                            {
+                                "key": "publisherName",
+                                "value": "No More Robots"
+                            },
+                            {
+                                "key": "developerName",
+                                "value": "Mopeful Games"
+                            },
+                            {
+                                "key": "com.epicgames.app.productSlug",
+                                "value": "fashion-police-squad"
+                            }
+                        ],
+                        "categories": [
+                            {
+                                "path": "games"
+                            },
+                            {
+                                "path": "games/edition/base"
+                            },
+                            {
+                                "path": "games/edition"
+                            },
+                            {
+                                "path": "applications"
+                            }
+                        ],
+                        "catalogNs": {
+                            "mappings": [
+                                {
+                                    "pageSlug": "fashion-police-squad",
+                                    "pageType": "productHome"
+                                }
+                            ]
+                        },
+                        "offerMappings": [],
+                        "developerDisplayName": null,
+                        "publisherDisplayName": null,
+                        "price": {
+                            "totalPrice": {
+                                "discountPrice": 16000,
+                                "originalPrice": 20000,
+                                "voucherDiscount": 0,
+                                "discount": 4000,
+                                "currencyCode": "KRW",
+                                "currencyInfo": {
+                                    "decimals": 0
+                                },
+                                "fmtPrice": {
+                                    "originalPrice": "₩20,000",
+                                    "discountPrice": "₩16,000",
+                                    "intermediatePrice": "₩16,000"
+                                }
+                            },
+                            "lineOffers": [
+                                {
+                                    "appliedRules": [
+                                        {
+                                            "id": "cbaef2cdad9840d2a96c1da093af9917",
+                                            "endDate": "2022-12-18T14:00:00.000Z",
+                                            "discountSetting": {
+                                                "discountType": "PERCENTAGE"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "prePurchase": null,
+                        "releaseDate": "2022-08-15T15:00:00.000Z",
+                        "pcReleaseDate": "2022-08-15T15:00:00.000Z",
+                        "viewableDate": "2021-06-01T15:00:00.000Z",
+                        "approximateReleasePlan": null
+                    },
+                    {
+                        "title": "Deponia: The Complete Journey",
+                        "id": "abdae4ebcf3e41beb6ec8040d818afcd",
+                        "namespace": "e5decf71f325458b92653616ee98682a",
+                        "description": "Join Rufus on his thrilling journeys, for the first time in a complete edition with many new features, that will not only be a blast for hardcore adventure fans, but also those new to the genre.",
+                        "effectiveDate": "2021-04-15T15:00:00.000Z",
+                        "keyImages": [
+                            {
+                                "type": "OfferImageWide",
+                                "url": "https://cdn1.epicgames.com/e5decf71f325458b92653616ee98682a/offer/EGS_DeponiaTheCompleteJourney_DaedalicEntertainment_S3-2560x1440-df5c473a8d8af12e7f863ee0427c0548.jpg"
+                            },
+                            {
+                                "type": "OfferImageTall",
+                                "url": "https://cdn1.epicgames.com/e5decf71f325458b92653616ee98682a/offer/EGS_DeponiaTheCompleteJourney_DaedalicEntertainment_S4-1200x1600-f8cfe09916adfed9f6cf129febd48a6f.jpg"
+                            },
+                            {
+                                "type": "Thumbnail",
+                                "url": "https://cdn1.epicgames.com/e5decf71f325458b92653616ee98682a/offer/EGS_DeponiaTheCompleteJourney_DaedalicEntertainment_S4-1200x1600-f8cfe09916adfed9f6cf129febd48a6f.jpg"
+                            },
+                            {
+                                "type": "CodeRedemption_340x440",
+                                "url": "https://cdn1.epicgames.com/e5decf71f325458b92653616ee98682a/offer/EGS_DeponiaTheCompleteJourney_DaedalicEntertainment_S4-1200x1600-f8cfe09916adfed9f6cf129febd48a6f.jpg"
+                            },
+                            {
+                                "type": "DieselStoreFrontWide",
+                                "url": "https://cdn1.epicgames.com/e5decf71f325458b92653616ee98682a/offer/EGS_DeponiaTheCompleteJourney_DaedalicEntertainment_S3-2560x1440-df5c473a8d8af12e7f863ee0427c0548.jpg"
+                            },
+                            {
+                                "type": "DieselStoreFrontTall",
+                                "url": "https://cdn1.epicgames.com/e5decf71f325458b92653616ee98682a/offer/EGS_DeponiaTheCompleteJourney_DaedalicEntertainment_S4-1200x1600-f8cfe09916adfed9f6cf129febd48a6f.jpg"
+                            }
+                        ],
+                        "currentPrice": 37000,
+                        "seller": {
+                            "id": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+                            "name": "Daedalic Entertainment"
+                        },
+                        "productSlug": "deponia-the-complete-journey",
+                        "urlSlug": "ghoulgeneralaudience",
+                        "url": null,
+                        "tags": [
+                            {
+                                "id": "1298"
+                            },
+                            {
+                                "id": "16979"
+                            },
+                            {
+                                "id": "17493"
+                            },
+                            {
+                                "id": "21894"
+                            },
+                            {
+                                "id": "19242"
+                            },
+                            {
+                                "id": "18778"
+                            },
+                            {
+                                "id": "22810"
+                            },
+                            {
+                                "id": "9547"
+                            },
+                            {
+                                "id": "1116"
+                            },
+                            {
+                                "id": "1117"
+                            },
+                            {
+                                "id": "21150"
+                            },
+                            {
+                                "id": "15375"
+                            }
+                        ],
+                        "items": [
+                            {
+                                "id": "af0233e4d7724f78a5679a0a28b87839",
+                                "namespace": "e5decf71f325458b92653616ee98682a"
+                            }
+                        ],
+                        "customAttributes": [
+                            {
+                                "key": "com.epicgames.app.blacklist",
+                                "value": "[]"
+                            },
+                            {
+                                "key": "publisherName",
+                                "value": "Daedalic Entertainment"
+                            },
+                            {
+                                "key": "com.epicgames.app.productSlug",
+                                "value": "deponia-the-complete-journey"
+                            }
+                        ],
+                        "categories": [
+                            {
+                                "path": "games"
+                            },
+                            {
+                                "path": "games/edition"
+                            },
+                            {
+                                "path": "games/edition/base"
+                            }
+                        ],
+                        "catalogNs": {
+                            "mappings": [
+                                {
+                                    "pageSlug": "deponia-the-complete-journey",
+                                    "pageType": "productHome"
+                                }
+                            ]
+                        },
+                        "offerMappings": [],
+                        "developerDisplayName": null,
+                        "publisherDisplayName": null,
+                        "price": {
+                            "totalPrice": {
+                                "discountPrice": 3700,
+                                "originalPrice": 37000,
+                                "voucherDiscount": 0,
+                                "discount": 33300,
+                                "currencyCode": "KRW",
+                                "currencyInfo": {
+                                    "decimals": 0
+                                },
+                                "fmtPrice": {
+                                    "originalPrice": "₩37,000",
+                                    "discountPrice": "₩3,700",
+                                    "intermediatePrice": "₩3,700"
+                                }
+                            },
+                            "lineOffers": [
+                                {
+                                    "appliedRules": [
+                                        {
+                                            "id": "46d5afc984a44605855e97acf4f32e59",
+                                            "endDate": "2022-12-07T16:00:00.000Z",
+                                            "discountSetting": {
+                                                "discountType": "PERCENTAGE"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "prePurchase": null,
+                        "releaseDate": "2021-04-15T15:00:00.000Z",
+                        "pcReleaseDate": "2014-07-08T10:00:00.000Z",
+                        "viewableDate": "2021-04-08T14:25:00.000Z",
+                        "approximateReleasePlan": null
+                    },
+                    {
+                        "title": "Ken Follett's The Pillars of the Earth",
+                        "id": "ded5930173d5495993186871fbfd329a",
+                        "namespace": "ce8393adfbf342ceab0a36479ffbc627",
+                        "description": "12th century, England: In a time of poverty and war, a small town begins the construction of a cathedral to claim safety for its people. In their struggle to survive, destinies intertwine. Based on Ken Follett's world-bestseller ‘The Pillars of the Earth’.",
+                        "effectiveDate": "2021-04-15T15:00:00.000Z",
+                        "keyImages": [
+                            {
+                                "type": "OfferImageWide",
+                                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KenFollettsThePillarsoftheEarth_DaedalicEntertainment_S1_2560x1440-d6e940a0b8e56e26ed4e8f11e936b887"
+                            },
+                            {
+                                "type": "OfferImageTall",
+                                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KenFollettsThePillarsoftheEarth_DaedalicEntertainment_S2_1200x1600-7f09b826a330e216f32de8c86b2ac467"
+                            },
+                            {
+                                "type": "Thumbnail",
+                                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KenFollettsThePillarsoftheEarth_DaedalicEntertainment_S2_1200x1600-7f09b826a330e216f32de8c86b2ac467"
+                            },
+                            {
+                                "type": "CodeRedemption_340x440",
+                                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KenFollettsThePillarsoftheEarth_DaedalicEntertainment_S2_1200x1600-7f09b826a330e216f32de8c86b2ac467"
+                            },
+                            {
+                                "type": "DieselStoreFrontWide",
+                                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KenFollettsThePillarsoftheEarth_DaedalicEntertainment_S1_2560x1440-d6e940a0b8e56e26ed4e8f11e936b887"
+                            },
+                            {
+                                "type": "DieselStoreFrontTall",
+                                "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_KenFollettsThePillarsoftheEarth_DaedalicEntertainment_S2_1200x1600-7f09b826a330e216f32de8c86b2ac467"
+                            }
+                        ],
+                        "currentPrice": 25000,
+                        "seller": {
+                            "id": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+                            "name": "Daedalic Entertainment"
+                        },
+                        "productSlug": "ken-follets-the-pillars-of-the-earth",
+                        "urlSlug": "tiger-general-audience",
+                        "url": null,
+                        "tags": [
+                            {
+                                "id": "21123"
+                            },
+                            {
+                                "id": "21894"
+                            },
+                            {
+                                "id": "19847"
+                            },
+                            {
+                                "id": "9547"
+                            },
+                            {
+                                "id": "9549"
+                            },
+                            {
+                                "id": "1298"
+                            },
+                            {
+                                "id": "1395"
+                            },
+                            {
+                                "id": "16979"
+                            },
+                            {
+                                "id": "17493"
+                            },
+                            {
+                                "id": "1370"
+                            },
+                            {
+                                "id": "22810"
+                            },
+                            {
+                                "id": "1117"
+                            },
+                            {
+                                "id": "21151"
+                            }
+                        ],
+                        "items": [
+                            {
+                                "id": "abac089a64cd4d0a98f1fb8328a3f09f",
+                                "namespace": "ce8393adfbf342ceab0a36479ffbc627"
+                            }
+                        ],
+                        "customAttributes": [
+                            {
+                                "key": "com.epicgames.app.blacklist",
+                                "value": "[]"
+                            },
+                            {
+                                "key": "publisherName",
+                                "value": "Daedalic Entertainment"
+                            },
+                            {
+                                "key": "com.epicgames.app.productSlug",
+                                "value": "ken-follets-the-pillars-of-the-earth"
+                            }
+                        ],
+                        "categories": [
+                            {
+                                "path": "games"
+                            },
+                            {
+                                "path": "games/edition"
+                            },
+                            {
+                                "path": "games/edition/base"
+                            },
+                            {
+                                "path": "applications"
+                            }
+                        ],
+                        "catalogNs": {
+                            "mappings": [
+                                {
+                                    "pageSlug": "ken-follets-the-pillars-of-the-earth",
+                                    "pageType": "productHome"
+                                }
+                            ]
+                        },
+                        "offerMappings": [],
+                        "developerDisplayName": null,
+                        "publisherDisplayName": null,
+                        "price": {
+                            "totalPrice": {
+                                "discountPrice": 2500,
+                                "originalPrice": 25000,
+                                "voucherDiscount": 0,
+                                "discount": 22500,
+                                "currencyCode": "KRW",
+                                "currencyInfo": {
+                                    "decimals": 0
+                                },
+                                "fmtPrice": {
+                                    "originalPrice": "₩25,000",
+                                    "discountPrice": "₩2,500",
+                                    "intermediatePrice": "₩2,500"
+                                }
+                            },
+                            "lineOffers": [
+                                {
+                                    "appliedRules": [
+                                        {
+                                            "id": "df25bc6b51804719ad979a87790fa9d7",
+                                            "endDate": "2022-12-07T16:00:00.000Z",
+                                            "discountSetting": {
+                                                "discountType": "PERCENTAGE"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "prePurchase": null,
+                        "releaseDate": "2021-04-15T15:00:00.000Z",
+                        "pcReleaseDate": "2017-08-15T15:00:00.000Z",
+                        "viewableDate": "2021-04-08T14:25:00.000Z",
+                        "approximateReleasePlan": null
+                    },
+                    {
+                        "title": "Scrapnaut",
+                        "id": "e8f40aec9dbe49d4a3e98a9908382fdb",
+                        "namespace": "c1edd23d035a4df0bbc419f2d0fbb40d",
+                        "description": "Scrapnaut is a top-down, base building survival game with steampunk elements. Explore an open world with different biomes, take care of oxygen, manage your farms, generate electricity, build your home and much more!",
+                        "effectiveDate": "2021-03-03T16:00:00.000Z",
+                        "keyImages": [
+                            {
+                                "type": "OfferImageWide",
+                                "url": "https://cdn1.epicgames.com/c1edd23d035a4df0bbc419f2d0fbb40d/offer/egs-scrapnaut-spiffybit-s1-2560x1440-36d0a5291ea8-2560x1440-f96ff0fece55ae9542547e7e0ddec097.jpg"
+                            },
+                            {
+                                "type": "OfferImageTall",
+                                "url": "https://cdn1.epicgames.com/c1edd23d035a4df0bbc419f2d0fbb40d/offer/egs-scrapnaut-spiffybit-s2-1200x1600-c122d37a048e-1200x1600-7ee87251c36a90ed724dfa50e6aa29f7.jpg"
+                            },
+                            {
+                                "type": "Thumbnail",
+                                "url": "https://cdn1.epicgames.com/c1edd23d035a4df0bbc419f2d0fbb40d/offer/egs-scrapnaut-spiffybit-s2-1200x1600-c122d37a048e-1200x1600-7ee87251c36a90ed724dfa50e6aa29f7.jpg"
+                            },
+                            {
+                                "type": "CodeRedemption_340x440",
+                                "url": "https://cdn1.epicgames.com/c1edd23d035a4df0bbc419f2d0fbb40d/offer/egs-scrapnaut-spiffybit-s2-1200x1600-c122d37a048e-1200x1600-7ee87251c36a90ed724dfa50e6aa29f7.jpg"
+                            },
+                            {
+                                "type": "DieselStoreFrontWide",
+                                "url": "https://cdn1.epicgames.com/c1edd23d035a4df0bbc419f2d0fbb40d/offer/egs-scrapnaut-spiffybit-s1-2560x1440-36d0a5291ea8-2560x1440-f96ff0fece55ae9542547e7e0ddec097.jpg"
+                            },
+                            {
+                                "type": "DieselStoreFrontTall",
+                                "url": "https://cdn1.epicgames.com/c1edd23d035a4df0bbc419f2d0fbb40d/offer/egs-scrapnaut-spiffybit-s2-1200x1600-c122d37a048e-1200x1600-7ee87251c36a90ed724dfa50e6aa29f7.jpg"
+                            }
+                        ],
+                        "currentPrice": 14000,
+                        "seller": {
+                            "id": "o-e6zbx28e9zzbxg5jvzh37a3p5j8kam",
+                            "name": "RockGame S.A."
+                        },
+                        "productSlug": "scrapnaut",
+                        "urlSlug": "oscargeneralaudience",
+                        "url": null,
+                        "tags": [
+                            {
+                                "id": "1264"
+                            },
+                            {
+                                "id": "1381"
+                            },
+                            {
+                                "id": "22485"
+                            },
+                            {
+                                "id": "21894"
+                            },
+                            {
+                                "id": "1080"
+                            },
+                            {
+                                "id": "1370"
+                            },
+                            {
+                                "id": "18778"
+                            },
+                            {
+                                "id": "19242"
+                            },
+                            {
+                                "id": "1307"
+                            },
+                            {
+                                "id": "9547"
+                            },
+                            {
+                                "id": "15375"
+                            },
+                            {
+                                "id": "18607"
+                            }
+                        ],
+                        "items": [
+                            {
+                                "id": "5ce4f51e451840f1a9f6e4a1cc70ee62",
+                                "namespace": "c1edd23d035a4df0bbc419f2d0fbb40d"
+                            }
+                        ],
+                        "customAttributes": [
+                            {
+                                "key": "publisherName",
+                                "value": "RockGame S.A."
+                            },
+                            {
+                                "key": "developerName",
+                                "value": "SpiffyBit"
+                            },
+                            {
+                                "key": "com.epicgames.app.productSlug",
+                                "value": "scrapnaut"
+                            }
+                        ],
+                        "categories": [
+                            {
+                                "path": "games"
+                            },
+                            {
+                                "path": "games/edition"
+                            },
+                            {
+                                "path": "games/edition/base"
+                            }
+                        ],
+                        "catalogNs": {
+                            "mappings": [
+                                {
+                                    "pageSlug": "scrapnaut",
+                                    "pageType": "productHome"
+                                }
+                            ]
+                        },
+                        "offerMappings": [],
+                        "developerDisplayName": null,
+                        "publisherDisplayName": null,
+                        "price": {
+                            "totalPrice": {
+                                "discountPrice": 7000,
+                                "originalPrice": 14000,
+                                "voucherDiscount": 0,
+                                "discount": 7000,
+                                "currencyCode": "KRW",
+                                "currencyInfo": {
+                                    "decimals": 0
+                                },
+                                "fmtPrice": {
+                                    "originalPrice": "₩14,000",
+                                    "discountPrice": "₩7,000",
+                                    "intermediatePrice": "₩7,000"
+                                }
+                            },
+                            "lineOffers": [
+                                {
+                                    "appliedRules": [
+                                        {
+                                            "id": "26256d4b980f4632ba526cc145953ddd",
+                                            "endDate": "2022-12-03T20:00:00.000Z",
+                                            "discountSetting": {
+                                                "discountType": "PERCENTAGE"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "prePurchase": null,
+                        "releaseDate": "2021-03-03T16:00:00.000Z",
+                        "pcReleaseDate": null,
+                        "viewableDate": "2021-02-23T19:00:00.000Z",
+                        "approximateReleasePlan": null
+                    },
+                    {
+                        "title": "AER Memories of Old",
+                        "id": "ddbac5b8afd64e36a63d6904e0ef7e41",
+                        "namespace": "f3720f53cccb4a20841a392a8ea0457f",
+                        "description": "Transform into a bird and fly to explore and experience a vibrant world of floating islands in the sky. Venture down into lost ancient ruins where each step leads you closer to the end of the world.",
+                        "effectiveDate": "2020-06-25T15:00:00.000Z",
+                        "keyImages": [
+                            {
+                                "type": "OfferImageWide",
+                                "url": "https://cdn1.epicgames.com/f3720f53cccb4a20841a392a8ea0457f/offer/EGS_AERMemoriesofOld_ForgottenKey_S3-2560x1440-72330b37a0acda88398b4c73cbbaf4f0.jpg"
+                            },
+                            {
+                                "type": "OfferImageTall",
+                                "url": "https://cdn1.epicgames.com/f3720f53cccb4a20841a392a8ea0457f/offer/EGS_AERMemoriesofOld_ForgottenKey_S2-1200x1600-54da10a6ade9e99d9a469d5ee1c4a5e1.jpg"
+                            },
+                            {
+                                "type": "Thumbnail",
+                                "url": "https://cdn1.epicgames.com/f3720f53cccb4a20841a392a8ea0457f/offer/EGS_AERMemoriesofOld_ForgottenKey_S2-1200x1600-54da10a6ade9e99d9a469d5ee1c4a5e1.jpg"
+                            },
+                            {
+                                "type": "CodeRedemption_340x440",
+                                "url": "https://cdn1.epicgames.com/f3720f53cccb4a20841a392a8ea0457f/offer/EGS_AERMemoriesofOld_ForgottenKey_S2-1200x1600-54da10a6ade9e99d9a469d5ee1c4a5e1.jpg"
+                            },
+                            {
+                                "type": "DieselStoreFrontWide",
+                                "url": "https://cdn1.epicgames.com/f3720f53cccb4a20841a392a8ea0457f/offer/EGS_AERMemoriesofOld_ForgottenKey_S3-2560x1440-72330b37a0acda88398b4c73cbbaf4f0.jpg"
+                            },
+                            {
+                                "type": "DieselStoreFrontTall",
+                                "url": "https://cdn1.epicgames.com/f3720f53cccb4a20841a392a8ea0457f/offer/EGS_AERMemoriesofOld_ForgottenKey_S4-1200x1600-5be9e6012419c8fce4e0daf19be84703.jpg"
+                            }
+                        ],
+                        "currentPrice": 15000,
+                        "seller": {
+                            "id": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+                            "name": "Daedalic Entertainment"
+                        },
+                        "productSlug": "aer-memories-of-old",
+                        "urlSlug": "gargeneralaudience",
+                        "url": null,
+                        "tags": [
+                            {
+                                "id": "14944"
+                            },
+                            {
+                                "id": "1381"
+                            },
+                            {
+                                "id": "14346"
+                            },
+                            {
+                                "id": "19242"
+                            },
+                            {
+                                "id": "9547"
+                            },
+                            {
+                                "id": "16011"
+                            },
+                            {
+                                "id": "15375"
+                            },
+                            {
+                                "id": "16979"
+                            },
+                            {
+                                "id": "17493"
+                            },
+                            {
+                                "id": "1370"
+                            },
+                            {
+                                "id": "18778"
+                            },
+                            {
+                                "id": "22810"
+                            },
+                            {
+                                "id": "1307"
+                            },
+                            {
+                                "id": "1117"
+                            }
+                        ],
+                        "items": [
+                            {
+                                "id": "e3528b43021a48f3b66fdab5baf4ee5e",
+                                "namespace": "f3720f53cccb4a20841a392a8ea0457f"
+                            }
+                        ],
+                        "customAttributes": [
+                            {
+                                "key": "com.epicgames.app.blacklist",
+                                "value": "[]"
+                            },
+                            {
+                                "key": "publisherName",
+                                "value": "Daedalic Entertainment"
+                            },
+                            {
+                                "key": "developerName",
+                                "value": "Forgotten Key"
+                            },
+                            {
+                                "key": "com.epicgames.app.productSlug",
+                                "value": "aer-memories-of-old"
+                            }
+                        ],
+                        "categories": [
+                            {
+                                "path": "games"
+                            },
+                            {
+                                "path": "games/edition/base"
+                            },
+                            {
+                                "path": "games/edition"
+                            },
+                            {
+                                "path": "applications"
+                            }
+                        ],
+                        "catalogNs": {
+                            "mappings": [
+                                {
+                                    "pageSlug": "aer-memories-of-old",
+                                    "pageType": "productHome"
+                                }
+                            ]
+                        },
+                        "offerMappings": [],
+                        "developerDisplayName": null,
+                        "publisherDisplayName": null,
+                        "price": {
+                            "totalPrice": {
+                                "discountPrice": 1500,
+                                "originalPrice": 15000,
+                                "voucherDiscount": 0,
+                                "discount": 13500,
+                                "currencyCode": "KRW",
+                                "currencyInfo": {
+                                    "decimals": 0
+                                },
+                                "fmtPrice": {
+                                    "originalPrice": "₩15,000",
+                                    "discountPrice": "₩1,500",
+                                    "intermediatePrice": "₩1,500"
+                                }
+                            },
+                            "lineOffers": [
+                                {
+                                    "appliedRules": [
+                                        {
+                                            "id": "29ab9ce705854e1ca379979d9659e53a",
+                                            "endDate": "2022-12-07T16:00:00.000Z",
+                                            "discountSetting": {
+                                                "discountType": "PERCENTAGE"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "prePurchase": null,
+                        "releaseDate": "2020-06-25T15:00:00.000Z",
+                        "pcReleaseDate": null,
+                        "viewableDate": null,
+                        "approximateReleasePlan": null
+                    },
+                    {
+                        "title": "Shadow Tactics: Blades of the Shogun",
+                        "id": "aec117239abd49a08eddc9e75a981fa3",
+                        "namespace": "2f215955790d456b80c291bc2feaf7f7",
+                        "description": "Shadow Tactics is a hardcore tactical stealth game set in Japan around the Edo period. A new Shogun seizes power over Japan and enforces nationwide peace. He recruits five specialists with extraordinary skills for assassination, sabotage and espionage.",
+                        "effectiveDate": "2019-12-28T16:00:00.000Z",
+                        "keyImages": [
+                            {
+                                "type": "DieselStoreFrontWide",
+                                "url": "https://cdn1.epicgames.com/undefined/offer/EGS_MimimiGames_ShadowTacticsBladesoftheShogun_S3-1360x766-216c2e04b177c6b7252f1f535edef030.jpg"
+                            },
+                            {
+                                "type": "DieselStoreFrontTall",
+                                "url": "https://cdn1.epicgames.com/undefined/offer/EGS_MimimiGames_ShadowTacticsBladesoftheShogun_S4-510x680-f62935abb1b2bd42b2f19f9385da7fe7.jpg"
+                            },
+                            {
+                                "type": "OfferImageTall",
+                                "url": "https://cdn1.epicgames.com/undefined/offer/EGS_MimimiGames_ShadowTacticsBladesoftheShogun_S4-510x680-f62935abb1b2bd42b2f19f9385da7fe7.jpg"
+                            },
+                            {
+                                "type": "Thumbnail",
+                                "url": "https://cdn1.epicgames.com/2f215955790d456b80c291bc2feaf7f7/offer/EGS_MimimiGames_ShadowTacticsBladesoftheShogun_S4-510x680-f62935abb1b2bd42b2f19f9385da7fe7.jpg"
+                            },
+                            {
+                                "type": "CodeRedemption_340x440",
+                                "url": "https://cdn1.epicgames.com/2f215955790d456b80c291bc2feaf7f7/offer/EGS_MimimiGames_ShadowTacticsBladesoftheShogun_S4-510x680-f62935abb1b2bd42b2f19f9385da7fe7.jpg"
+                            },
+                            {
+                                "type": "OfferImageWide",
+                                "url": "https://cdn1.epicgames.com/undefined/offer/EGS_MimimiGames_ShadowTacticsBladesoftheShogun_S3-1360x766-216c2e04b177c6b7252f1f535edef030.jpg"
+                            }
+                        ],
+                        "currentPrice": 43000,
+                        "seller": {
+                            "id": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+                            "name": "Daedalic Entertainment"
+                        },
+                        "productSlug": "shadow-tactics/home",
+                        "urlSlug": "fangtoothgeneralaudience",
+                        "url": null,
+                        "tags": [
+                            {
+                                "id": "14944"
+                            },
+                            {
+                                "id": "21122"
+                            },
+                            {
+                                "id": "1188"
+                            },
+                            {
+                                "id": "21127"
+                            },
+                            {
+                                "id": "21129"
+                            },
+                            {
+                                "id": "14346"
+                            },
+                            {
+                                "id": "19242"
+                            },
+                            {
+                                "id": "9547"
+                            },
+                            {
+                                "id": "16011"
+                            },
+                            {
+                                "id": "15375"
+                            },
+                            {
+                                "id": "21138"
+                            },
+                            {
+                                "id": "16979"
+                            },
+                            {
+                                "id": "21139"
+                            },
+                            {
+                                "id": "21140"
+                            },
+                            {
+                                "id": "17493"
+                            },
+                            {
+                                "id": "21141"
+                            },
+                            {
+                                "id": "1370"
+                            },
+                            {
+                                "id": "18778"
+                            },
+                            {
+                                "id": "22810"
+                            },
+                            {
+                                "id": "1115"
+                            },
+                            {
+                                "id": "1084"
+                            },
+                            {
+                                "id": "21149"
+                            },
+                            {
+                                "id": "21119"
+                            }
+                        ],
+                        "items": [
+                            {
+                                "id": "889ac01c253348cab7f3ac9186998b6a",
+                                "namespace": "2f215955790d456b80c291bc2feaf7f7"
+                            }
+                        ],
+                        "customAttributes": [
+                            {
+                                "key": "com.epicgames.app.blacklist",
+                                "value": "[]"
+                            },
+                            {
+                                "key": "publisherName",
+                                "value": "Daedalic Entertainment"
+                            },
+                            {
+                                "key": "developerName",
+                                "value": "Mimimi Games"
+                            },
+                            {
+                                "key": "com.epicgames.app.productSlug",
+                                "value": "shadow-tactics/home"
+                            }
+                        ],
+                        "categories": [
+                            {
+                                "path": "games"
+                            },
+                            {
+                                "path": "games/edition/base"
+                            },
+                            {
+                                "path": "games/edition"
+                            },
+                            {
+                                "path": "applications"
+                            }
+                        ],
+                        "catalogNs": {
+                            "mappings": [
+                                {
+                                    "pageSlug": "shadow-tactics",
+                                    "pageType": "productHome"
+                                }
+                            ]
+                        },
+                        "offerMappings": [],
+                        "developerDisplayName": null,
+                        "publisherDisplayName": null,
+                        "price": {
+                            "totalPrice": {
+                                "discountPrice": 4300,
+                                "originalPrice": 43000,
+                                "voucherDiscount": 0,
+                                "discount": 38700,
+                                "currencyCode": "KRW",
+                                "currencyInfo": {
+                                    "decimals": 0
+                                },
+                                "fmtPrice": {
+                                    "originalPrice": "₩43,000",
+                                    "discountPrice": "₩4,300",
+                                    "intermediatePrice": "₩4,300"
+                                }
+                            },
+                            "lineOffers": [
+                                {
+                                    "appliedRules": [
+                                        {
+                                            "id": "971cc877c3294a8cada3ddae4f257bc7",
+                                            "endDate": "2022-12-07T16:00:00.000Z",
+                                            "discountSetting": {
+                                                "discountType": "PERCENTAGE"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "prePurchase": null,
+                        "releaseDate": "2018-12-06T12:00:00.000Z",
+                        "pcReleaseDate": null,
+                        "viewableDate": null,
+                        "approximateReleasePlan": null
+                    },
+                    {
+                        "title": "Tom Clancy's Rainbow Six® Siege",
+                        "id": "9f47dad590a44949b1e2eb519adc0ca1",
+                        "namespace": "carnation",
+                        "description": "Tom Clancy's Rainbow Six® Siege is an elite, tactical team-based shooter where superior planning and execution triumph.",
+                        "effectiveDate": "2019-08-19T00:00:00.000Z",
+                        "keyImages": [
+                            {
+                                "type": "OfferImageWide",
+                                "url": "https://cdn1.epicgames.com/offer/carnation/Share_Image_1920x1080-3_1920x1080-6e2d079f24db0a35285007191358978b"
+                            },
+                            {
+                                "type": "OfferImageTall",
+                                "url": "https://cdn1.epicgames.com/offer/carnation/Carousel_BoxArt_1200x1600_1200x1600-6888b9d57181d8fcfb3472a7f70ecc49"
+                            },
+                            {
+                                "type": "Thumbnail",
+                                "url": "https://cdn1.epicgames.com/offer/carnation/Carousel_BoxArt_1200x1600_1200x1600-6888b9d57181d8fcfb3472a7f70ecc49"
+                            }
+                        ],
+                        "currentPrice": 22000,
+                        "seller": {
+                            "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+                            "name": "Ubisoft Entertainment"
+                        },
+                        "productSlug": "rainbow-six-siege/home",
+                        "urlSlug": "carnationgeneraly5year6audience",
+                        "url": null,
+                        "tags": [
+                            {
+                                "id": "1216"
+                            },
+                            {
+                                "id": "21129"
+                            },
+                            {
+                                "id": "16011"
+                            },
+                            {
+                                "id": "9547"
+                            },
+                            {
+                                "id": "9549"
+                            },
+                            {
+                                "id": "15375"
+                            },
+                            {
+                                "id": "1264"
+                            },
+                            {
+                                "id": "1203"
+                            },
+                            {
+                                "id": "1299"
+                            },
+                            {
+                                "id": "16979"
+                            },
+                            {
+                                "id": "21140"
+                            },
+                            {
+                                "id": "17493"
+                            },
+                            {
+                                "id": "21141"
+                            },
+                            {
+                                "id": "1210"
+                            },
+                            {
+                                "id": "1115"
+                            },
+                            {
+                                "id": "21149"
+                            }
+                        ],
+                        "items": [
+                            {
+                                "id": "cb8a106c79904e35859a3f4c3043ecd7",
+                                "namespace": "carnation"
+                            },
+                            {
+                                "id": "cff0f9b5bc9f4d6d801ca7033f463259",
+                                "namespace": "carnation"
+                            },
+                            {
+                                "id": "45ab2992071f471abec46c5b27e12888",
+                                "namespace": "carnation"
+                            },
+                            {
+                                "id": "c023c1be61c2404382c815983e4704fb",
+                                "namespace": "carnation"
+                            }
+                        ],
+                        "customAttributes": [
+                            {
+                                "key": "com.epicgames.app.blacklist",
+                                "value": "CN"
+                            },
+                            {
+                                "key": "developerName",
+                                "value": "Ubisoft"
+                            },
+                            {
+                                "key": "com.epicgames.app.productSlug",
+                                "value": "rainbow-six-siege/home"
+                            }
+                        ],
+                        "categories": [
+                            {
+                                "path": "games"
+                            },
+                            {
+                                "path": "games/edition/base"
+                            },
+                            {
+                                "path": "games/edition"
+                            },
+                            {
+                                "path": "applications"
+                            }
+                        ],
+                        "catalogNs": {
+                            "mappings": [
+                                {
+                                    "pageSlug": "rainbow-six-siege",
+                                    "pageType": "productHome"
+                                }
+                            ]
+                        },
+                        "offerMappings": [],
+                        "developerDisplayName": null,
+                        "publisherDisplayName": null,
+                        "price": {
+                            "totalPrice": {
+                                "discountPrice": 8800,
+                                "originalPrice": 22000,
+                                "voucherDiscount": 0,
+                                "discount": 13200,
+                                "currencyCode": "KRW",
+                                "currencyInfo": {
+                                    "decimals": 0
+                                },
+                                "fmtPrice": {
+                                    "originalPrice": "₩22,000",
+                                    "discountPrice": "₩8,800",
+                                    "intermediatePrice": "₩8,800"
+                                }
+                            },
+                            "lineOffers": [
+                                {
+                                    "appliedRules": [
+                                        {
+                                            "id": "ff52011bd301404385688d73aaa9f3c7",
+                                            "endDate": "2022-12-08T16:00:00.000Z",
+                                            "discountSetting": {
+                                                "discountType": "PERCENTAGE"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "prePurchase": false,
+                        "releaseDate": "2022-12-01T16:00:00.000Z",
+                        "pcReleaseDate": null,
+                        "viewableDate": null,
+                        "approximateReleasePlan": null
+                    }
+                ],
+                "paging": {
+                    "count": 200,
+                    "total": 22
+                }
+            }
+        }
+    },
+    "extensions": {}
+}
