@@ -14,7 +14,7 @@
 
 ## About The Project
 
-- THUMBNAIL TBA
+![image info](./src/mainpage.png)
 
 SteamTracker is an open-source web project designed to provide personalized STEAM games for your needs. Not only do we provide a list of game info, we also provide sorting as well as a place to store your favourites.
 
