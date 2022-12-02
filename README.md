@@ -113,7 +113,7 @@ After browsing through all the deals provided, you will want a place to store yo
 
 ## Presentation<a name="presentation"></a>
 
-Link to Youtube TBA
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hoCoOwx7QhY/0.jpg)](https://youtu.be/hoCoOwx7QhY)
 
 <!-- LICENSE -->
 
