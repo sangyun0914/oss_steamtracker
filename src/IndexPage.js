@@ -56,6 +56,13 @@ const IntroductionContent = styled.div`
   height: 400px;
 `
 
+const CheckBox = styled.div`
+  width: 30px;
+  height: 30px;
+
+  border: 1px solid red;
+`
+
 const IndexPage = (props) => {
   const [displayList, setDIsplayList] = useState([])
   //const [beforeSearchList, setBeforeSearchList] = useState([])
@@ -76,6 +83,29 @@ const IndexPage = (props) => {
 
   const [activeIndex, setActiveIndex] = useState(0)
   const [isMenuOpen, setIsMenuOpen] = useState(0)
+  // const [isChecked, setIsChecked] = useState([])
+
+  // const checkboxHandler = () => {
+  //   if(isChecked[])
+  // }
+  const wishlist = []
+
+  const checkboxHand = (e, idx) => {
+    let isDup = 0
+    for (let i = 0; i < wishlist.length; i++) {
+      if (wishlist[i].title === displayList[idx].title) {
+        isDup = 1
+        wishlist.splice(i, 1)
+        break
+      }
+    }
+    if (!isDup) wishlist.push(displayList[idx])
+    console.log(wishlist)
+
+    window.localStorage.clear()
+    const wishlistString = JSON.stringify(wishlist)
+    window.localStorage.setItem('wishlist', wishlistString)
+  }
 
   const menuClickHandler = () => {
     if (isMenuOpen) setIsMenuOpen(0)
@@ -163,26 +193,31 @@ const IndexPage = (props) => {
       {displayList.map((item, index) => {
         return (
           <li class="forSteamData">
-            <></>
-            <li class="dataimg">
-              <a href={item.link}>
-                <img src={item.imgSmall} />
+            <input
+              type="checkbox"
+              onChange={(e) => {
+                checkboxHand(e, index)
+              }}
+            />
+            <ul class="dataimg">
+              <a class="imgCell" href={item.link}>
+                <img class="forImg" src={item.imgSmall} />
               </a>
-            </li>
-            <li class="dataTitle">
+            </ul>
+            <ul class="dataTitle">
               <a href={item.link}>{item.title}</a>
-            </li>
-            <li class="nomalPrice">
+            </ul>
+            <ul class="nomalPrice">
               {item.price === 0 ? 'Free game.' : item.price}
-            </li>
-            <li class="discountRate">
+            </ul>
+            <ul class="discountRate">
               {item['discount rate'] === null
                 ? 'No discount.'
                 : item['discount rate']}{' '}
-            </li>
-            <li class="discountedPrice">
+            </ul>
+            <ul class="discountedPrice">
               {item.discounted === 0 ? 'Free game.' : item.discounted}
-            </li>
+            </ul>
             <li class="Ratings">{item.rating}</li>
           </li>
         )

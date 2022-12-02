@@ -50,9 +50,16 @@ li {
   flex-direction: row;
   height: 60px;
 }
+.dataimg {
+  object-fit: fill;
+
+  margin-left: 10px;
+  width: 100px;
+  height: 40px;
+}
 .forSteamData .dataTitle {
   margin-left: 10px;
-  width: 500px;
+  width: 250px;
 }
 .forSteamData .nomalPrice {
   margin-left: 10px;
@@ -71,6 +78,10 @@ li {
 }
 .forSteamData .Ratings {
   margin-left: 10px;
-  width: 480px;
+  width: 240px;
   text-align: left;
+}
+
+.forImg {
+  object-fit: fill;
 }
