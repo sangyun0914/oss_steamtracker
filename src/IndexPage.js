@@ -8,10 +8,10 @@ import Header from './components/Header'
 
 const SortContainer = styled.div`
   position: absolute;
-  top: 100px;
-  left: 100px;
+  top: 445px;
+  left: calc(50vw - 590px + 180px);
 
-  width: 100px;
+  width: 120px;
   height: 50px;
 
   overflow: hidden;
@@ -23,10 +23,12 @@ const SortContainer = styled.div`
   z-index: 100000;
 
   transition: 0.3s ease-out;
+  font-size: 0.8rem;
+  color: white;
 `
 
 const SortTitle = styled.div`
-  width: 100px;
+  width: 120px;
   height: 50px;
   background: gray;
   display: flex;
@@ -37,18 +39,29 @@ const SortTitle = styled.div`
 `
 
 const SortItems = styled.div`
-  width: 100px;
+  width: 120px;
   height: 50px;
   background: gray;
 
   color: white;
-
-  top: 10px
-  //display: none;
-  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   cursor: pointer;
 
   transition: 0.3s ease-out;
+`
+const InputBox = styled.input`
+  position: absolute;
+  top: 450px;
+  left: calc(50vw - 590px);
+
+  box-sizing: borderbox;
+  padding: 0 5px;
+  width: 150px;
+  height: 30px;
+
+  overflow: hidden;
 `
 
 const IntroductionContent = styled.div`
@@ -62,12 +75,16 @@ const CheckBox = styled.div`
 
   border: 1px solid red;
 `
-
+// const MainContainer = (i) =>{
+//   return (<>
+//     {i? ()}
+//   </>)
+// }
 const IndexPage = (props) => {
   const [displayList, setDIsplayList] = useState([])
   //const [beforeSearchList, setBeforeSearchList] = useState([])
 
-  const [nowList, setNowList] = useState(0)
+  const [nowList, setNowList] = useState(1)
   const clickHandler = (i) => {
     setNowList(i)
   }
@@ -122,7 +139,7 @@ const IndexPage = (props) => {
       <Header />
       <SortContainer
         style={{
-          width: isMenuOpen ? 700 : 100,
+          width: isMenuOpen ? 840 : 120,
         }}
       >
         <SortTitle
@@ -137,7 +154,10 @@ const IndexPage = (props) => {
             clickHandler(1)
             setIsMenuOpen(0)
           }}
-          style={{ width: isMenuOpen ? '100px' : '0' }}
+          style={{
+            width: isMenuOpen ? '120px' : '0',
+            visibility: isMenuOpen ? 'visible' : 'hidden',
+          }}
         >
           Lowest Price
         </SortItems>
@@ -146,7 +166,10 @@ const IndexPage = (props) => {
             clickHandler(2)
             setIsMenuOpen(0)
           }}
-          style={{ width: isMenuOpen ? '100px' : '0' }}
+          style={{
+            width: isMenuOpen ? '120px' : '0',
+            visibility: isMenuOpen ? 'visible' : 'hidden',
+          }}
         >
           Highest Price
         </SortItems>
@@ -155,7 +178,10 @@ const IndexPage = (props) => {
             clickHandler(3)
             setIsMenuOpen(0)
           }}
-          style={{ width: isMenuOpen ? '100px' : '0' }}
+          style={{
+            width: isMenuOpen ? '120px' : '0',
+            visibility: isMenuOpen ? 'visible' : 'hidden',
+          }}
         >
           Lowest Discount Rate
         </SortItems>
@@ -164,7 +190,10 @@ const IndexPage = (props) => {
             clickHandler(4)
             setIsMenuOpen(0)
           }}
-          style={{ width: isMenuOpen ? '100px' : '0' }}
+          style={{
+            width: isMenuOpen ? '120px' : '0',
+            visibility: isMenuOpen ? 'visible' : 'hidden',
+          }}
         >
           Highest Discount Rate
         </SortItems>
@@ -173,7 +202,10 @@ const IndexPage = (props) => {
             clickHandler(5)
             setIsMenuOpen(0)
           }}
-          style={{ width: isMenuOpen ? '100px' : '0' }}
+          style={{
+            width: isMenuOpen ? '120px' : '0',
+            visibility: isMenuOpen ? 'visible' : 'hidden',
+          }}
         >
           Lowest User Rate
         </SortItems>
@@ -182,17 +214,20 @@ const IndexPage = (props) => {
             clickHandler(6)
             setIsMenuOpen(0)
           }}
-          style={{ width: isMenuOpen ? '100px' : '0' }}
+          style={{
+            width: isMenuOpen ? '120px' : '0',
+            visibility: isMenuOpen ? 'visible' : 'hidden',
+          }}
         >
           Highest User Rate
         </SortItems>
       </SortContainer>
-      <IntroductionContent>
-        <input onChange={search}></input>
-      </IntroductionContent>
+      <InputBox onChange={search} placeholder="Search" />
+
+      <IntroductionContent></IntroductionContent>
       {displayList.map((item, index) => {
         return (
-          <li class="forSteamData">
+          <li class={item.platform}>
             <input
               type="checkbox"
               onChange={(e) => {
@@ -200,15 +235,23 @@ const IndexPage = (props) => {
               }}
             />
             <ul class="dataimg">
-              <a class="imgCell" href={item.link}>
-                <img class="forImg" src={item.imgSmall} />
+              <a href={item.link}>
+                {item.platform == 'steam' ? (
+                  <div class="imgCell">
+                    <img class="forImg" src={item.imgSmall} />
+                  </div>
+                ) : (
+                  <div class="imgCellEpic">
+                    <img class="forImg" src={item.imgSmall} />
+                  </div>
+                )}
               </a>
             </ul>
             <ul class="dataTitle">
               <a href={item.link}>{item.title}</a>
             </ul>
             <ul class="nomalPrice">
-              {item.price === 0 ? 'Free game.' : item.price}
+              {item.price === 0 ? 'Free game.' : item.price} &#8361;
             </ul>
             <ul class="discountRate">
               {item['discount rate'] === null
@@ -216,9 +259,11 @@ const IndexPage = (props) => {
                 : item['discount rate']}{' '}
             </ul>
             <ul class="discountedPrice">
-              {item.discounted === 0 ? 'Free game.' : item.discounted}
+              {item.discounted === 0 ? 'Free game.' : item.discounted} &#8361;
             </ul>
-            <li class="Ratings">{item.rating}</li>
+            <ul class="Ratings">
+              {item.rating === null ? 'No user Ratings.' : item.rating}
+            </ul>
           </li>
         )
       })}

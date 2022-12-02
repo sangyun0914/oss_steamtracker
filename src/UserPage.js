@@ -20,17 +20,25 @@ const UserPage = () => {
       <Header></Header>
       {wisharray.map((item, index) => {
         return (
-          <li class="forSteamData">
+          <li class={item.platform}>
             <ul class="dataimg">
               <a href={item.link}>
-                <img src={item.imgSmall} />
+                {item.platform == 'steam' ? (
+                  <div class="imgCell">
+                    <img class="forImg" src={item.imgSmall} />
+                  </div>
+                ) : (
+                  <div class="imgCellEpic">
+                    <img class="forImg" src={item.imgSmall} />
+                  </div>
+                )}
               </a>
             </ul>
             <ul class="dataTitle">
               <a href={item.link}>{item.title}</a>
             </ul>
             <ul class="nomalPrice">
-              {item.price === 0 ? 'Free game.' : item.price}
+              {item.price === 0 ? 'Free game.' : item.price} &#8361;
             </ul>
             <ul class="discountRate">
               {item['discount rate'] === null
@@ -38,9 +46,11 @@ const UserPage = () => {
                 : item['discount rate']}{' '}
             </ul>
             <ul class="discountedPrice">
-              {item.discounted === 0 ? 'Free game.' : item.discounted}
+              {item.discounted === 0 ? 'Free game.' : item.discounted} &#8361;
             </ul>
-            <li class="Ratings">{item.rating}</li>
+            <ul class="Ratings">
+              {item.rating === null ? 'No user Ratings.' : item.rating}
+            </ul>
           </li>
         )
       })}

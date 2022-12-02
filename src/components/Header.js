@@ -17,13 +17,13 @@ const HeaderLogo = styled(Link)`
   font-size: 2rem;
   text-decoration: none;
   color: black;
-
+  cursor: pointer;
   font-weight: bold;
 `
 
 const HeaderButton = styled(Link)`
   width: 100px;
-  height: 100px;
+  height: 30px;
   display: flex;
   align-items: center;
   justify-content: center;
