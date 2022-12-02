@@ -47,7 +47,7 @@ export function search_title(game_list, substirng) {
 }
 //select platform
 export function select_platform(game_list, platform) {
-    return game_list.filter((game) => game.platform.some((element) => element === platform))
+    return game_list.filter((game) => game.platform === platform)
 }
 
 // load game list
@@ -55,12 +55,6 @@ export function load_list(user_select) {
     let game_list = game_data.filter((game) => {
         return 1
     })
-
-    if (user_select.title) game_list = search_title(game_list, user_select.title)
-
-    if (user_select.platform) user_select.platform.forEach(plat => {
-        game_list = select_platform(game_list, plat)
-    });
 
     if (user_select === 1) lowest_price(game_list)
     else if (user_select === 2) highest_price(game_list)
@@ -72,16 +66,3 @@ export function load_list(user_select) {
     return game_list
 }
 
-export const Order_type = {
-    default: 0,
-    'lowest price': 1,
-    'higest price': 2,
-    'lowest rate': 3,
-    'higest rate': 4,
-    'lowest rating': 5,
-    'highest rating': 6,
-}
-
-
-export let game_list = load_list(6)
-game_list.forEach((e) => console.log(e.rating));
