@@ -1,12 +1,14 @@
 <a name="readme-top"></a>
 
 <div>
-<h1 align="center">✨ SteamTracker for SKKU</h3>
+<h1 align="center">✨ SaleTracker for SKKU</h3>
 <h3 align="center">All the game deals in one place</h3>
   <p align="center">
     <a href="#presentation">View presentation</a>
     ·
     <a href=https://github.com/seeewd/oss_steamtracker/issues>Report Bug</a>
+        ·
+    <a href="https://github.com/seeewd/oss_steamtracker/issues">Request Feature</a>
   </p>
 </div>
 
@@ -14,9 +16,9 @@
 
 ## About The Project
 
-![image info](./src/mainpage.png)
+![image info](./src/photos/mainpage.png)
 
-SteamTracker is an open-source web project designed to provide personalized STEAM games for your needs. Not only do we provide a list of game info, we also provide sorting as well as a place to store your favourites.
+SaleTracker is an open-source web project designed to provide multi-platform game deals for your needs. Not only do we provide a list of game info, we also provide sorting as well as a place to store your favourites.
 
 - <strong>Provides games from both STEAM and Epic Games</strong>
 - <strong>Provides joint sorting and searching games for both platforms according to your needs</strong>
@@ -26,7 +28,7 @@ SteamTracker is an open-source web project designed to provide personalized STEA
 
 ## Getting Started
 
-You can either: Access SteamTracker online or build from source.
+You can either: Access SaleTracker online or build from source.
 
 ### 🔗 Link
 
@@ -91,9 +93,21 @@ Default scraper execution results to scraping top 100 games. numGames should be 
 
 ## Usage
 
-- **Features with Screenshots TBA**.
-- **Features with Screenshots TBA**.
-- **Features with Screenshots TBA**.
+### Feature: Games from both STEAM and Epic Games
+
+![image info](./src/photos/Feature1.png)
+You can browse all the games provided by both platforms, which are color coded accordingly. There is no need for you to check one site after another!
+
+### Sorting and searching games for both platforms
+
+![image info](./src/photos/Feature2.png)
+![image info](./src/photos/Feature2_1.png)
+We provide extensive sorting methods as well as searching for your convenience. From lowest price, highest discount rate to highest user rate, we provide multi-platform sorting and searching. You will know where to buy the games and will not miss out on any deals!
+
+### Provides a 'Wish List' to store your favourites
+
+![image info](./src/photos/Feature3.png)
+After browsing through all the deals provided, you will want a place to store your wish lists. We provide a storage for your favourite games for you to come back and check the deals!
 
 <!-- Presentation -->
 
